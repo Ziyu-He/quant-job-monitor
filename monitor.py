@@ -1816,8 +1816,14 @@ def send_daily_summary(found: list[dict], companies_checked: int):
             seen_keys.add(key)
             deduped.append(it)
     found = deduped
-    # Sort by location priority: US > London > HK > SG > Netherlands > other
-    found = sorted(found, key=lambda x: _location_rank(x.get("location", "")))
+    # Sort: 官网(careers)岗位优先 — they carry a real single-job apply link and
+    # are higher-signal than LinkedIn, so they lead the digest (previously they
+    # have no `location` field and got dumped to the very bottom as "other").
+    # Within each source, order by location priority: US > London > HK > SG > NL > other.
+    found = sorted(found, key=lambda x: (
+        1 if x.get("source", "careers") == "linkedin" else 0,
+        _location_rank(x.get("location", "")),
+    ))
     today = datetime.now().strftime("%Y-%m-%d")
     if not found:
         subject = f"[Job Monitor] {today} — 今日无新岗位"
