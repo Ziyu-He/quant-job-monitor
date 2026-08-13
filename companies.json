@@ -1,0 +1,1417 @@
+[
+  {
+    "id": "379ea971-7118-8157-94d3-dd5bbf296f5e",
+    "name": "Chicago Trading Company (CTC)",
+    "url": "https://boards-api.greenhouse.io/v1/boards/chicagotrading/jobs"
+  },
+  {
+    "id": "379ea971-7118-8194-b110-f217a0c25795",
+    "name": "Citadel Securities",
+    "url": "https://www.citadelsecurities.com/careers/open-opportunities/"
+  },
+  {
+    "id": "379ea971-7118-811f-8999-ccd905ed567c",
+    "name": "D.E. Shaw",
+    "url": "https://www.deshaw.com/careers"
+  },
+  {
+    "id": "379ea971-7118-81e0-86d8-f33855af8ac8",
+    "name": "Five Rings",
+    "url": "https://fiverings.com/careers/"
+  },
+  {
+    "id": "379ea971-7118-81be-b436-e633ea22a9b3",
+    "name": "Flow Traders",
+    "url": "https://www.flowtraders.com/careers/graduates/"
+  },
+  {
+    "id": "379ea971-7118-818b-83d9-cae93a2f82c5",
+    "name": "Hudson River Trading",
+    "url": "https://www.hudsonrivertrading.com/hrt_jobs-sitemap.xml"
+  },
+  {
+    "id": "379ea971-7118-81b4-b4a4-f129dc2c79e7",
+    "name": "Jane Street",
+    "url": "https://www.janestreet.com/jobs/main.json"
+  },
+  {
+    "id": "379ea971-7118-81b0-ab1b-f7079d8c386c",
+    "name": "Jump Trading",
+    "url": "https://boards-api.greenhouse.io/v1/boards/jumptrading/jobs?content=true"
+  },
+  {
+    "id": "379ea971-7118-8185-93f2-dd1ce1f512a1",
+    "name": "QRT (Qube Research & Technologies)",
+    "url": "https://boards-api.greenhouse.io/v1/boards/quberesearchandtechnologies/jobs"
+  },
+  {
+    "id": "379ea971-7118-81e9-bb61-e727d110fc5e",
+    "name": "Squarepoint Capital",
+    "url": "https://boards-api.greenhouse.io/v1/boards/squarepointcapital/jobs"
+  },
+  {
+    "id": "379ea971-7118-8100-8272-c35dbdba8a2d",
+    "name": "Susquehanna (SIG)",
+    "url": "https://careers.sig.com/recent-graduate-jobs/"
+  },
+  {
+    "id": "379ea971-7118-81a0-8aeb-e55886dc3a0a",
+    "name": "Susquehanna (SIG)",
+    "url": "https://careers.sig.com/api/jobs?page=1&sortBy=relevance&descending=false&internal=false"
+  },
+  {
+    "id": "379ea971-7118-8138-a690-e2acecf9a742",
+    "name": "AQR Capital Management",
+    "url": "https://careers.aqr.com/jobs/category/research"
+  },
+  {
+    "id": "379ea971-7118-8189-a19d-c4bda3ec94af",
+    "name": "Balyasny Asset Management (BAM)",
+    "url": "https://www.bamfunds.com/careers/early-career"
+  },
+  {
+    "id": "379ea971-7118-812b-bbee-fbbb234b74ea",
+    "name": "Bridgewater Associates",
+    "url": "https://boards-api.greenhouse.io/v1/boards/bridgewater89/jobs?content=true"
+  },
+  {
+    "id": "379ea971-7118-81b3-a111-f80cd06baffb",
+    "name": "Credit Agricole CIB (CACIB)",
+    "url": "https://jobs.ca-cib.com/homepage.aspx"
+  },
+  {
+    "id": "379ea971-7118-815d-b707-d409bfe0f248",
+    "name": "DRW",
+    "url": "https://job-boards.greenhouse.io/drweng"
+  },
+  {
+    "id": "379ea971-7118-8107-b70e-e587d7df8f16",
+    "name": "Tower Research Capital",
+    "url": "https://boards-api.greenhouse.io/v1/boards/towerresearchcapital/jobs?content=true"
+  },
+  {
+    "id": "379ea971-7118-81ac-a7e8-e580589129de",
+    "name": "Man Group (AHL)",
+    "url": "https://boards-api.greenhouse.io/v1/boards/mangroup/jobs"
+  },
+  {
+    "id": "379ea971-7118-810a-a20d-d37087ff556d",
+    "name": "Marshall Wace",
+    "url": "https://www.mwam.com/join-us/quantitative/"
+  },
+  {
+    "id": "379ea971-7118-8134-a560-fe26b017fa0f",
+    "name": "Capstone Investment Advisors",
+    "url": "https://boards-api.greenhouse.io/v1/boards/capstoneinvestmentadvisors/jobs"
+  },
+  {
+    "id": "379ea971-7118-815b-ac4e-db586eb2e121",
+    "name": "Graham Capital Management",
+    "url": "https://www.grahamcapital.com/careers/"
+  },
+  {
+    "id": "379ea971-7118-8127-be28-f9df9cdfc1ed",
+    "name": "Millennium Management",
+    "url": "https://www.mlp.com/careers/students/"
+  },
+  {
+    "id": "379ea971-7118-816a-84c1-dcca3cdad675",
+    "name": "Two Sigma",
+    "url": "https://careers.twosigma.com/careers/OpenRoles"
+  },
+  {
+    "id": "379ea971-7118-816e-9d39-d0eb30a02a56",
+    "name": "Virtu Financial",
+    "url": "https://www.virtu.com/careers/"
+  },
+  {
+    "id": "379ea971-7118-8162-8766-d326263b2c13",
+    "name": "WorldQuant",
+    "url": "https://boards-api.greenhouse.io/v1/boards/worldquant/jobs"
+  },
+  {
+    "id": "736951b1-8e0e-47d4-8405-eb4cd315bb14",
+    "name": "Bank of America",
+    "url": "https://careers.bankofamerica.com/services/jobssearchservlet"
+  },
+  {
+    "id": "37aea971-7118-8100-a4a4-fceb36b8ebde",
+    "name": "Optiver",
+    "url": "https://optiver.com/working-at-optiver/career-opportunities/"
+  },
+  {
+    "id": "37aea971-7118-8190-8c02-dcde779536f1",
+    "name": "Belvedere Trading",
+    "url": "https://www.belvederetrading.com/careers"
+  },
+  {
+    "id": "37aea971-7118-819b-8ecf-d79ca1ee2875",
+    "name": "Point72 / Cubist Systematic",
+    "url": "https://careers.point72.com/"
+  },
+  {
+    "id": "37aea971-7118-819e-9916-c37a12b3bd3d",
+    "name": "IMC Trading",
+    "url": "https://www.imc.com/eu/careers/"
+  },
+  {
+    "id": "37aea971-7118-81aa-be4f-d1514486b245",
+    "name": "Akuna Capital",
+    "url": "https://akunacapital.com/careers"
+  },
+  {
+    "id": "37aea971-7118-8105-afc6-d1965aa09999",
+    "name": "PGIM",
+    "url": "http://pgim.com/careers"
+  },
+  {
+    "id": "37aea971-7118-8106-942c-d97bf75e15f4",
+    "name": "Scientech",
+    "url": "https://www.scientechresearch.io/job-all"
+  },
+  {
+    "id": "37aea971-7118-8106-a8bb-e8e9174cf09f",
+    "name": "PIMCO",
+    "url": "https://www.pimco.com/us/en/about-us/careers/students"
+  },
+  {
+    "id": "37aea971-7118-8107-8e11-c02fdd677bb3",
+    "name": "UBS",
+    "url": "http://ubs.com/careers"
+  },
+  {
+    "id": "37aea971-7118-8108-86cb-f66bb9f4b680",
+    "name": "U.S. Bank",
+    "url": "https://usbank.wd1.myworkdayjobs.com/wday/cxs/usbank/US_Bank_Careers/jobs"
+  },
+  {
+    "id": "37aea971-7118-8113-bb59-f4145a938fbe",
+    "name": "The Voleon Group",
+    "url": "http://jobs.ashbyhq.com/voleon"
+  },
+  {
+    "id": "37aea971-7118-8114-9923-c3bc72df8794",
+    "name": "Societe Generale",
+    "url": "https://careers.societegenerale.com/en/Technical/all-job-offers"
+  },
+  {
+    "id": "37aea971-7118-8116-a2ec-f8b279e2d874",
+    "name": "Y-intercept",
+    "url": "https://y-intercept.org/careers/"
+  },
+  {
+    "id": "37aea971-7118-8117-9b9d-fde0111a4bcb",
+    "name": "TD Bank",
+    "url": "https://careers.td.com/student-new-grads/"
+  },
+  {
+    "id": "37aea971-7118-8118-ad4d-f0c730d3488e",
+    "name": "Raymond James",
+    "url": "https://www.raymondjames.com/careers"
+  },
+  {
+    "id": "37aea971-7118-8119-b54b-f73a648ae6ef",
+    "name": "Solar Digital Agro",
+    "url": "https://www.solardigitalagro.com/jobs"
+  },
+  {
+    "id": "37aea971-7118-811e-8271-ee6124dcd39b",
+    "name": "Rokos Capital Management",
+    "url": "https://api.apptrkr.io/api/v1/rokos-capital-management/rokos-capital-management-202526"
+  },
+  {
+    "id": "37aea971-7118-811e-bcd3-c75c0550af31",
+    "name": "Stevens Capital Management",
+    "url": "https://job-boards.greenhouse.io/scm"
+  },
+  {
+    "id": "37aea971-7118-8120-86d1-d7654c81c634",
+    "name": "Tanius",
+    "url": "https://job-boards.greenhouse.io/tanius"
+  },
+  {
+    "id": "37aea971-7118-8125-9b96-d883ba66f437",
+    "name": "PEAK6",
+    "url": "https://peak6.com/campus/"
+  },
+  {
+    "id": "37aea971-7118-812c-9039-e755344fa857",
+    "name": "State Street Global Advisors",
+    "url": "https://statestreet.wd1.myworkdayjobs.com/wday/cxs/statestreet/Global/jobs"
+  },
+  {
+    "id": "37aea971-7118-8137-aa40-ef6a7a5a8e31",
+    "name": "Somerset Capital Management",
+    "url": "https://apply.workable.com/api/v1/widget/accounts/somersetcm"
+  },
+  {
+    "id": "37aea971-7118-8139-8223-d9cdf5d9dff9",
+    "name": "Robeco",
+    "url": "http://robeco.com/en-int/careers/job-openings"
+  },
+  {
+    "id": "37aea971-7118-813b-96c4-c0df3a816131",
+    "name": "S&P Global",
+    "url": "https://careers.spglobal.com/jobs"
+  },
+  {
+    "id": "37aea971-7118-813f-bd26-d979ff608d71",
+    "name": "Plymouth Rock Assurance",
+    "url": "https://www.plymouthrock.com/about/careers"
+  },
+  {
+    "id": "37aea971-7118-8142-a4f2-f127b3934f7f",
+    "name": "StoneX",
+    "url": "https://www.stonex.com/en/about/careers/jobs/"
+  },
+  {
+    "id": "37aea971-7118-814b-95ea-f16faf197c76",
+    "name": "Stepstone Group",
+    "url": "https://boards-api.greenhouse.io/v1/boards/stepstone/jobs"
+  },
+  {
+    "id": "37aea971-7118-814b-9b74-c7840ea14479",
+    "name": "Verisk",
+    "url": "https://www.verisk.com/company/careers/"
+  },
+  {
+    "id": "37aea971-7118-814f-b227-f572297ea15f",
+    "name": "SMBC",
+    "url": "https://careers.smbcgroup.com/"
+  },
+  {
+    "id": "37aea971-7118-8152-ad52-f646d19abc0e",
+    "name": "T. Rowe Price",
+    "url": "https://www.troweprice.com/corporate/us/en/careers.html"
+  },
+  {
+    "id": "37aea971-7118-8154-9504-c3955f3a46b7",
+    "name": "Talos",
+    "url": "https://www.talos.com/working/open-roles"
+  },
+  {
+    "id": "37aea971-7118-8155-b1c3-d5af14c2e3d2",
+    "name": "Ripple",
+    "url": "https://ripple.com/careers/all-jobs/"
+  },
+  {
+    "id": "37aea971-7118-815c-9533-d2cef2a061fa",
+    "name": "Summit",
+    "url": "https://www.summitpartners.com/summit-careers"
+  },
+  {
+    "id": "37aea971-7118-815c-ae6e-ea87d34536fc",
+    "name": "TransMarket Group",
+    "url": "https://transmarketgroup.com/careers"
+  },
+  {
+    "id": "37aea971-7118-8160-a2f7-c8e4b8c2179d",
+    "name": "PineBridge Investments",
+    "url": "https://pinebridge.wd5.myworkdayjobs.com/PineBridge_Career_Site"
+  },
+  {
+    "id": "37aea971-7118-8161-8eb0-d77e92267a25",
+    "name": "Soros Fund Management",
+    "url": "https://job-boards.greenhouse.io/familyoffice"
+  },
+  {
+    "id": "37aea971-7118-8163-b8a1-f9461e1f2971",
+    "name": "Square Kettle",
+    "url": "https://www.squarekettle.com/"
+  },
+  {
+    "id": "37aea971-7118-816d-8966-cbabddd304b6",
+    "name": "Uniper",
+    "url": "https://careers.uniper.energy/en"
+  },
+  {
+    "id": "37aea971-7118-816e-b4e6-f8b84f6adeff",
+    "name": "Rock Bund Capital",
+    "url": "https://www.rockbundcapital.com/careers"
+  },
+  {
+    "id": "37aea971-7118-8174-bed6-fea4ece78d71",
+    "name": "Polymer Capital",
+    "url": "https://apply.workable.com/api/v1/widget/accounts/polymer-capital"
+  },
+  {
+    "id": "37aea971-7118-8175-9a70-d2b73a823688",
+    "name": "Valkyrie Trading",
+    "url": "https://api.lever.co/v0/postings/valkyrietrading?mode=json"
+  },
+  {
+    "id": "37aea971-7118-8176-ab02-ca2794b8e5eb",
+    "name": "Quantbot",
+    "url": "https://boards-api.greenhouse.io/v1/boards/quantbot-technologies/jobs"
+  },
+  {
+    "id": "37aea971-7118-817d-96f7-fa8b32b5315b",
+    "name": "Rockstar Games",
+    "url": "https://www.rockstargames.com/careers/openings"
+  },
+  {
+    "id": "37aea971-7118-817d-bd3e-d8a2a24eb52a",
+    "name": "RBC",
+    "url": "http://rbc.com/careers"
+  },
+  {
+    "id": "37aea971-7118-817e-93ea-c9750b39f4ea",
+    "name": "State Street",
+    "url": "https://statestreet.wd1.myworkdayjobs.com/wday/cxs/statestreet/Global/jobs"
+  },
+  {
+    "id": "37aea971-7118-817e-9c6c-d42cb080ccf0",
+    "name": "Upstart",
+    "url": "https://careers.upstart.com/jobs/search"
+  },
+  {
+    "id": "37aea971-7118-8184-ad5e-ecaf0968b701",
+    "name": "Scalp Trading",
+    "url": "https://scalptrade.com/careers"
+  },
+  {
+    "id": "37aea971-7118-8190-a2d0-da5aa6ad57a5",
+    "name": "VanEck",
+    "url": "https://www.vaneck.com/us/en/our-firm/careers/"
+  },
+  {
+    "id": "37aea971-7118-8197-91c8-ef0f8948358e",
+    "name": "Standard Chartered Bank",
+    "url": "https://jobs.standardchartered.com/services/recruiting/v1/jobs"
+  },
+  {
+    "id": "37aea971-7118-8197-bea0-c699c9ec8e73",
+    "name": "Verition Fund Management",
+    "url": "https://boards-api.greenhouse.io/v1/boards/veritiongroupllc/jobs"
+  },
+  {
+    "id": "37aea971-7118-81a5-86b0-fb2365b0400d",
+    "name": "Voya",
+    "url": "https://www.voya.com/about-us/find-career-voya"
+  },
+  {
+    "id": "37aea971-7118-81a5-9ce8-ed99a1e58fa8",
+    "name": "Seven Research",
+    "url": "https://www.sevenresearch.com/careers"
+  },
+  {
+    "id": "37aea971-7118-81ab-ac8e-c353acf594d4",
+    "name": "PNC",
+    "url": "https://careers.pnc.com/global/en"
+  },
+  {
+    "id": "37aea971-7118-81ad-9870-e82053b1c028",
+    "name": "Viking Global Investors",
+    "url": "https://boards-api.greenhouse.io/v1/boards/vikingglobalinvestors/jobs"
+  },
+  {
+    "id": "37aea971-7118-81af-9112-f5e16a935877",
+    "name": "TWG Global",
+    "url": "https://www.twgglobal.com/careers/"
+  },
+  {
+    "id": "37aea971-7118-81b2-ada4-cefc5a8d1999",
+    "name": "Quadeye",
+    "url": "http://quadeye.com/careers"
+  },
+  {
+    "id": "37aea971-7118-81b4-a2a7-ef3f39565ddd",
+    "name": "Vanguard",
+    "url": "https://www.vanguardjobs.com/job-search-results/"
+  },
+  {
+    "id": "37aea971-7118-81b5-9e6c-cd3d4f94e4f5",
+    "name": "Vatic Labs",
+    "url": "https://www.vaticlabs.ai/careers/"
+  },
+  {
+    "id": "37aea971-7118-81b8-9cb7-d72539e13eaa",
+    "name": "Rockland Trust",
+    "url": "https://careers.rocklandtrust.com/"
+  },
+  {
+    "id": "37aea971-7118-81bb-83af-d78517543c36",
+    "name": "VWH Capital Management",
+    "url": "https://careers.smartrecruiters.com/VWHCapitalManagementLP/"
+  },
+  {
+    "id": "37aea971-7118-81bc-8204-f352f602b59e",
+    "name": "Paramount",
+    "url": "https://careers.paramount.com/"
+  },
+  {
+    "id": "37aea971-7118-81be-9cb4-c61e0bfdfc1d",
+    "name": "William Blair",
+    "url": "https://boards-api.greenhouse.io/v1/boards/williamblair/jobs"
+  },
+  {
+    "id": "37aea971-7118-81bf-9540-f05471e7ed19",
+    "name": "Voloridge",
+    "url": "http://voloridge.com/join-our-team"
+  },
+  {
+    "id": "37aea971-7118-81c1-99ce-dff5e2a16250",
+    "name": "CITIC Securities (中信证券)",
+    "url": "https://careers.citics.com/"
+  },
+  {
+    "id": "37aea971-7118-81c2-8e1b-cbcb6c0f424b",
+    "name": "Saxo Bank",
+    "url": "https://saxobank.wd3.myworkdayjobs.com/wday/cxs/saxobank/CareeratSaxoBank/jobs"
+  },
+  {
+    "id": "37aea971-7118-81c2-99db-cd01190e176d",
+    "name": "Signature Resources Capital Management",
+    "url": "https://srcmadvisors.com/join-our-team/"
+  },
+  {
+    "id": "37aea971-7118-81c2-a348-c84e1242e162",
+    "name": "Syntax",
+    "url": "https://www.syntaxdata.com/careers"
+  },
+  {
+    "id": "37aea971-7118-81c7-88f7-dc03b2632cf6",
+    "name": "Walleye Capital",
+    "url": "https://boards-api.greenhouse.io/v1/boards/walleyecapital-external-fulltime/jobs"
+  },
+  {
+    "id": "37aea971-7118-81cd-b525-c44c9b3d9865",
+    "name": "Perpay",
+    "url": "https://perpay.com/careers"
+  },
+  {
+    "id": "37aea971-7118-81ce-a06a-e035f12b7bdd",
+    "name": "S&P500",
+    "url": "https://careers.spglobal.com/jobs"
+  },
+  {
+    "id": "37aea971-7118-81ce-a680-eaa671e969c4",
+    "name": "Schroders",
+    "url": "https://www.schroders.com/en/global/individual/careers/early-careers/"
+  },
+  {
+    "id": "37aea971-7118-81d3-9713-c3c9f09506cf",
+    "name": "Trexquant",
+    "url": "https://apply.workable.com/api/v1/widget/accounts/trexquant"
+  },
+  {
+    "id": "37aea971-7118-81d4-8e17-c84a7995ee3b",
+    "name": "Zentific Investment Management",
+    "url": "https://hk.linkedin.com/company/zentific-investment-management"
+  },
+  {
+    "id": "37aea971-7118-81d6-a5fb-e06a4bf1ea13",
+    "name": "Pinpoint Asset Management",
+    "url": "https://www.pinpointfund.com/career/"
+  },
+  {
+    "id": "37aea971-7118-81da-8d64-f85f420072f9",
+    "name": "Schonfeld",
+    "url": "https://www.schonfeld.com/careers/opportunities/"
+  },
+  {
+    "id": "37aea971-7118-81e9-a791-fb22e0cbcbbc",
+    "name": "Wintermute",
+    "url": "https://wintermute.com/company/opportunities"
+  },
+  {
+    "id": "37aea971-7118-81ed-8eb9-dc179ddb3820",
+    "name": "Quadrature Capital",
+    "url": "https://boards-api.greenhouse.io/v1/boards/quadraturecapital/jobs?content=true"
+  },
+  {
+    "id": "37aea971-7118-81f1-b352-fc5d4e5bf9c1",
+    "name": "Wellington Management",
+    "url": "https://www.wellington.com/en/about-us/careers"
+  },
+  {
+    "id": "37aea971-7118-81f2-89a3-d6338f7c4ab5",
+    "name": "SummitTX Capital",
+    "url": "https://www.summittxcapital.com/join-our-team/"
+  },
+  {
+    "id": "37aea971-7118-81fc-9c65-f119f899da3d",
+    "name": "Tudor Investment Group",
+    "url": "https://job-boards.greenhouse.io/tudorgroup"
+  },
+  {
+    "id": "37aea971-7118-81ff-8e74-fd76b915e34d",
+    "name": "SESCO Enterprises",
+    "url": "http://sescollc.com/careers/"
+  },
+  {
+    "id": "37aea971-7118-8102-8bf0-c20c090e84fb",
+    "name": "Invesco",
+    "url": "http://careers.invesco.com/early-careers"
+  },
+  {
+    "id": "37aea971-7118-8103-9ccf-ea4b7d1f672d",
+    "name": "Haitong International",
+    "url": "https://www.haitongib.com/en/careers"
+  },
+  {
+    "id": "37aea971-7118-8105-bab4-dc514daa8c3c",
+    "name": "Forest Creek Capital",
+    "url": "https://www.forestcreekcap.com/careers"
+  },
+  {
+    "id": "37aea971-7118-8106-b5bb-f98252f5feb2",
+    "name": "Five Dimensions Energy",
+    "url": "https://fivedimensionsenergy.com/careers/"
+  },
+  {
+    "id": "37aea971-7118-8109-b6e7-ef9d88490c93",
+    "name": "Linden Shore",
+    "url": "https://www.lindenshore.com/careers"
+  },
+  {
+    "id": "37aea971-7118-810b-989b-ecd95f34ab0e",
+    "name": "Nasdaq",
+    "url": "https://nasdaq.wd1.myworkdayjobs.com/US_External_Career_Site"
+  },
+  {
+    "id": "37aea971-7118-810b-bf48-f748acc0219a",
+    "name": "LevelUP Human Capital Solutions",
+    "url": "https://jobs.leveluphcs.com/"
+  },
+  {
+    "id": "37aea971-7118-8110-a367-e121682df606",
+    "name": "Franklin Templeton",
+    "url": "https://franklintempleton.wd5.myworkdayjobs.com/Primary-External-1"
+  },
+  {
+    "id": "37aea971-7118-8111-896e-c465c74a227a",
+    "name": "Neo Ivy Capital",
+    "url": "https://www.neoivycapital.com/"
+  },
+  {
+    "id": "37aea971-7118-8114-b897-fb39c6a22054",
+    "name": "Meketa",
+    "url": "https://meketa.com/about-us/careers/"
+  },
+  {
+    "id": "37aea971-7118-8115-b460-eab7f22d6728",
+    "name": "Group1001",
+    "url": "https://group1001wd.wd5.myworkdayjobs.com/Careers"
+  },
+  {
+    "id": "37aea971-7118-8117-b3db-c2810850471e",
+    "name": "Macquarie",
+    "url": "http://recruitment.macquarie.com/en_US/careers"
+  },
+  {
+    "id": "37aea971-7118-8117-bea7-f44e257e0026",
+    "name": "MarketAxess",
+    "url": "https://www.marketaxess.com/careers/current-openings"
+  },
+  {
+    "id": "37aea971-7118-8126-9d2c-c8bfdcf3fdcf",
+    "name": "EY",
+    "url": "https://careers.ey.com/"
+  },
+  {
+    "id": "37aea971-7118-812b-8dc8-c7932698ab2e",
+    "name": "GIC",
+    "url": "http://careers.gic.com.sg"
+  },
+  {
+    "id": "37aea971-7118-812b-aeb1-c22c4bbe3864",
+    "name": "Kronos Research",
+    "url": "https://job-boards.greenhouse.io/kronosresearch"
+  },
+  {
+    "id": "37aea971-7118-812b-b99b-cdcafb78026c",
+    "name": "Fidelity",
+    "url": "https://jobs.fidelity.com/en/students/asset-management"
+  },
+  {
+    "id": "37aea971-7118-812d-922c-fe36ec118d2d",
+    "name": "Laurion Capital Management",
+    "url": "https://www.laurioncap.com/"
+  },
+  {
+    "id": "37aea971-7118-8134-ab42-f22f985c8633",
+    "name": "NorthCoast Asset Management",
+    "url": "https://job-boards.greenhouse.io/nc"
+  },
+  {
+    "id": "37aea971-7118-8134-b5f5-f7255edefa6c",
+    "name": "Jefferies",
+    "url": "https://www.jefferies.com/careers/"
+  },
+  {
+    "id": "37aea971-7118-8137-8097-d1e7cc9e8517",
+    "name": "Mackenzie Investments",
+    "url": "https://www.mackenzieinvestments.com/en/careers"
+  },
+  {
+    "id": "37aea971-7118-813b-94e8-d39e1d4d0ea7",
+    "name": "Milliman",
+    "url": "https://careers.milliman.com/en"
+  },
+  {
+    "id": "37aea971-7118-813b-aa8c-c963e02bf777",
+    "name": "Global Atlantic",
+    "url": "https://www.globalatlantic.com/careers"
+  },
+  {
+    "id": "37aea971-7118-813e-8b5f-ccdc0651130d",
+    "name": "Federated Hermes",
+    "url": "https://careers.federatedhermes.com/"
+  },
+  {
+    "id": "37aea971-7118-8140-949f-d803f610d837",
+    "name": "Freddie Mac",
+    "url": "http://careers.freddiemac.com"
+  },
+  {
+    "id": "37aea971-7118-8140-b43f-e369ad9ae56f",
+    "name": "HilltopHoldings",
+    "url": "https://www.hilltop.com/careers/"
+  },
+  {
+    "id": "37aea971-7118-8141-b1aa-cb96ccef1e20",
+    "name": "Kearny Bank",
+    "url": "https://careers-kearnybank.icims.com/jobs/intro"
+  },
+  {
+    "id": "37aea971-7118-8142-8c26-f8c75dcad373",
+    "name": "ICE",
+    "url": "https://careers.ice.com/jobs"
+  },
+  {
+    "id": "37aea971-7118-814c-bc20-db8393c5d6aa",
+    "name": "Greenwich Commodities",
+    "url": "https://www.greenwichcm.com/careers"
+  },
+  {
+    "id": "37aea971-7118-814d-9fa5-c78ebc054ff9",
+    "name": "Farallon Capital",
+    "url": "https://farallon.com"
+  },
+  {
+    "id": "37aea971-7118-814e-8fbc-c59c514fc3c1",
+    "name": "JPMorgan",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?siteNumber=CX_1001"
+  },
+  {
+    "id": "37aea971-7118-8154-aeb1-cbab4c5af077",
+    "name": "GQG Partners",
+    "url": "https://gqg.com/careers/"
+  },
+  {
+    "id": "37aea971-7118-815b-b414-d608fd087972",
+    "name": "OSL",
+    "url": "https://group.osl.com/job-opportunities/"
+  },
+  {
+    "id": "37aea971-7118-815c-9a73-e557c4addf71",
+    "name": "Morgan Stanley",
+    "url": "https://morganstanley.eightfold.ai/api/pcsx/search?domain=morganstanley.com"
+  },
+  {
+    "id": "37aea971-7118-8161-a9fb-d68c67441005",
+    "name": "Nomura Asset Management",
+    "url": "https://nomura.com/careers"
+  },
+  {
+    "id": "37aea971-7118-8164-b7a9-fe629af58766",
+    "name": "Manulife",
+    "url": "https://manulife.wd3.myworkdayjobs.com/wday/cxs/manulife/MFCJH_Jobs/jobs"
+  },
+  {
+    "id": "37aea971-7118-816b-8152-dbc38992a0bc",
+    "name": "ING",
+    "url": "https://careers.ing.com/search-jobs/results"
+  },
+  {
+    "id": "37aea971-7118-816b-8bdd-ec557af03cbd",
+    "name": "Northwest Bank",
+    "url": "https://northwest.wd1.myworkdayjobs.com/Northwest_Careers"
+  },
+  {
+    "id": "37aea971-7118-816d-8ca6-cef85b520066",
+    "name": "Magnetar",
+    "url": "https://boards-api.greenhouse.io/v1/boards/magnetar/jobs?content=true"
+  },
+  {
+    "id": "37aea971-7118-816f-8b7f-cc0d8863dc40",
+    "name": "Global Trading Systems",
+    "url": "https://gtsx.com/careers"
+  },
+  {
+    "id": "37aea971-7118-816f-9303-d85be1b4924f",
+    "name": "Grupo Oricteropo Tropical",
+    "url": "https://apply.workable.com/grupo-oricteropo-tropical/"
+  },
+  {
+    "id": "37aea971-7118-8171-bc98-e0f4060d64cb",
+    "name": "OKTA",
+    "url": "https://www.okta.com/company/careers/"
+  },
+  {
+    "id": "37aea971-7118-8172-b60c-f4d183b0aaca",
+    "name": "Kapitus",
+    "url": "https://kapitus.com/careers/"
+  },
+  {
+    "id": "37aea971-7118-8175-8a4a-de4e39f0681a",
+    "name": "FactSet",
+    "url": "https://www.factset.com/careers"
+  },
+  {
+    "id": "37aea971-7118-8176-86bd-ca6012f25410",
+    "name": "New York Life",
+    "url": "https://careers.newyorklife.com/"
+  },
+  {
+    "id": "37aea971-7118-8177-9205-dec0c5c93265",
+    "name": "G-research",
+    "url": "https://gresearch.com"
+  },
+  {
+    "id": "37aea971-7118-8177-b33d-dd6a838db0a7",
+    "name": "FirstCitizenBank",
+    "url": "https://jobs.firstcitizens.com/"
+  },
+  {
+    "id": "37aea971-7118-8178-b3bc-cbe609d0ca55",
+    "name": "Kadensa Capital",
+    "url": "https://www.kadensacapital.com/careers"
+  },
+  {
+    "id": "37aea971-7118-8181-8f7f-dd9e662102ae",
+    "name": "Matrixport",
+    "url": "https://www.matrixport.com/careers"
+  },
+  {
+    "id": "37aea971-7118-8181-99e6-e28968a8dbc3",
+    "name": "One River Asset Management",
+    "url": "https://www.linkedin.com/company/one-river-asset-management-llc/jobs"
+  },
+  {
+    "id": "37aea971-7118-8187-95fa-ea15b133b620",
+    "name": "Federal Home Loan Bank of New York",
+    "url": "https://www.fhlbny.com/careers"
+  },
+  {
+    "id": "37aea971-7118-8188-99ec-d406e6293505",
+    "name": "Orbis Investment Management",
+    "url": "https://www.orbis.com/careers/careers/opportunities/current-opportunities"
+  },
+  {
+    "id": "37aea971-7118-818f-a0c0-ea3d5ac8d667",
+    "name": "Maverick Capital",
+    "url": "https://careers.mavcapmgt.com/"
+  },
+  {
+    "id": "37aea971-7118-8195-b300-d4a71a8b838f",
+    "name": "Old Mission",
+    "url": "https://boards-api.greenhouse.io/v1/boards/oldmissioncapital/jobs?content=true"
+  },
+  {
+    "id": "37aea971-7118-8196-82f7-c1de69310fbb",
+    "name": "LSEG",
+    "url": "https://www.lseg.com/en/careers"
+  },
+  {
+    "id": "37aea971-7118-8198-818b-eef15b51942e",
+    "name": "Fortitude Reinsurance",
+    "url": "https://fortitude-re.com/culture-careers/"
+  },
+  {
+    "id": "37aea971-7118-8199-8d85-e5b241ebb8f7",
+    "name": "Garda",
+    "url": "https://jobs.garda.com/"
+  },
+  {
+    "id": "37aea971-7118-819a-9a4c-df7c011d921a",
+    "name": "M&G Investments",
+    "url": "https://group.mandg.com/careers"
+  },
+  {
+    "id": "37aea971-7118-819b-a79a-c0353716926b",
+    "name": "Interactive Broker",
+    "url": "https://www.interactivebrokers.com/en/general/about/careers-splash.php"
+  },
+  {
+    "id": "37aea971-7118-819f-8a5d-cc8e39ac06ba",
+    "name": "Lazard",
+    "url": "https://www.lazard.com/careers/jobs/"
+  },
+  {
+    "id": "37aea971-7118-819f-af9e-ee21406f3b4c",
+    "name": "InfiniteQuant",
+    "url": "https://www.infquant.com/career"
+  },
+  {
+    "id": "37aea971-7118-81a0-967d-c841afaebb25",
+    "name": "Glenbrook Trading",
+    "url": "https://www.glenbrooktrading.com/careers"
+  },
+  {
+    "id": "37aea971-7118-81a2-bc58-d25216e7d8c2",
+    "name": "OCC (Options Clearing Corporation)",
+    "url": "https://www.theocc.com/careers"
+  },
+  {
+    "id": "37aea971-7118-81a5-917d-fa4434b36162",
+    "name": "Maven Securities",
+    "url": "https://boards-api.greenhouse.io/v1/boards/mavensecuritiesholdingltd/jobs"
+  },
+  {
+    "id": "37aea971-7118-81a7-b31a-c5a1671a4f15",
+    "name": "K-Hawk Capital",
+    "url": "https://www.khawk.com/careers"
+  },
+  {
+    "id": "37aea971-7118-81ae-a234-f200c9514d8f",
+    "name": "HSBC",
+    "url": "http://hsbc.com/careers"
+  },
+  {
+    "id": "37aea971-7118-81b7-bff9-ebaea6a1ae4b",
+    "name": "Goldman Sachs Asset Management",
+    "url": "https://api-higher.gs.com/gateway/api/v1/graphql"
+  },
+  {
+    "id": "37aea971-7118-81b8-8f36-cfb04cb7ff9e",
+    "name": "Geneva Trading",
+    "url": "https://job-boards.greenhouse.io/genevatrading"
+  },
+  {
+    "id": "37aea971-7118-81bd-9913-c00d34dc3bfc",
+    "name": "KBRA",
+    "url": "https://boards-api.greenhouse.io/v1/boards/krollbondratingagency/jobs"
+  },
+  {
+    "id": "37aea971-7118-81bd-a010-f15c5917929b",
+    "name": "HPS Investment",
+    "url": "https://www.hpspartners.com/open-roles"
+  },
+  {
+    "id": "37aea971-7118-81be-bef9-fbed981bbc18",
+    "name": "GSA Capital",
+    "url": "https://www.gsacapital.com/join-us"
+  },
+  {
+    "id": "37aea971-7118-81c0-8e8b-f3b87abcbbaf",
+    "name": "Moody's",
+    "url": "https://careers.moodys.com/en"
+  },
+  {
+    "id": "37aea971-7118-81c0-ab0f-cc897fe3ec24",
+    "name": "MFS",
+    "url": "https://www.mfs.com/en-gb/investment-professional/about-mfs/careers.html"
+  },
+  {
+    "id": "37aea971-7118-81cb-8f8d-e431d9aead2b",
+    "name": "Lombard Odier",
+    "url": "https://www.lombardodier.com/home/careers.html"
+  },
+  {
+    "id": "37aea971-7118-81cc-a7c4-dee181220907",
+    "name": "KPMG",
+    "url": "https://www.kpmguscareers.com/job-search/"
+  },
+  {
+    "id": "37aea971-7118-81cc-b503-f44591e736c0",
+    "name": "Instinet",
+    "url": "https://www.instinet.com/careers"
+  },
+  {
+    "id": "37aea971-7118-81cd-9100-c97f8e972ae3",
+    "name": "Fullerton Fund Management",
+    "url": "https://www.fullertonfund.com/about-fullerton/careers/"
+  },
+  {
+    "id": "37aea971-7118-81d1-931c-e4288ff054b4",
+    "name": "Gelber Group",
+    "url": "https://job-boards.greenhouse.io/gelbergroup"
+  },
+  {
+    "id": "37aea971-7118-81dc-afbc-f8831a0f0b3a",
+    "name": "KKR",
+    "url": "https://www.kkr.com/careers/career-opportunities"
+  },
+  {
+    "id": "37aea971-7118-81e3-b287-df09293922e8",
+    "name": "Galaxy",
+    "url": "https://job-boards.greenhouse.io/galaxydigitalservices"
+  },
+  {
+    "id": "37aea971-7118-81e7-ab63-ef629d87d9e4",
+    "name": "Hudson Advisors",
+    "url": "https://www.hudson-advisors.com/careers/"
+  },
+  {
+    "id": "37aea971-7118-81ee-9348-f364937232bd",
+    "name": "One William Street Capital Management",
+    "url": "https://boards-api.greenhouse.io/v1/boards/owscapitalmanagement/jobs"
+  },
+  {
+    "id": "37aea971-7118-81f1-8ba4-e0da874b2bcb",
+    "name": "ExodusPoint Capital",
+    "url": "https://boards-api.greenhouse.io/v1/boards/exoduspoint/jobs"
+  },
+  {
+    "id": "37aea971-7118-81fb-802c-f7153d38c0c8",
+    "name": "Neuberger Berman",
+    "url": "http://nb.wd1.myworkdayjobs.com/nbcareers"
+  },
+  {
+    "id": "37aea971-7118-810a-88bb-e57a565d7611",
+    "name": "Elliott Investment Management",
+    "url": "https://elliottgroup.wd5.myworkdayjobs.com/ElliottCareers"
+  },
+  {
+    "id": "37aea971-7118-810b-8d8f-fa14b08cafd9",
+    "name": "Dodge & Cox",
+    "url": "https://www.dodgeandcox.com/individual-investor/us/en/careers/overview.html"
+  },
+  {
+    "id": "37aea971-7118-810b-a2ec-eabf0bab65d8",
+    "name": "ACT Commodities",
+    "url": "https://careers.actgroup.com/vacancies"
+  },
+  {
+    "id": "37aea971-7118-8112-b589-fd3fcbc7d213",
+    "name": "AAA Global",
+    "url": "https://aaa-global.com"
+  },
+  {
+    "id": "37aea971-7118-811d-a9dd-f8919de382bc",
+    "name": "Brookfield",
+    "url": "https://www.brookfield.com/careers/career-opportunities"
+  },
+  {
+    "id": "37aea971-7118-811f-a8e3-c4334c474195",
+    "name": "Centrica Energy",
+    "url": "https://centricaenergy.com/career/vacancies/"
+  },
+  {
+    "id": "37aea971-7118-8120-a9b5-ed99392f5b75",
+    "name": "Altruist",
+    "url": "https://altruist.com/careers"
+  },
+  {
+    "id": "37aea971-7118-8126-9e16-ea76c35c7450",
+    "name": "ADIA",
+    "url": "https://jobs.adia.ae"
+  },
+  {
+    "id": "37aea971-7118-8127-8fa9-c095c2fa3642",
+    "name": "Analysis Group",
+    "url": "https://www.analysisgroup.com/careers/"
+  },
+  {
+    "id": "37aea971-7118-812a-9fcd-da01e5e59b84",
+    "name": "Arrowstreet Capital",
+    "url": "https://arrowstreetcapital.wd5.myworkdayjobs.com/en-US/Campus_Careers/job/Boston/Quantitative-Researcher_R1066-5"
+  },
+  {
+    "id": "37aea971-7118-812a-b077-d141a07a67b1",
+    "name": "Credibly",
+    "url": "https://www.credibly.com/careers/"
+  },
+  {
+    "id": "37aea971-7118-812c-89cd-c99c0d0c769f",
+    "name": "AlphaGrep",
+    "url": "http://job-boards.greenhouse.io/alphagrepsecurities"
+  },
+  {
+    "id": "37aea971-7118-812c-97b7-e8d2906cc1f0",
+    "name": "BGC Group",
+    "url": "https://bgcg.com/careers"
+  },
+  {
+    "id": "37aea971-7118-8131-a31a-e0861fbdb26b",
+    "name": "Crest Vale",
+    "url": "https://www.crestvaleassets.com/careers"
+  },
+  {
+    "id": "37aea971-7118-8133-88f9-ea247a6f1f7d",
+    "name": "American Express",
+    "url": "https://careers.americanexpress.com/"
+  },
+  {
+    "id": "37aea971-7118-813c-8993-e63c5f0f362d",
+    "name": "Bastion Trading",
+    "url": "https://bastiontrading.com/careers"
+  },
+  {
+    "id": "37aea971-7118-8140-9324-dbfa9c315645",
+    "name": "BitMart",
+    "url": "https://bitmart.zendesk.com/hc/en-us/categories/10942109789723-Career-Opportunities"
+  },
+  {
+    "id": "37aea971-7118-8145-83f2-ff54ac508018",
+    "name": "Burford Capital",
+    "url": "https://www.burfordcapital.com/about-us/careers/"
+  },
+  {
+    "id": "37aea971-7118-814d-ba0e-f72c3ddf5966",
+    "name": "Blackstone",
+    "url": "http://blackstone.wd1.myworkdayjobs.com/Blackstone_Campus_Careers"
+  },
+  {
+    "id": "37aea971-7118-814e-81ab-e3437d11fea8",
+    "name": "BCG",
+    "url": "https://careers.bcg.com/global/en/"
+  },
+  {
+    "id": "37aea971-7118-8153-a703-f8b0ccfcea86",
+    "name": "Chatham Financial",
+    "url": "https://www.chathamfinancial.com/careers/jobs"
+  },
+  {
+    "id": "37aea971-7118-8156-ace7-dc7724ac7b3d",
+    "name": "Bunge",
+    "url": "https://jobs.bunge.com/"
+  },
+  {
+    "id": "37aea971-7118-8157-90b0-f34d8e001734",
+    "name": "Citi",
+    "url": "https://jobs.citi.com/search-jobs/results"
+  },
+  {
+    "id": "37aea971-7118-8157-99e3-f5f1488fcc9b",
+    "name": "Astera Holdings",
+    "url": "https://astera.holdings/careers"
+  },
+  {
+    "id": "37aea971-7118-815d-b36a-cb314c5f577a",
+    "name": "BlackEdge",
+    "url": "https://job-boards.greenhouse.io/blackedgecapital"
+  },
+  {
+    "id": "37aea971-7118-8164-b720-c288717fe291",
+    "name": "CICC",
+    "url": "https://cicc.zhiye.com/campus"
+  },
+  {
+    "id": "37aea971-7118-8166-932a-e80632886c30",
+    "name": "Capital Research",
+    "url": "https://www.capitalgroup.com/about-us/careers.html"
+  },
+  {
+    "id": "37aea971-7118-8168-a538-c4d60487e545",
+    "name": "DWS",
+    "url": "https://www.dws.com/en-gb/about-us/careers/"
+  },
+  {
+    "id": "37aea971-7118-816b-a260-d8c4f1df822d",
+    "name": "Anatole",
+    "url": "https://www.anatole-inv.com/careers/"
+  },
+  {
+    "id": "37aea971-7118-816e-aca6-ed2ac10a840c",
+    "name": "Aflac Asset Management",
+    "url": "https://careers.aflac.com"
+  },
+  {
+    "id": "37aea971-7118-816f-b6fe-e0cb16f150c6",
+    "name": "Acadian",
+    "url": "https://acadian-asset.com"
+  },
+  {
+    "id": "37aea971-7118-8170-913f-da5bef4418fa",
+    "name": "BlackRock",
+    "url": "https://careers.blackrock.com/search-jobs/results"
+  },
+  {
+    "id": "37aea971-7118-8171-bda1-f09376190065",
+    "name": "CME Group",
+    "url": "https://www.cmegroup.com/careers/early-careers.html"
+  },
+  {
+    "id": "37aea971-7118-8172-b899-e85d84f104b5",
+    "name": "400 Capital Management",
+    "url": "https://400capital.com"
+  },
+  {
+    "id": "37aea971-7118-8173-b5bf-c3a8ccb2aeef",
+    "name": "CQS",
+    "url": "https://cqs.com/careers"
+  },
+  {
+    "id": "37aea971-7118-8174-b2ea-df2e4988c94e",
+    "name": "Chinese Asset Management",
+    "url": "https://en.chinaamc.com/"
+  },
+  {
+    "id": "37aea971-7118-8175-8273-ddcf02e41bdd",
+    "name": "Capula",
+    "url": "https://www.capulaglobal.com/working-at-capula/careers/"
+  },
+  {
+    "id": "37aea971-7118-8175-a1eb-e35156a6d6fe",
+    "name": "Bluesky Capital",
+    "url": "http://blueskycapitalmanagement.com/open-positions"
+  },
+  {
+    "id": "37aea971-7118-8178-bf28-e7c82f4576eb",
+    "name": "BNP Paribas",
+    "url": "https://group.bnpparibas/en/careers"
+  },
+  {
+    "id": "37aea971-7118-817a-a458-d49885350428",
+    "name": "Artisan Partners",
+    "url": "https://artisanpartners.com/careers"
+  },
+  {
+    "id": "37aea971-7118-817d-a6fd-d8405bb435c9",
+    "name": "DV Trading",
+    "url": "https://boards-api.greenhouse.io/v1/boards/dvtrading/jobs"
+  },
+  {
+    "id": "37aea971-7118-817e-93c6-c60f599927a2",
+    "name": "Bank of China",
+    "url": "https://www.bocusa.com/careers"
+  },
+  {
+    "id": "37aea971-7118-817f-bbe9-fd748cf3435c",
+    "name": "Apollo",
+    "url": "https://www.apollo.com/careers"
+  },
+  {
+    "id": "37aea971-7118-8182-ba93-cc774a9e5c41",
+    "name": "Eastspring Investments",
+    "url": "https://www.eastspring.com/about-us/careers"
+  },
+  {
+    "id": "37aea971-7118-8183-b6ad-f9d53fdd9da8",
+    "name": "Aristotle",
+    "url": "https://www.aristotlecap.com/careers/"
+  },
+  {
+    "id": "37aea971-7118-818b-8482-fd06a4518849",
+    "name": "Barclays",
+    "url": "https://search.jobs.barclays/search-jobs/results"
+  },
+  {
+    "id": "37aea971-7118-8192-bf65-e638878de272",
+    "name": "Dalio Family Office",
+    "url": "https://job-boards.greenhouse.io/marinomanagementllc"
+  },
+  {
+    "id": "37aea971-7118-8196-89fc-d19a823dd0c3",
+    "name": "EquiTrust Life Insurance",
+    "url": "https://www.equitrust.com/careers/opportunities/"
+  },
+  {
+    "id": "37aea971-7118-819c-a488-f9212ae966d8",
+    "name": "Cboe",
+    "url": "https://careers.cboe.com"
+  },
+  {
+    "id": "37aea971-7118-81a0-9b45-ec6273e60476",
+    "name": "Calamos Investments",
+    "url": "https://www.calamos.com/careers/"
+  },
+  {
+    "id": "37aea971-7118-81a2-a22a-c29a9c0e9fac",
+    "name": "AXQ Capital",
+    "url": "https://job-boards.greenhouse.io/axq"
+  },
+  {
+    "id": "37aea971-7118-81a4-ab52-d1cd2d20410c",
+    "name": "Causeway",
+    "url": "https://causewaycap.com"
+  },
+  {
+    "id": "37aea971-7118-81a7-9af7-dcfbb13e6eb5",
+    "name": "BMO",
+    "url": "https://bmo.wd3.myworkdayjobs.com/wday/cxs/bmo/External/jobs"
+  },
+  {
+    "id": "37aea971-7118-81ae-80f2-f55ad195e45e",
+    "name": "esVolta",
+    "url": "https://www.esvolta.com/careers"
+  },
+  {
+    "id": "37aea971-7118-81ae-9ae8-c533f5295e01",
+    "name": "CACIB (Credit Agricole CIB)",
+    "url": "https://jobs.ca-cib.com"
+  },
+  {
+    "id": "37aea971-7118-81ae-a370-ee8c6b3b8d90",
+    "name": "BHG Financial",
+    "url": "https://bhgfinancial.com/careers"
+  },
+  {
+    "id": "37aea971-7118-81ae-a4dd-cb75f3677bec",
+    "name": "Cross River",
+    "url": "https://www.crossriver.com/careers"
+  },
+  {
+    "id": "37aea971-7118-81b2-95fd-c1d150fa95d3",
+    "name": "BlueCrest Capital Management",
+    "url": "https://job-boards.greenhouse.io/bluecrestcapitalmanagement"
+  },
+  {
+    "id": "37aea971-7118-81c4-93d8-ea7866278a78",
+    "name": "Braeswood Carbon",
+    "url": "https://www.braeswoodcarbon.com/jobs"
+  },
+  {
+    "id": "37aea971-7118-81c6-b577-f1bd382fb24d",
+    "name": "Bridge Builder Strategies",
+    "url": "https://www.bridgebuilderstrategies.com/about/careers"
+  },
+  {
+    "id": "37aea971-7118-81cc-bca3-e63fe25da822",
+    "name": "AllianceBernstein",
+    "url": "https://www.alliancebernstein.com/corporate/en/careers.html"
+  },
+  {
+    "id": "37aea971-7118-81d2-a385-d283f1b21b03",
+    "name": "Dimensional",
+    "url": "https://careers.dimensional.com/"
+  },
+  {
+    "id": "37aea971-7118-81d3-955c-e70dc7f3cfcf",
+    "name": "American Century Investment",
+    "url": "https://americancentury.wd5.myworkdayjobs.com/en-US/AmericanCenturyInvestments/job/Santa-Clara-California/Quantitative-Analyst_R0005644"
+  },
+  {
+    "id": "37aea971-7118-81d5-8944-dfaace4ea90d",
+    "name": "Charles Schwab",
+    "url": "https://www.schwabjobs.com/search-jobs/results"
+  },
+  {
+    "id": "37aea971-7118-81da-9c33-f513560bd1b5",
+    "name": "Brevan Howard",
+    "url": "https://www.brevanhoward.com/careers/"
+  },
+  {
+    "id": "37aea971-7118-81dc-aa70-f96fe9dba145",
+    "name": "American Bankers Association",
+    "url": "https://www.aba.com/about-us/work-at-aba"
+  },
+  {
+    "id": "37aea971-7118-81df-b1b0-e400a38b7793",
+    "name": "Auto Club Group",
+    "url": "https://acg.wd1.myworkdayjobs.com/Careers"
+  },
+  {
+    "id": "37aea971-7118-81e1-8069-dc508aad4013",
+    "name": "Avenir Group",
+    "url": "http://avenirx.com/career"
+  },
+  {
+    "id": "37aea971-7118-81e1-9085-c4723cd6141d",
+    "name": "Aspect Capital",
+    "url": "https://www.aspectcapital.com/careers/"
+  },
+  {
+    "id": "37aea971-7118-81e1-a0af-cb260da5ab56",
+    "name": "Broadridge",
+    "url": "https://broadridge.wd5.myworkdayjobs.com/Careers"
+  },
+  {
+    "id": "37aea971-7118-81e4-a720-eab3eed3c25b",
+    "name": "Aquatic Capital",
+    "url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement"
+  },
+  {
+    "id": "37aea971-7118-81e9-93f5-d6ceb785f0f3",
+    "name": "Clear Street",
+    "url": "https://www.clearstreet.io/careers"
+  },
+  {
+    "id": "37aea971-7118-81e9-a691-fa9c16ee64d8",
+    "name": "AXA XL",
+    "url": "https://axaxl.com/about-us/careers-at-axa-xl"
+  },
+  {
+    "id": "37aea971-7118-81ea-96f0-e8c3f820c16f",
+    "name": "Columbia Threadneedle",
+    "url": "https://www.columbiathreadneedleus.com/about/careers"
+  },
+  {
+    "id": "37aea971-7118-81ea-b124-ccac369cd909",
+    "name": "Caxton",
+    "url": "https://www.caxton.com/careers/"
+  },
+  {
+    "id": "37aea971-7118-81ec-8a23-e94e4f71aed9",
+    "name": "Cypress Creek Renewables",
+    "url": "https://ccrenew.com/careers/"
+  },
+  {
+    "id": "37aea971-7118-81ed-b386-d76928c997d6",
+    "name": "CentralSquare",
+    "url": "https://www.centralsquare.com/why-centralsquare/careers"
+  },
+  {
+    "id": "37aea971-7118-81f2-8d7f-c7e1467aafdd",
+    "name": "Allstate",
+    "url": "https://allstate.wd5.myworkdayjobs.com/allstate_careers"
+  },
+  {
+    "id": "37aea971-7118-81f2-9d8b-f8e98c564220",
+    "name": "CIBC",
+    "url": "https://cibc.wd3.myworkdayjobs.com/wday/cxs/cibc/campus/jobs"
+  },
+  {
+    "id": "37aea971-7118-81f9-827e-ecf534440f17",
+    "name": "Deutsche Bank",
+    "url": "https://api-deutschebank.beesite.de/search/"
+  },
+  {
+    "id": "37aea971-7118-81fe-aa48-dd54245223c8",
+    "name": "Castleton Commodities",
+    "url": "https://osv-cci.wd1.myworkdayjobs.com/wday/cxs/osv_cci/CCICareers/jobs"
+  },
+  {
+    "id": "37aea971-7118-81fe-bc38-c1d93490b266",
+    "name": "EverQuote",
+    "url": "https://careers.everquote.com/jobs/"
+  },
+  {
+    "id": "0adb3fce-cb85-4cc8-91a8-8842482a4a0f",
+    "name": "Sunrise Partners",
+    "url": "https://www.sunrisepartners.com/careers/"
+  },
+  {
+    "id": "58a14aa6-053d-435f-a6ec-bd1f05c04b58",
+    "name": "PDT Partners",
+    "url": "https://pdtpartners.com/careers"
+  },
+  {
+    "id": "5b95ef77-9f08-4926-a1c4-414f07bd0dd0",
+    "name": "Chicago Trading Company (Campus)",
+    "url": "https://boards-api.greenhouse.io/v1/boards/chicagotradingcampus/jobs"
+  },
+  {
+    "id": "643305de-9849-4b30-a7bb-a620624dee38",
+    "name": "Capital One (Data Science)",
+    "url": "https://www.capitalonecareers.com/category/data-science/1732/24980/1?sortColumns=ReferenceDate&sortDirections=descending"
+  },
+  {
+    "id": "81c6204b-5a6b-4430-b13e-08ef1c7b729f",
+    "name": "Systematica Investments",
+    "url": "https://systematica.pinpointhq.com/postings.json"
+  },
+  {
+    "id": "8a54bb37-d7b9-4bdc-a924-4259fd6dae6d",
+    "name": "Capital One (Quant)",
+    "url": "https://www.capitalonecareers.com/search-jobs/quantitative/?sortColumns=ReferenceDate&sortDirections=descending"
+  },
+  {
+    "id": "a9495a02-195f-4b74-b80a-22588b1acd6f",
+    "name": "Element Capital",
+    "url": "https://www.elementcap.com/careers/"
+  },
+  {
+    "id": "a994839c-66a5-4cea-9900-da058cc21092",
+    "name": "Citadel",
+    "url": "https://www.citadel.com/careers/open-opportunities/"
+  },
+  {
+    "id": "fd3eaac5-f4d6-4212-b976-871593bad4ed",
+    "name": "XTX Markets",
+    "url": "https://www.xtxmarkets.com/#careers"
+  }
+]

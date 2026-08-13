@@ -1,0 +1,31 @@
+# NEVER commit secrets
+.env
+
+# Logs
+*.log
+
+# State backups (only the live snapshots.json/pending.json are committed)
+state/*.backup-*
+state/snapshots.backup*
+state/pending.backup*
+
+# Python
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
+
+# One-off outputs / scratch data
+*.out
+audit.txt
+tmp_careers/
+
+# One-off maintenance scripts (run locally, not needed on cloud)
+add_companies.py
+fix_urls.py
+update_careers_links.py
+setup.sh
+
+# Local launchd plist (local paths, macOS-only)
+com.heziyu.jobmonitor.plist
