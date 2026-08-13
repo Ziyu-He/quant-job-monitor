@@ -5,6 +5,9 @@ on:
     - cron: '0 14 * * *'      # 10:00 America/New_York (EDT) = 14:00 UTC
   workflow_dispatch:           # manual trigger
 
+permissions:
+  contents: write              # allow the Commit-state step to git push back
+
 concurrency:
   group: job-monitor           # never run two at once (state commit safety)
   cancel-in-progress: false

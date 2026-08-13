@@ -117,6 +117,15 @@ logging.basicConfig(
 )
 log = logging.getLogger(__name__)
 
+# On GitHub Actions the file log isn't visible in the run console (and isn't
+# committed back if the run fails), leaving the cloud run a black box. Also
+# stream logs to stdout there so progress/throttling are visible. Local runs
+# (launchd) are unaffected — this only triggers under Actions / static mode.
+if os.getenv("GITHUB_ACTIONS") == "true" or os.getenv("USE_STATIC_COMPANIES") == "1":
+    _console = logging.StreamHandler()
+    _console.setFormatter(logging.Formatter("%(asctime)s  %(levelname)s  %(message)s"))
+    logging.getLogger().addHandler(_console)
+
 
 def wait_for_network(max_wait: int = 3600, interval: int = 15) -> bool:
     """Block until a TCP connection to 8.8.8.8:53 succeeds or max_wait seconds elapse."""
