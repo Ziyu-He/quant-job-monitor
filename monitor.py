@@ -92,8 +92,9 @@ open to junior roles whose minimum requirement is under 3 years (0-2 years).
 International student — requires visa sponsorship (H-1B / OPT).
 Target roles (new-grad / entry-level through roles requiring at most 3 years of experience):
               Quantitative Researcher, Quantitative Trader, Quantitative Developer,
-              Software Engineer (quant/trading systems), Quantitative Analyst,
-              Index Analyst, Index Researcher, Index Developer.
+              Quantitative Analyst, Trader / Trading (quant or systematic),
+              Index Analyst, Index Researcher, Portfolio Manager / Portfolio Management.
+              (ONLY these quant / trading / index / portfolio functions — NOT software engineering.)
 Preferred locations: US (NYC, Chicago, SF, Boston, Stamford CT), London, Hong Kong,
   Singapore, Netherlands. Remote-only also ok.
 NOT relevant:
@@ -107,6 +108,12 @@ NOT relevant:
     "Chief", "C-suite", "President", "Executive", "Managing Director", "Partner"
     (note: "Senior"/"Lead"/"Manager" alone is acceptable if experience ≤3 years)
   - Non-quant roles (sales, marketing, HR, general ops, etc.)
+  - ANY software-engineering role — the candidate does NOT want software engineering:
+    "Software Engineer", "Software Developer", Java / Python / C++ / C# / full-stack /
+    backend / frontend / web / mobile / DevOps / platform engineer or developer — EVEN if
+    described as "for quant/trading systems", low-latency, or at a quant/trading firm.
+    (BUT "Quantitative Developer" / "Quant Developer" IS wanted — that is a quant role,
+    not a software-engineering role.)
   - Locations outside US, UK/London, Hong Kong, Singapore, Netherlands (incl. Australia/New Zealand — no longer targeted)
 """
 
@@ -208,6 +215,9 @@ URL_OVERRIDES = {
     "Quantbot": "https://boards-api.greenhouse.io/v1/boards/quantbot-technologies/jobs",
     # Trexquant's /careers is a JS SPA proxying Workable (slug trexquant).
     "Trexquant": "https://apply.workable.com/api/v1/widget/accounts/trexquant",
+    # Flow Traders' /careers/graduates is a marketing page; real board is Greenhouse (45 jobs,
+    # incl. Graduate Quant Trader). Was silently missing every Flow Traders opening.
+    "Flow Traders": "https://boards-api.greenhouse.io/v1/boards/flowtraders/jobs",
 }
 
 
@@ -1490,7 +1500,13 @@ Apply these checks in order. If ANY fail, set relevant=false:
    -> KEEP if ANY: a range whose upper bound is 3 or less ("0-2", "1-3", "0-3", "up to 3 years"); OR a minimum-only figure with floor 0-2 and NO upper bound ("1+ years", "2+ years", vague "prior experience"/"background in" with no number); OR new grad / no experience stated.
 3. Internship check: internship/co-op/temporary? -> not relevant.
 4. Location check: not in US (NYC, Chicago, SF, Boston, Stamford CT), UK/London, Hong Kong, Singapore, or Netherlands (remote-only also ok)? -> not relevant. (Australia/New Zealand are NOT targeted — treat AU/NZ locations as not relevant.)
-5. Role check: not a quant/trading/finance-tech/index function? -> not relevant.
+5. Role check: keep ONLY if the role is quantitative research, quantitative/systematic trading,
+   quantitative developer, quantitative analyst, index (analyst/researcher), or portfolio
+   management. ANY software-engineering role is NOT relevant — "Software Engineer", "Software
+   Developer", Java/Python/C++/C#/full-stack/backend/frontend/web/mobile/DevOps/platform,
+   EVEN "for trading systems", low-latency, or at a quant/trading firm. (A title that is
+   literally "Quantitative Developer"/"Quant Developer" stays in; "Software Engineer" does
+   NOT.) If not one of the wanted quant/trading/index/portfolio functions -> not relevant.
 
 Reply ONLY in this JSON format:
 {{
@@ -1696,9 +1712,13 @@ under 3 years (0-2 years) — but NOT roles that require a minimum of 3 or more 
 3. Internship check: is this an internship, co-op, or temporary/seasonal program rather
    than a full-time permanent role? -> not relevant.
 4. Location check: not in US, UK/London, Hong Kong, Singapore, or Netherlands (remote-only also ok)? -> not relevant. (Australia/New Zealand are NOT targeted — treat AU/NZ locations as not relevant.)
-5. Only if the role reads as a genuine full-time position requiring at most 3 years of
-   experience (new-grad, entry-level, Analyst, Associate, or junior ≤3yr) in a
-   quant/trading/finance-tech/index function should relevant=true.
+5. Keep relevant=true ONLY if the role is a quantitative-research / quantitative-or-systematic-
+   trading / quantitative-developer / quantitative-analyst / index (analyst/researcher) /
+   portfolio-management function AND is genuine full-time at most 3 years (new-grad, entry-
+   level, Analyst, Associate, or junior ≤3yr). ANY software-engineering role is NOT relevant —
+   "Software Engineer", "Software Developer", Java/Python/C++/C#/full-stack/backend/frontend/
+   web/DevOps/platform — EVEN "for trading systems" or at a quant firm. ("Quantitative
+   Developer" IS wanted; "Software Engineer" is not.)
 
 Reply ONLY in this JSON format (no other text):
 {{
