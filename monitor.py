@@ -1835,6 +1835,32 @@ def _location_rank(location: str) -> int:
     if any(kw in loc for kw in _NL_KW):     return 4
     return 5  # unknown / other (Australia/NZ no longer targeted)
 
+def load_watchlist() -> list:
+    """Jobs the user is still deciding on — surfaced in EVERY daily email (even a
+    'no new jobs' one) until they say they've decided. Stored in state/watchlist.json
+    as [{company, title, url, added}]."""
+    wf = BASE_DIR / "state" / "watchlist.json"
+    try:
+        return json.loads(wf.read_text()) if wf.exists() else []
+    except Exception:
+        return []
+
+
+def _watchlist_block() -> str:
+    wl = load_watchlist()
+    if not wl:
+        return ""
+    lines = ["", "═" * 48,
+             f"⏰ 你让我持续提醒、还在纠结的岗位({len(wl)} 个,决定后跟我说一声就撤下):"]
+    for w in wl:
+        lines.append(f"  • {w.get('company','')} — {w.get('title','')}")
+        if w.get("url"):
+            lines.append(f"    {w['url']}")
+        if w.get("added"):
+            lines.append(f"    (加入提醒:{w['added']})")
+    return "\n".join(lines)
+
+
 def send_daily_summary(found: list[dict], companies_checked: int):
     """Send one daily digest email — always, even when nothing found."""
     # De-dup (a resumed run may re-queue an alert already in the persisted file)
@@ -1884,6 +1910,7 @@ def send_daily_summary(found: list[dict], companies_checked: int):
         lines.append(f"\n{'─' * 48}")
         lines.append(f"\n— Job Monitor  {datetime.now().strftime('%Y-%m-%d %H:%M')}")
         body = "\n".join(lines)
+    body += _watchlist_block()          # 待决策岗位:每日提醒,直到用户说已决定
     ok = notify_email(subject, body)
     if ok:
         log.info(f"Daily summary sent: {len(found)} alert(s)")
