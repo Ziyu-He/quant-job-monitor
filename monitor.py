@@ -221,6 +221,24 @@ URL_OVERRIDES = {
     # Graham Capital's /careers is a marketing page; real board is Greenhouse (slug
     # grahamcapitalmanagement, 10 jobs incl. Quantitative Research Analyst). Was missing all.
     "Graham Capital Management": "https://boards-api.greenhouse.io/v1/boards/grahamcapitalmanagement/jobs",
+    # ── 2026-08-18 full-list landing-page audit: 16 more companies whose monitored URL
+    #    was a marketing page hiding a real board (verified each yields jobs). ──
+    "Akuna Capital": "https://boards-api.greenhouse.io/v1/boards/akunacapital/jobs",
+    "Cross River": "https://boards-api.greenhouse.io/v1/boards/crossriverbank/jobs",
+    "EverQuote": "https://boards-api.greenhouse.io/v1/boards/everquote/jobs",
+    "Five Rings": "https://boards-api.greenhouse.io/v1/boards/fiveringsllc/jobs",
+    "PDT Partners": "https://boards-api.greenhouse.io/v1/boards/pdtpartners/jobs",
+    "Perpay": "https://boards-api.greenhouse.io/v1/boards/perpay/jobs",
+    "Point72 / Cubist Systematic": "https://boards-api.greenhouse.io/v1/boards/point72/jobs",
+    "Schonfeld": "https://boards-api.greenhouse.io/v1/boards/schonfeld/jobs",
+    "Summit": "https://boards-api.greenhouse.io/v1/boards/summitpartnerslp/jobs",
+    "TransMarket Group": "https://boards-api.greenhouse.io/v1/boards/transmarketgroup/jobs",
+    "BHG Financial": "https://jobs.lever.co/bhg-inc",
+    "Belvedere Trading": "https://jobs.lever.co/belvederetrading",
+    "Syntax": "https://jobs.lever.co/syntax",
+    "Wintermute": "https://jobs.lever.co/wintermute-trading",
+    "ADIA": "https://apply.workable.com/api/v1/widget/accounts/adia",
+    "Caxton": "https://apply.workable.com/api/v1/widget/accounts/caxton",
 }
 
 

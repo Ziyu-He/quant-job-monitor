@@ -17,7 +17,7 @@
   {
     "id": "379ea971-7118-81e0-86d8-f33855af8ac8",
     "name": "Five Rings",
-    "url": "https://fiverings.com/careers/"
+    "url": "https://boards-api.greenhouse.io/v1/boards/fiveringsllc/jobs"
   },
   {
     "id": "379ea971-7118-81be-b436-e633ea22a9b3",
@@ -142,12 +142,12 @@
   {
     "id": "37aea971-7118-8190-8c02-dcde779536f1",
     "name": "Belvedere Trading",
-    "url": "https://www.belvederetrading.com/careers"
+    "url": "https://jobs.lever.co/belvederetrading"
   },
   {
     "id": "37aea971-7118-819b-8ecf-d79ca1ee2875",
     "name": "Point72 / Cubist Systematic",
-    "url": "https://careers.point72.com/"
+    "url": "https://boards-api.greenhouse.io/v1/boards/point72/jobs"
   },
   {
     "id": "37aea971-7118-819e-9916-c37a12b3bd3d",
@@ -157,7 +157,7 @@
   {
     "id": "37aea971-7118-81aa-be4f-d1514486b245",
     "name": "Akuna Capital",
-    "url": "https://akunacapital.com/careers"
+    "url": "https://boards-api.greenhouse.io/v1/boards/akunacapital/jobs"
   },
   {
     "id": "37aea971-7118-8105-afc6-d1965aa09999",
@@ -297,12 +297,12 @@
   {
     "id": "37aea971-7118-815c-9533-d2cef2a061fa",
     "name": "Summit",
-    "url": "https://www.summitpartners.com/summit-careers"
+    "url": "https://boards-api.greenhouse.io/v1/boards/summitpartnerslp/jobs"
   },
   {
     "id": "37aea971-7118-815c-ae6e-ea87d34536fc",
     "name": "TransMarket Group",
-    "url": "https://transmarketgroup.com/careers"
+    "url": "https://boards-api.greenhouse.io/v1/boards/transmarketgroup/jobs"
   },
   {
     "id": "37aea971-7118-8160-a2f7-c8e4b8c2179d",
@@ -467,7 +467,7 @@
   {
     "id": "37aea971-7118-81c2-a348-c84e1242e162",
     "name": "Syntax",
-    "url": "https://www.syntaxdata.com/careers"
+    "url": "https://jobs.lever.co/syntax"
   },
   {
     "id": "37aea971-7118-81c7-88f7-dc03b2632cf6",
@@ -477,7 +477,7 @@
   {
     "id": "37aea971-7118-81cd-b525-c44c9b3d9865",
     "name": "Perpay",
-    "url": "https://perpay.com/careers"
+    "url": "https://boards-api.greenhouse.io/v1/boards/perpay/jobs"
   },
   {
     "id": "37aea971-7118-81ce-a06a-e035f12b7bdd",
@@ -507,12 +507,12 @@
   {
     "id": "37aea971-7118-81da-8d64-f85f420072f9",
     "name": "Schonfeld",
-    "url": "https://www.schonfeld.com/careers/opportunities/"
+    "url": "https://boards-api.greenhouse.io/v1/boards/schonfeld/jobs"
   },
   {
     "id": "37aea971-7118-81e9-a791-fb22e0cbcbbc",
     "name": "Wintermute",
-    "url": "https://wintermute.com/company/opportunities"
+    "url": "https://jobs.lever.co/wintermute-trading"
   },
   {
     "id": "37aea971-7118-81ed-8eb9-dc179ddb3820",
@@ -997,7 +997,7 @@
   {
     "id": "37aea971-7118-8126-9e16-ea76c35c7450",
     "name": "ADIA",
-    "url": "https://jobs.adia.ae"
+    "url": "https://apply.workable.com/api/v1/widget/accounts/adia"
   },
   {
     "id": "37aea971-7118-8127-8fa9-c095c2fa3642",
@@ -1237,12 +1237,12 @@
   {
     "id": "37aea971-7118-81ae-a370-ee8c6b3b8d90",
     "name": "BHG Financial",
-    "url": "https://bhgfinancial.com/careers"
+    "url": "https://jobs.lever.co/bhg-inc"
   },
   {
     "id": "37aea971-7118-81ae-a4dd-cb75f3677bec",
     "name": "Cross River",
-    "url": "https://www.crossriver.com/careers"
+    "url": "https://boards-api.greenhouse.io/v1/boards/crossriverbank/jobs"
   },
   {
     "id": "37aea971-7118-81b2-95fd-c1d150fa95d3",
@@ -1332,7 +1332,7 @@
   {
     "id": "37aea971-7118-81ea-b124-ccac369cd909",
     "name": "Caxton",
-    "url": "https://www.caxton.com/careers/"
+    "url": "https://apply.workable.com/api/v1/widget/accounts/caxton"
   },
   {
     "id": "37aea971-7118-81ec-8a23-e94e4f71aed9",
@@ -1367,7 +1367,7 @@
   {
     "id": "37aea971-7118-81fe-bc38-c1d93490b266",
     "name": "EverQuote",
-    "url": "https://careers.everquote.com/jobs/"
+    "url": "https://boards-api.greenhouse.io/v1/boards/everquote/jobs"
   },
   {
     "id": "0adb3fce-cb85-4cc8-91a8-8842482a4a0f",
@@ -1377,7 +1377,7 @@
   {
     "id": "58a14aa6-053d-435f-a6ec-bd1f05c04b58",
     "name": "PDT Partners",
-    "url": "https://pdtpartners.com/careers"
+    "url": "https://boards-api.greenhouse.io/v1/boards/pdtpartners/jobs"
   },
   {
     "id": "5b95ef77-9f08-4926-a1c4-414f07bd0dd0",
