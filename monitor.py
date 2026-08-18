@@ -218,6 +218,9 @@ URL_OVERRIDES = {
     # Flow Traders' /careers/graduates is a marketing page; real board is Greenhouse (45 jobs,
     # incl. Graduate Quant Trader). Was silently missing every Flow Traders opening.
     "Flow Traders": "https://boards-api.greenhouse.io/v1/boards/flowtraders/jobs",
+    # Graham Capital's /careers is a marketing page; real board is Greenhouse (slug
+    # grahamcapitalmanagement, 10 jobs incl. Quantitative Research Analyst). Was missing all.
+    "Graham Capital Management": "https://boards-api.greenhouse.io/v1/boards/grahamcapitalmanagement/jobs",
 }
 
 
