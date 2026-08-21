@@ -1521,7 +1521,7 @@ def evaluate_linkedin_job(job: dict) -> dict | None:
         return None
 
     # Hard pre-filter: reject JDs whose minimum required experience is 3 or more years
-    if _EXP_YEARS_RE.search(jd_text):
+    if exp_floor_ge3(jd_text):
         log.info(f"  Pre-filter (exp req): {job['company']} — {job['title']}")
         return None
 
@@ -1650,6 +1650,22 @@ _EXP_YEARS_RE = re.compile(
     r"(?<![-–\d])(?<!to )\b(?:[3-9]|\d{2,})\s*(?:[-–]\s*\d+|\s+to\s+\d+|\+)?\s*years?\s+of(?:\s+\w+){0,3}\s+experience",
     re.IGNORECASE,
 )
+
+# The lookbehind above only guards the NO-SPACE range form ("1-3 years"). Spaced
+# ranges ("0 – 3 years", "1 - 3 years") put a space right before the upper number,
+# so the lookbehind passes and the range's UPPER bound is misread as a floor —
+# silently dropping the most on-target jobs (Mackenzie "0 – 3 years" was killed
+# this way). Collapse the whitespace around a digit–digit dash first so the guard
+# governs. Always use this instead of _EXP_YEARS_RE.search() directly.
+_RANGE_WS_RE = re.compile(r"(\d)\s*[-–]\s*(\d)")
+
+def exp_floor_ge3(text: str) -> bool:
+    """True iff the JD's MINIMUM required experience is 3+ years (disqualifying).
+
+    Normalizes spaced numeric ranges ('0 – 3 years' -> '0-3 years') so a range's
+    upper bound isn't mistaken for a floor. '3+ years'/'5+ years'/'3-5 years'
+    (floor >=3) still match; '0-3'/'1-3'/'up to 3 years' (floor 0-2) do not."""
+    return bool(_EXP_YEARS_RE.search(_RANGE_WS_RE.sub(r"\1-\2", text or "")))
 
 _TRAILING_DATE_RE = re.compile(r"\s*\|\s*\d{4}-\d{2}-\d{2}\s*$")
 # Structured-feed marker: [src:id] prefix carrying an immutable job ID.
@@ -2036,7 +2052,7 @@ def main():
                 # JD explicitly requires ≥2 yrs — same hard filter as LinkedIn.
                 # Title-only jobs (no JD) are kept (recall-first).
                 kept = [s for s in sorted(new_sigs)
-                        if not _EXP_YEARS_RE.search(_JD_TEXT.get(s, ""))]
+                        if not exp_floor_ge3(_JD_TEXT.get(s, ""))]
                 dropped = len(new_sigs) - len(kept)
                 log.info(f"  → {len(new_sigs)} new job(s)"
                          + (f" ({dropped} dropped: ≥3y experience)" if dropped else ""))

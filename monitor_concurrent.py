@@ -38,7 +38,7 @@ from monitor import (
     load_state, save_state, load_pending, save_pending, clear_pending,
     alert_macos, send_daily_summary, notify_email, notify_macos, close_browser,
     load_companies,
-    LINKEDIN_KEYWORDS, LINKEDIN_LOCATIONS, _EXP_YEARS_RE,
+    LINKEDIN_KEYWORDS, LINKEDIN_LOCATIONS, exp_floor_ge3,
 )
 
 log = monitor.log
@@ -186,7 +186,7 @@ def collect_careers_payloads(companies, state, now):
         else:
             new_sigs = set(current) - seen
             kept = [s for s in sorted(new_sigs)
-                    if not _EXP_YEARS_RE.search(monitor._JD_TEXT.get(s, ""))]
+                    if not exp_floor_ge3(monitor._JD_TEXT.get(s, ""))]
             if new_sigs:
                 dropped = len(new_sigs) - len(kept)
                 log.info(f"  → {len(new_sigs)} new job(s)"
