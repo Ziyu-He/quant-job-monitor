@@ -287,6 +287,11 @@ URL_OVERRIDES = {
     # Landing-page sweep re-scan: careers pages that embed greenhouse via JS
     # (embed/job_board/js?for=SLUG) — missed by the first audit regex.
     "Altruist": "https://boards-api.greenhouse.io/v1/boards/altruist/jobs?content=true",
+    # Quant market-makers whose careers SPA hides a greenhouse board (found by
+    # slug probing; initial HTML shows no ATS). Optiver uses slug "optiverus".
+    "IMC Trading": "https://boards-api.greenhouse.io/v1/boards/imc/jobs?content=true",
+    "Optiver": "https://boards-api.greenhouse.io/v1/boards/optiverus/jobs?content=true",
+    "Clear Street": "https://boards-api.greenhouse.io/v1/boards/clearstreet/jobs?content=true",
     "GSA Capital": "https://boards-api.greenhouse.io/v1/boards/gsacapital/jobs?content=true",
     "KKR": "https://boards-api.greenhouse.io/v1/boards/stage/jobs?content=true",
     "Kapitus": "https://boards-api.greenhouse.io/v1/boards/kapitus/jobs?content=true",

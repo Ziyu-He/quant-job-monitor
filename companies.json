@@ -137,7 +137,7 @@
   {
     "id": "37aea971-7118-8100-a4a4-fceb36b8ebde",
     "name": "Optiver",
-    "url": "https://optiver.com/working-at-optiver/career-opportunities/"
+    "url": "https://boards-api.greenhouse.io/v1/boards/optiverus/jobs?content=true"
   },
   {
     "id": "37aea971-7118-8190-8c02-dcde779536f1",
@@ -152,7 +152,7 @@
   {
     "id": "37aea971-7118-819e-9916-c37a12b3bd3d",
     "name": "IMC Trading",
-    "url": "https://www.imc.com/eu/careers/"
+    "url": "https://boards-api.greenhouse.io/v1/boards/imc/jobs?content=true"
   },
   {
     "id": "37aea971-7118-81aa-be4f-d1514486b245",
@@ -1317,7 +1317,7 @@
   {
     "id": "37aea971-7118-81e9-93f5-d6ceb785f0f3",
     "name": "Clear Street",
-    "url": "https://www.clearstreet.io/careers"
+    "url": "https://boards-api.greenhouse.io/v1/boards/clearstreet/jobs?content=true"
   },
   {
     "id": "37aea971-7118-81e9-a691-fa9c16ee64d8",
