@@ -292,6 +292,7 @@ URL_OVERRIDES = {
     "IMC Trading": "https://boards-api.greenhouse.io/v1/boards/imc/jobs?content=true",
     "Optiver": "https://boards-api.greenhouse.io/v1/boards/optiverus/jobs?content=true",
     "Clear Street": "https://boards-api.greenhouse.io/v1/boards/clearstreet/jobs?content=true",
+    "XTX Markets": "https://boards-api.greenhouse.io/v1/boards/xtxmarketstechnologies/jobs?content=true",
     "GSA Capital": "https://boards-api.greenhouse.io/v1/boards/gsacapital/jobs?content=true",
     "KKR": "https://boards-api.greenhouse.io/v1/boards/stage/jobs?content=true",
     "Kapitus": "https://boards-api.greenhouse.io/v1/boards/kapitus/jobs?content=true",
