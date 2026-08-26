@@ -266,6 +266,10 @@ URL_OVERRIDES = {
     "Centrica Energy": "https://centrica.wd3.myworkdayjobs.com/Centrica",
     "Capital One (Data Science)": "https://capitalone.wd12.myworkdayjobs.com/Capital_One",
     "Capital One (Quant)": "https://capitalone.wd12.myworkdayjobs.com/Capital_One",
+    # G-Research careers URL was the marketing homepage (gresearch.com) → 0 jobs.
+    # Real board is Workday; store the CXS API form so fetch_workday handles it
+    # (full postings + per-job links + dates), not the human SPA page (page-1 only).
+    "G-research": "https://gresearch.wd103.myworkdayjobs.com/wday/cxs/gresearch/G-Research/jobs",
 }
 
 
