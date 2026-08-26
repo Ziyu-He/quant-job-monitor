@@ -240,32 +240,32 @@ URL_OVERRIDES = {
     "ADIA": "https://apply.workable.com/api/v1/widget/accounts/adia",
     "Caxton": "https://apply.workable.com/api/v1/widget/accounts/caxton",
     # ── 2026-08-18 audit, Workday landing pages (26, each verified to yield jobs). ──
-    "PIMCO": "https://pimco.wd1.myworkdayjobs.com/pimco-careers",
-    "TD Bank": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers",
-    "Robeco": "https://robeco.wd3.myworkdayjobs.com/robecoexternalcareers",
-    "S&P Global": "https://spgi.wd5.myworkdayjobs.com/SPGI_Careers",
-    "S&P500": "https://spgi.wd5.myworkdayjobs.com/SPGI_Careers",
-    "T. Rowe Price": "https://troweprice.wd5.myworkdayjobs.com/TRowePrice/jobs",
-    "Voya": "https://godirect.wd5.myworkdayjobs.com/voya_jobs",
-    "Wellington Management": "https://wellington.wd5.myworkdayjobs.com/External",
-    "Invesco": "https://invesco.wd1.myworkdayjobs.com/IVZearlycareers",
-    "Federal Home Loan Bank of New York": "https://fhlbny.wd1.myworkdayjobs.com/FHLBNY",
-    "LSEG": "https://lseg.wd3.myworkdayjobs.com/Careers",
-    "M&G Investments": "https://mgpru.wd3.myworkdayjobs.com/mandgprudential",
-    "MFS": "https://mfs.wd1.myworkdayjobs.com/MFS-Careers",
-    "Lombard Odier": "https://lombardodier.wd3.myworkdayjobs.com/Lombard_Odier_Careers",
-    "Dodge & Cox": "https://dodgeandcox.wd5.myworkdayjobs.com/Dodgecox",
-    "Capital Research": "https://capgroup.wd1.myworkdayjobs.com/capitalgroupcareers",
-    "DWS": "https://db.wd3.myworkdayjobs.com/en-US/DWSWebsite",
-    "Apollo": "https://athene.wd5.myworkdayjobs.com/Apollo_Careers",
-    "Eastspring Investments": "https://prudential.wd3.myworkdayjobs.com/en-US/prudential_eastspring",
-    "AllianceBernstein": "https://abglobal.wd1.myworkdayjobs.com/alliancebernsteincareers",
-    "Dimensional": "https://dimensional.wd5.myworkdayjobs.com/DFA_Careers",
-    "American Bankers Association": "https://aba.wd1.myworkdayjobs.com/en-US/ABA",
-    "Brookfield": "https://brookfield.wd5.myworkdayjobs.com/brookfield",
-    "Centrica Energy": "https://centrica.wd3.myworkdayjobs.com/Centrica",
-    "Capital One (Data Science)": "https://capitalone.wd12.myworkdayjobs.com/Capital_One",
-    "Capital One (Quant)": "https://capitalone.wd12.myworkdayjobs.com/Capital_One",
+    "PIMCO": "https://pimco.wd1.myworkdayjobs.com/wday/cxs/pimco/pimco-careers/jobs",
+    "TD Bank": "https://td.wd3.myworkdayjobs.com/wday/cxs/td/TD_Bank_Careers/jobs",
+    "Robeco": "https://robeco.wd3.myworkdayjobs.com/wday/cxs/robeco/robecoexternalcareers/jobs",
+    "S&P Global": "https://spgi.wd5.myworkdayjobs.com/wday/cxs/spgi/SPGI_Careers/jobs",
+    "S&P500": "https://spgi.wd5.myworkdayjobs.com/wday/cxs/spgi/SPGI_Careers/jobs",
+    "T. Rowe Price": "https://troweprice.wd5.myworkdayjobs.com/wday/cxs/troweprice/TRowePrice/jobs",
+    "Voya": "https://godirect.wd5.myworkdayjobs.com/wday/cxs/godirect/voya_jobs/jobs",
+    "Wellington Management": "https://wellington.wd5.myworkdayjobs.com/wday/cxs/wellington/External/jobs",
+    "Invesco": "https://invesco.wd1.myworkdayjobs.com/wday/cxs/invesco/IVZearlycareers/jobs",
+    "Federal Home Loan Bank of New York": "https://fhlbny.wd1.myworkdayjobs.com/wday/cxs/fhlbny/FHLBNY/jobs",
+    "LSEG": "https://lseg.wd3.myworkdayjobs.com/wday/cxs/lseg/Careers/jobs",
+    "M&G Investments": "https://mgpru.wd3.myworkdayjobs.com/wday/cxs/mgpru/mandgprudential/jobs",
+    "MFS": "https://mfs.wd1.myworkdayjobs.com/wday/cxs/mfs/MFS-Careers/jobs",
+    "Lombard Odier": "https://lombardodier.wd3.myworkdayjobs.com/wday/cxs/lombardodier/Lombard_Odier_Careers/jobs",
+    "Dodge & Cox": "https://dodgeandcox.wd5.myworkdayjobs.com/wday/cxs/dodgeandcox/Dodgecox/jobs",
+    "Capital Research": "https://capgroup.wd1.myworkdayjobs.com/wday/cxs/capgroup/capitalgroupcareers/jobs",
+    "DWS": "https://db.wd3.myworkdayjobs.com/wday/cxs/db/DWSWebsite/jobs",
+    "Apollo": "https://athene.wd5.myworkdayjobs.com/wday/cxs/athene/Apollo_Careers/jobs",
+    "Eastspring Investments": "https://prudential.wd3.myworkdayjobs.com/wday/cxs/prudential/prudential_eastspring/jobs",
+    "AllianceBernstein": "https://abglobal.wd1.myworkdayjobs.com/wday/cxs/abglobal/alliancebernsteincareers/jobs",
+    "Dimensional": "https://dimensional.wd5.myworkdayjobs.com/wday/cxs/dimensional/DFA_Careers/jobs",
+    "American Bankers Association": "https://aba.wd1.myworkdayjobs.com/wday/cxs/aba/ABA/jobs",
+    "Brookfield": "https://brookfield.wd5.myworkdayjobs.com/wday/cxs/brookfield/brookfield/jobs",
+    "Centrica Energy": "https://centrica.wd3.myworkdayjobs.com/wday/cxs/centrica/Centrica/jobs",
+    "Capital One (Data Science)": "https://capitalone.wd12.myworkdayjobs.com/wday/cxs/capitalone/Capital_One/jobs",
+    "Capital One (Quant)": "https://capitalone.wd12.myworkdayjobs.com/wday/cxs/capitalone/Capital_One/jobs",
     # G-Research careers URL was the marketing homepage (gresearch.com) → 0 jobs.
     # Real board is Workday; store the CXS API form so fetch_workday handles it
     # (full postings + per-job links + dates), not the human SPA page (page-1 only).
@@ -1266,6 +1266,20 @@ def fetch_text(url: str) -> str | None:
     # Workday CXS API (POST-based) — handled by its own adapter
     if "/wday/cxs/" in url and url.rstrip("/").endswith("/jobs"):
         return fetch_workday(url)
+    # Workday HUMAN page (tenant.wdN.myworkdayjobs.com/[locale/]{site}[/...]) — the
+    # JS SPA. A generic GET only yields page-1 titles with no links/dates/JD (and
+    # no pagination), so companies configured with the human URL run degraded and
+    # silently miss most jobs. Convert to the CXS API so fetch_workday pulls every
+    # posting. site = first path segment after any locale; also handles /jobs tabs
+    # and deep /job/… permalinks. (CXS form already returned above.)
+    _wdm = re.match(
+        r"https?://([^.]+)(\.wd\d+\.myworkdayjobs\.com)/(?:[a-z]{2}-[A-Z]{2}/)?([^/?#]+)",
+        url,
+    )
+    if _wdm:
+        tenant, dom, site = _wdm.group(1), _wdm.group(2), _wdm.group(3)
+        # Force https — the CXS POST API rejects http (some configs use http://).
+        return fetch_workday(f"https://{tenant}{dom}/wday/cxs/{tenant}/{site}/jobs")
     # Deutsche Bank beesite search API
     if "api-deutschebank.beesite.de/search" in url:
         return fetch_deutschebank(url)
