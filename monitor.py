@@ -270,6 +270,11 @@ URL_OVERRIDES = {
     # Real board is Workday; store the CXS API form so fetch_workday handles it
     # (full postings + per-job links + dates), not the human SPA page (page-1 only).
     "G-research": "https://gresearch.wd103.myworkdayjobs.com/wday/cxs/gresearch/G-Research/jobs",
+    # Marshall Wace launched a real Greenhouse grad board (mw-tech-grad) in
+    # Aug 2026 — Quant Research/Quant Developer 2027. The old careers URL
+    # (mwam.com/join-us/quantitative) is marketing only; apply link lives on
+    # the programme page → Greenhouse. Point straight at the board API.
+    "Marshall Wace": "https://boards-api.greenhouse.io/v1/boards/mw-tech-grad/jobs?content=true",
 }
 
 
