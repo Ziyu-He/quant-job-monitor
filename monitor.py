@@ -284,6 +284,14 @@ URL_OVERRIDES = {
     # (boards.greenhouse.io/embed/job_board/js?for=aqr) — 51 jobs incl. 2027
     # Research/Trading/Portfolio Analyst. Point at the board API.
     "AQR Capital Management": "https://boards-api.greenhouse.io/v1/boards/aqr/jobs?content=true",
+    # Landing-page sweep re-scan: careers pages that embed greenhouse via JS
+    # (embed/job_board/js?for=SLUG) — missed by the first audit regex.
+    "Altruist": "https://boards-api.greenhouse.io/v1/boards/altruist/jobs?content=true",
+    "GSA Capital": "https://boards-api.greenhouse.io/v1/boards/gsacapital/jobs?content=true",
+    "KKR": "https://boards-api.greenhouse.io/v1/boards/stage/jobs?content=true",
+    "Kapitus": "https://boards-api.greenhouse.io/v1/boards/kapitus/jobs?content=true",
+    "Vatic Labs": "https://boards-api.greenhouse.io/v1/boards/vaticlabs/jobs?content=true",
+    "Virtu Financial": "https://boards-api.greenhouse.io/v1/boards/virtu/jobs?content=true",
 }
 
 

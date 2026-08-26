@@ -122,7 +122,7 @@
   {
     "id": "379ea971-7118-816e-9d39-d0eb30a02a56",
     "name": "Virtu Financial",
-    "url": "https://www.virtu.com/careers/"
+    "url": "https://boards-api.greenhouse.io/v1/boards/virtu/jobs?content=true"
   },
   {
     "id": "379ea971-7118-8162-8766-d326263b2c13",
@@ -422,7 +422,7 @@
   {
     "id": "37aea971-7118-81b5-9e6c-cd3d4f94e4f5",
     "name": "Vatic Labs",
-    "url": "https://www.vaticlabs.ai/careers/"
+    "url": "https://boards-api.greenhouse.io/v1/boards/vaticlabs/jobs?content=true"
   },
   {
     "id": "37aea971-7118-81b8-9cb7-d72539e13eaa",
@@ -752,7 +752,7 @@
   {
     "id": "37aea971-7118-8172-b60c-f4d183b0aaca",
     "name": "Kapitus",
-    "url": "https://kapitus.com/careers/"
+    "url": "https://boards-api.greenhouse.io/v1/boards/kapitus/jobs?content=true"
   },
   {
     "id": "37aea971-7118-8175-8a4a-de4e39f0681a",
@@ -892,7 +892,7 @@
   {
     "id": "37aea971-7118-81be-bef9-fbed981bbc18",
     "name": "GSA Capital",
-    "url": "https://www.gsacapital.com/join-us"
+    "url": "https://boards-api.greenhouse.io/v1/boards/gsacapital/jobs?content=true"
   },
   {
     "id": "37aea971-7118-81c0-8e8b-f3b87abcbbaf",
@@ -932,7 +932,7 @@
   {
     "id": "37aea971-7118-81dc-afbc-f8831a0f0b3a",
     "name": "KKR",
-    "url": "https://www.kkr.com/careers/career-opportunities"
+    "url": "https://boards-api.greenhouse.io/v1/boards/stage/jobs?content=true"
   },
   {
     "id": "37aea971-7118-81e3-b287-df09293922e8",
@@ -992,7 +992,7 @@
   {
     "id": "37aea971-7118-8120-a9b5-ed99392f5b75",
     "name": "Altruist",
-    "url": "https://altruist.com/careers"
+    "url": "https://boards-api.greenhouse.io/v1/boards/altruist/jobs?content=true"
   },
   {
     "id": "37aea971-7118-8126-9e16-ea76c35c7450",
