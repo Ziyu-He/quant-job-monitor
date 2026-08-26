@@ -62,7 +62,7 @@
   {
     "id": "379ea971-7118-8138-a690-e2acecf9a742",
     "name": "AQR Capital Management",
-    "url": "https://careers.aqr.com/jobs/category/research"
+    "url": "https://boards-api.greenhouse.io/v1/boards/aqr/jobs?content=true"
   },
   {
     "id": "379ea971-7118-8189-a19d-c4bda3ec94af",

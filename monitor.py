@@ -280,6 +280,10 @@ URL_OVERRIDES = {
     "Millennium Management": "https://mlp.eightfold.ai/api/apply/v2/jobs?domain=mlp.com",
     # Capula careers page is marketing; real board is Workable.
     "Capula": "https://apply.workable.com/api/v1/widget/accounts/capula-investment-management-ltd",
+    # AQR careers page is a JS SPA embedding greenhouse board slug "aqr"
+    # (boards.greenhouse.io/embed/job_board/js?for=aqr) — 51 jobs incl. 2027
+    # Research/Trading/Portfolio Analyst. Point at the board API.
+    "AQR Capital Management": "https://boards-api.greenhouse.io/v1/boards/aqr/jobs?content=true",
 }
 
 
