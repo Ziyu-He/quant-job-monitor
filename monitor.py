@@ -275,6 +275,11 @@ URL_OVERRIDES = {
     # (mwam.com/join-us/quantitative) is marketing only; apply link lives on
     # the programme page → Greenhouse. Point straight at the board API.
     "Marshall Wace": "https://boards-api.greenhouse.io/v1/boards/mw-tech-grad/jobs?content=true",
+    # Millennium careers URL was mlp.com/careers/students (marketing) → 0 jobs.
+    # Real board is Eightfold; its pcsx/search 403s so use apply/v2/jobs (224 jobs).
+    "Millennium Management": "https://mlp.eightfold.ai/api/apply/v2/jobs?domain=mlp.com",
+    # Capula careers page is marketing; real board is Workable.
+    "Capula": "https://apply.workable.com/api/v1/widget/accounts/capula-investment-management-ltd",
 }
 
 
@@ -872,12 +877,52 @@ def fetch_eightfold(base_url: str) -> str | None:
     """Pull relevant postings from an Eightfold pcsx search API.
 
     base_url like https://{tenant}.eightfold.ai/api/pcsx/search?domain=...
+    Some tenants (e.g. Millennium) 403 the pcsx/search endpoint but serve the
+    same catalogue via /api/apply/v2/jobs — handled by its own branch below.
     """
     jobs = {}
     _m = re.match(r"(https?://[^/]+)", base_url)
     ef_host = _m.group(1) if _m else ""
     _dm = re.search(r"[?&]domain=([^&]+)", base_url)
     ef_domq = f"?domain={_dm.group(1)}" if _dm else ""
+
+    # apply/v2/jobs variant: top-level `positions`, no query term, paginate by
+    # start/num; canonicalPositionUrl + t_create carry the link/date.
+    if "/api/apply/v2/jobs" in base_url:
+        try:
+            start = 0
+            while start < 2000:
+                sep = "&" if "?" in base_url else "?"
+                u = f"{base_url}{sep}start={start}&num=10"
+                resp = requests.get(u, headers={**HEADERS, "Accept": "application/json"}, timeout=20)
+                if resp.status_code != 200:
+                    break
+                data = resp.json()
+                positions = data.get("positions", []) or []
+                total = data.get("count", 0)
+                if not positions:
+                    break
+                for pos in positions:
+                    jid = pos.get("id", "")
+                    loc = ", ".join(pos.get("locations", [])[:2]) or pos.get("location", "")
+                    if jid:
+                        jobs[jid] = f"[ef:{jid}] {pos.get('name','')} | {loc}"
+                        purl = pos.get("canonicalPositionUrl") or ""
+                        if purl:
+                            _JOB_URL[f"ef:{jid}"] = purl
+                        _ts = pos.get("t_create") or pos.get("t_update")
+                        if _ts:
+                            try:
+                                _JOB_DATE[f"ef:{jid}"] = datetime.fromtimestamp(int(_ts)).strftime("%Y-%m-%d")
+                            except Exception:
+                                pass
+                start += len(positions)
+                if total and start >= total:
+                    break
+            return "\n".join(jobs.values()) if jobs else ""
+        except Exception as e:
+            log.warning(f"eightfold apply/v2 fetch failed: {e}")
+            return None
     try:
         for term in _BANK_SEARCHES:
             start = 0
@@ -1265,8 +1310,8 @@ def fetch_text(url: str) -> str | None:
     # Lever postings API
     if "api.lever.co/v0/postings" in url:
         return fetch_lever(url)
-    # Eightfold AI pcsx search API (Morgan Stanley, …)
-    if "eightfold.ai/api/pcsx/search" in url:
+    # Eightfold AI API (Morgan Stanley pcsx/search; Millennium apply/v2/jobs)
+    if "eightfold.ai/api/pcsx/search" in url or "eightfold.ai/api/apply/v2/jobs" in url:
         return fetch_eightfold(url)
     # Workday CXS API (POST-based) — handled by its own adapter
     if "/wday/cxs/" in url and url.rstrip("/").endswith("/jobs"):
