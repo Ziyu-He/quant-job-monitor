@@ -293,6 +293,9 @@ URL_OVERRIDES = {
     "Optiver": "https://boards-api.greenhouse.io/v1/boards/optiverus/jobs?content=true",
     "Clear Street": "https://boards-api.greenhouse.io/v1/boards/clearstreet/jobs?content=true",
     "XTX Markets": "https://boards-api.greenhouse.io/v1/boards/xtxmarketstechnologies/jobs?content=true",
+    # Brevan Howard uses Workday on myworkdaysite.com (not myworkdayjobs.com,
+    # so the fetch_text converter does not apply) — store the CXS form directly.
+    "Brevan Howard": "https://wd3.myworkdaysite.com/wday/cxs/brevanhoward/BH_ExternalCareers/jobs",
     "GSA Capital": "https://boards-api.greenhouse.io/v1/boards/gsacapital/jobs?content=true",
     "KKR": "https://boards-api.greenhouse.io/v1/boards/stage/jobs?content=true",
     "Kapitus": "https://boards-api.greenhouse.io/v1/boards/kapitus/jobs?content=true",
