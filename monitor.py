@@ -1087,12 +1087,14 @@ def fetch_greenhouse(url: str) -> str | None:
         resp = requests.get(f"{url}{sep}content=true", headers=HEADERS, timeout=20)
         if resp.status_code != 200:
             return None
-        # Slug from the board API URL → build the canonical Greenhouse-hosted job
-        # URL. Some companies' `absolute_url` points at their own embedded board
-        # (e.g. Tower: www.tower-research.com/open-positions/?gh_jid=… ) which does
-        # NOT deep-link to the specific posting — it just shows the full list. The
-        # hosted job-boards.greenhouse.io/{slug}/jobs/{id} URL always opens the
-        # exact job in a browser, so prefer it.
+        # Slug from the board API URL → build a per-job link. Some companies'
+        # `absolute_url` points at their own embedded board (e.g. Tower:
+        # www.tower-research.com/open-positions/?gh_jid=… ) which does NOT
+        # deep-link. The hosted job-boards.greenhouse.io/{slug}/jobs/{id} URL
+        # deep-links for most boards but 404s on embed-only boards (GSA Capital
+        # disabled its hosted board). The embed job_app form works for EVERY
+        # greenhouse board+token (verified across aqr/point72/imc/gsacapital/…),
+        # so use it universally to guarantee the link always opens the exact job.
         sm = re.search(r"/boards/([^/?]+)", url)
         slug = sm.group(1) if sm else ""
         lines = []
@@ -1106,7 +1108,7 @@ def fetch_greenhouse(url: str) -> str | None:
             if _pub:
                 _JOB_DATE[f"gh:{jid}"] = _pub[:10]
             if slug and jid:
-                _JOB_URL[f"gh:{jid}"] = f"https://job-boards.greenhouse.io/{slug}/jobs/{jid}"
+                _JOB_URL[f"gh:{jid}"] = f"https://job-boards.greenhouse.io/embed/job_app?for={slug}&token={jid}"
             elif job.get("absolute_url"):
                 _JOB_URL[f"gh:{jid}"] = job["absolute_url"]
         return "\n".join(lines) if lines else ""
