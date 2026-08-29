@@ -7,6 +7,18 @@ Notifies via macOS system notification + email when relevant new roles appear.
 import os, json, hashlib, sqlite3, subprocess, logging, shutil, tempfile
 import urllib.parse, time, re
 from datetime import datetime, timedelta
+from zoneinfo import ZoneInfo
+
+# The monitor is designed around a 10:00 America/New_York cadence, but CI
+# runners tick in UTC. Keying the daily-digest dedup off UTC lets a run that
+# slips past UTC midnight (e.g. a GitHub-delayed schedule firing at 00:0X UTC)
+# stamp the *next* calendar day, which then suppresses that day's real digest.
+# Anchor "today" to Eastern time so the day boundary matches the intended cadence.
+_ET = ZoneInfo("America/New_York")
+
+
+def today_et() -> str:
+    return datetime.now(_ET).strftime("%Y-%m-%d")
 from pathlib import Path
 
 import requests
@@ -2263,7 +2275,7 @@ def main():
     # resumed run after a crash). Only the first successful send goes out; later
     # runs still scan and update state, but their finds stay in pending.json and
     # roll into tomorrow's digest — so we never spam, and never miss.
-    today = datetime.now().strftime("%Y-%m-%d")
+    today = today_et()
     if _LLM_BALANCE_ERR:
         # Billing failure: every job went unevaluated (held for retry, not marked
         # seen). Do NOT send a misleading "no new jobs" digest or set

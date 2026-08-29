@@ -408,7 +408,8 @@ def main(dry_run: bool = False):
         return
 
     # ── One daily digest email — at most once per calendar day (same as monitor.py) ──
-    today = datetime.now().strftime("%Y-%m-%d")
+    # Anchor to Eastern time, not the runner's UTC — see monitor.today_et().
+    today = monitor.today_et()
     if monitor._LLM_BALANCE_ERR:
         msg = ("DeepSeek API 余额不足(402 Insufficient Balance),今天所有岗位都没能评估。"
                "岗位已暂存待重评——请充值后重跑,不会漏。")
