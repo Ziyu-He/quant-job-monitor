@@ -1652,12 +1652,16 @@ Apply these checks in order. If ANY fail, set relevant=false:
 3. Internship check: internship/co-op/temporary? -> not relevant.
 4. Location check: not in US (NYC, Chicago, SF, Boston, Stamford CT), UK/London, Hong Kong, Singapore, or Netherlands (remote-only also ok)? -> not relevant. (Australia/New Zealand are NOT targeted — treat AU/NZ locations as not relevant.)
 5. Role check: keep ONLY if the role is quantitative research, quantitative/systematic trading,
-   quantitative developer, quantitative analyst, index (analyst/researcher), or portfolio
-   management. ANY software-engineering role is NOT relevant — "Software Engineer", "Software
-   Developer", Java/Python/C++/C#/full-stack/backend/frontend/web/mobile/DevOps/platform,
-   EVEN "for trading systems", low-latency, or at a quant/trading firm. (A title that is
-   literally "Quantitative Developer"/"Quant Developer" stays in; "Software Engineer" does
-   NOT.) If not one of the wanted quant/trading/index/portfolio functions -> not relevant.
+   quantitative developer, quantitative analyst, quantitative technology (INCLUDING quant-tech
+   or quant-dev rotational / associate / graduate programs at an investment manager or quant/
+   trading firm, whose work is quantitative development, data/analysis, or research tooling),
+   index (analyst/researcher), or portfolio management. Reject a GENERIC software-engineering
+   role — "Software Engineer", "Software Developer", Java/Python/C++/C#/full-stack/backend/
+   frontend/web/mobile/DevOps/platform, EVEN "for trading systems", low-latency, or at a quant/
+   trading firm. BUT a title/role that is explicitly quantitative stays in: "Quantitative
+   Developer"/"Quant Developer", "Quantitative Technology Associate", or a quant-dev rotation —
+   when a role blends technology with quantitative development/research at an investment or
+   quant firm, KEEP it. If not one of the wanted functions -> not relevant.
 
 Reply ONLY in this JSON format:
 {{
@@ -1880,12 +1884,16 @@ under 3 years (0-2 years) — but NOT roles that require a minimum of 3 or more 
    than a full-time permanent role? -> not relevant.
 4. Location check: not in US, UK/London, Hong Kong, Singapore, or Netherlands (remote-only also ok)? -> not relevant. (Australia/New Zealand are NOT targeted — treat AU/NZ locations as not relevant.)
 5. Keep relevant=true ONLY if the role is a quantitative-research / quantitative-or-systematic-
-   trading / quantitative-developer / quantitative-analyst / index (analyst/researcher) /
-   portfolio-management function AND is genuine full-time at most 3 years (new-grad, entry-
-   level, Analyst, Associate, or junior ≤3yr). ANY software-engineering role is NOT relevant —
-   "Software Engineer", "Software Developer", Java/Python/C++/C#/full-stack/backend/frontend/
-   web/DevOps/platform — EVEN "for trading systems" or at a quant firm. ("Quantitative
-   Developer" IS wanted; "Software Engineer" is not.)
+   trading / quantitative-developer / quantitative-analyst / quantitative-technology (incl.
+   quant-tech or quant-dev rotational / associate / graduate programs at an investment manager
+   or quant/trading firm) / index (analyst/researcher) / portfolio-management function AND is
+   genuine full-time at most 3 years (new-grad, entry-level, Analyst, Associate, or junior ≤3yr).
+   Reject a GENERIC software-engineering role — "Software Engineer", "Software Developer",
+   Java/Python/C++/C#/full-stack/backend/frontend/web/DevOps/platform — EVEN "for trading
+   systems" or at a quant firm. BUT an explicitly quantitative title/role stays in:
+   "Quantitative Developer", "Quantitative Technology Associate", a quant-dev rotation — when a
+   role blends technology with quantitative development/research at an investment or quant firm,
+   KEEP it.
 
 Reply ONLY in this JSON format (no other text):
 {{
