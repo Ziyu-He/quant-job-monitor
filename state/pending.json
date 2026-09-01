@@ -65,5 +65,31 @@
     "url": "https://www.linkedin.com/jobs/view/3819720325",
     "source": "linkedin",
     "location": "New York City Metropolitan Area"
+  },
+  {
+    "company": "Fidelity",
+    "roles": "Quantitative Analyst",
+    "reason": "Only [1] is a full-time Quantitative Analyst role with no disqualifying seniority/experience/location; the other entries are seasonal/2028-oriented postings without a clearly matching full-time quant/trading/index/portfolio function.",
+    "url": "https://jobs.fidelity.com/en/students/asset-management",
+    "job_links": [],
+    "source": "careers"
+  },
+  {
+    "company": "Citi",
+    "roles": "Markets, Quantitative Analysis, Full Time Associate, London, 2027",
+    "reason": "Only the Markets Quantitative Analysis Full Time Associate in London is a full-time junior quant-analysis role in an allowed location with no stated minimum experience.",
+    "url": "https://jobs.citi.com/search-jobs",
+    "job_links": [
+      "https://jobs.citi.com/job/london/markets-quantitative-analysis-full-time-associate-london-2027/287/100035343696"
+    ],
+    "source": "careers"
+  },
+  {
+    "company": "Sartre Group",
+    "roles": "Quantitative Developer",
+    "reason": "The JD is for a New York City Quantitative Developer role open to 'Zero to two years of professional experience, including relevant internships,' which matches the candidate's target role, experience level, and preferred NYC location.",
+    "url": "https://www.linkedin.com/jobs/view/4462053142",
+    "source": "linkedin",
+    "location": "New York City Metropolitan Area"
   }
 ]
