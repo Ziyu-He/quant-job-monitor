@@ -2,8 +2,8 @@ name: job-monitor
 
 on:
   schedule:
-    - cron: '17 14 * * *'     # primary: 14:17 UTC (~10:17 ET) — off the top-of-hour to dodge GH scheduler congestion
-    - cron: '30 18 * * *'     # fallback: 18:30 UTC — reruns if primary was dropped; last_email_date dedup prevents double email
+    - cron: '17 13 * * *'     # primary: 13:17 UTC (~9:17 ET) — off the top-of-hour to dodge GH scheduler congestion
+    - cron: '30 17 * * *'     # fallback: 17:30 UTC — reruns if primary was dropped; last_email_date dedup prevents double email
   workflow_dispatch:           # manual trigger
 
 permissions:
