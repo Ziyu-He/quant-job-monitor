@@ -176,5 +176,41 @@
     "url": "https://www.linkedin.com/jobs/view/4461672046",
     "source": "linkedin",
     "location": "New York, NY"
+  },
+  {
+    "company": "Wellington Management",
+    "roles": "Quantitative Strategist, Risk Modeling & Research",
+    "reason": "The posting is a quantitative strategist role in Boston with no stated minimum experience or senior title, so it is potentially relevant for an entry-level quant candidate.",
+    "url": "https://wellington.wd5.myworkdayjobs.com/en-US/External",
+    "job_links": [
+      "https://wellington.wd5.myworkdayjobs.com/en-US/External/job/Boston-MA-United-States/Quantitative-Strategist--Risk-Modeling---Research_R94536-2"
+    ],
+    "source": "careers"
+  },
+  {
+    "company": "Barclays",
+    "roles": "Analyst - Equity Financing Quant Trader",
+    "reason": "Only [8] is an Analyst-level quantitative trading role with no stated seniority or experience minimum; all other roles are VP/senior, software-engineering, non-quant, internship, or in excluded locations.",
+    "url": "https://search.jobs.barclays/search-jobs",
+    "job_links": [
+      "https://search.jobs.barclays/job/new-york/analyst-equity-financing-quant-trader/13015/100128634240"
+    ],
+    "source": "careers"
+  },
+  {
+    "company": "Fionics",
+    "roles": "Quantitative Trader, Quantitative Researcher",
+    "reason": "The posting is for a remote 'Trader/Researcher, Crypto Stat Arb' role with no explicit minimum years range, matching the candidate's quantitative trading/research and unspecified-experience filters.",
+    "url": "https://www.linkedin.com/jobs/view/4461653498",
+    "source": "linkedin",
+    "location": "New York City Metropolitan Area"
+  },
+  {
+    "company": "CLM Dallas Chapter",
+    "roles": "Portfolio Manager / Portfolio Management",
+    "reason": "No experience minimum or seniority title is stated, and the New York-based Credit Strategist role involves translating top-down credit views into 'portfolio positioning, sizing, and allocation tilts,' matching the candidate's portfolio-management interest.",
+    "url": "https://www.linkedin.com/jobs/view/4462887583",
+    "source": "linkedin",
+    "location": "New York, NY"
   }
 ]
