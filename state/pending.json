@@ -36,5 +36,23 @@
     "url": "https://www.linkedin.com/jobs/view/4463396489",
     "source": "linkedin",
     "location": "Chicago, IL"
+  },
+  {
+    "company": "Barclays",
+    "roles": "Quantitative Analytics Associate Graduate Programme 2027 London",
+    "reason": "The only relevant posting is [14], a full-time quantitative analytics graduate programme in London for new graduates; all other roles are either senior management, non-quant, software engineering, or internship roles.",
+    "url": "https://search.jobs.barclays/search-jobs",
+    "job_links": [
+      "https://search.jobs.barclays/job/london/quantitative-analytics-associate-graduate-programme-2027-london/13015/100174975856"
+    ],
+    "source": "careers"
+  },
+  {
+    "company": "Hunter Bond",
+    "roles": "Quantitative Developer",
+    "reason": "The posting is for a 'Quantitative Developer' role in London with no minimum years of experience stated, which matches the candidate's target role and experience level.",
+    "url": "https://www.linkedin.com/jobs/view/4461186936",
+    "source": "linkedin",
+    "location": "London Area, United Kingdom"
   }
 ]
