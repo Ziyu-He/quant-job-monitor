@@ -1,0 +1,84 @@
+[
+  {
+    "company": "DRW",
+    "roles": "Associate Trader",
+    "reason": "Associate Trader in Amsterdam is an entry-level trading role in a preferred location with no stated minimum experience requirement.",
+    "url": "https://job-boards.greenhouse.io/drweng",
+    "job_links": [
+      "https://job-boards.greenhouse.io/embed/job_app?for=drweng&token=8127674"
+    ],
+    "source": "careers"
+  },
+  {
+    "company": "U.S. Bank",
+    "roles": "Quantitative Modeling Rotational Program",
+    "reason": "2027 Quantitative Modeling Rotational Program is a full-time entry-level quantitative role in a permitted US location, not an internship or software engineering role.",
+    "url": "https://usbank.wd1.myworkdayjobs.com/en-US/US_Bank_Careers",
+    "job_links": [
+      "https://usbank.wd1.myworkdayjobs.com/en-US/US_Bank_Careers/job/Charlotte-NC/XMLNAME-2027-Quantitative-Modeling-Rotational-Program_2026-0027548"
+    ],
+    "source": "careers"
+  },
+  {
+    "company": "JPMorgan",
+    "roles": "Quantitative Trading & Research - Quantitative Developer Systematic Trading - Associate, Quantitative Trading & Research - AI Scientist - Associate, Quantitative Trading & Research - Market Microstructure & High-Frequency - Associate",
+    "reason": "Only the three New York Quantitative Trading & Research Associate postings are junior quantitative/trading roles in a permitted location, while all others are non-quant, senior, non-target locations, or software-engineering roles.",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?siteNumber=CX_1001",
+    "job_links": [
+      "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210788975",
+      "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210788998",
+      "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210789012"
+    ],
+    "source": "careers"
+  },
+  {
+    "company": "Goldman Sachs Asset Management",
+    "roles": "Private Wealth Management, Strategic Investment Strategy Group, Analyst/Associate, London",
+    "reason": "Posting [0] is a junior PWM Strategic Investment Strategy Group Analyst/Associate role in London with no stated experience minimum and no disqualifying seniority, while the other postings are outside target geographies, VP-level, non-quant compliance/audit/accounting, or operations/lifecycle roles.",
+    "url": "https://api-higher.gs.com/gateway/api/v1/graphql",
+    "job_links": [
+      "https://higher.gs.com/roles/182246"
+    ],
+    "source": "careers"
+  },
+  {
+    "company": "Stabile Search",
+    "roles": "Machine Learning Researcher, Quantitative Researcher",
+    "reason": "The JD is for a Machine Learning Researcher at a quantitative trading firm with no stated minimum years requirement and work 'deployed directly into live trading,' which aligns with the candidate's quantitative researcher target.",
+    "url": "https://www.linkedin.com/jobs/view/4464620236",
+    "source": "linkedin",
+    "location": "New York City Metropolitan Area"
+  },
+  {
+    "company": "Goliath Partners",
+    "roles": "Quantitative Researcher",
+    "reason": "The role is a NYC-based Quantitative Researcher focused on HFT options/volatility strategies, with no stated minimum years of experience and no rejecting seniority keyword.",
+    "url": "https://www.linkedin.com/jobs/view/4464626000",
+    "source": "linkedin",
+    "location": "New York City Metropolitan Area"
+  },
+  {
+    "company": "Goldman Sachs",
+    "roles": "Quantitative Analyst",
+    "reason": "The London-based Analyst/Associate role in Goldman Sachs PWM ISG requires quantitative finance and programming to \"develop customized asset allocation solutions for our clients and to implement discretionarily managed quantitative strategies,\" with no minimum years stated.",
+    "url": "https://www.linkedin.com/jobs/view/4463518935",
+    "source": "linkedin",
+    "location": "London, England, United Kingdom"
+  },
+  {
+    "company": "General Index",
+    "roles": "Pricing Analyst",
+    "reason": "The JD is for a Singapore office-based Pricing Analyst role focused on daily commodity price/index assessment with no stated experience minimum, matching an entry-level index/pricing analyst position in a preferred location.",
+    "url": "https://www.linkedin.com/jobs/view/4464631891",
+    "source": "linkedin",
+    "location": "Singapore"
+  },
+  {
+    "company": "Venture Search",
+    "roles": "Quantitative Trader",
+    "reason": "The posting is for a 'Quantitative Trader' / 'Systematic Credit Trader' role in New York with no explicit minimum years requirement, matching the candidate's target function and location.",
+    "url": "https://www.linkedin.com/jobs/view/4462540225",
+    "source": "linkedin",
+    "location": "New York, United States"
+  }
+]
