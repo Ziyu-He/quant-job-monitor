@@ -80,5 +80,23 @@
     "url": "https://www.linkedin.com/jobs/view/4462540225",
     "source": "linkedin",
     "location": "New York, United States"
+  },
+  {
+    "company": "LSEG",
+    "roles": "Quantitative Developer",
+    "reason": "Quantitative Developer at Buffalo, NY is an explicitly quantitative role in the US with no stated minimum experience, so it fits the candidate's targets.",
+    "url": "https://lseg.wd3.myworkdayjobs.com/en-US/Careers",
+    "job_links": [
+      "https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Buffalo---Fountain-Plaza/Quantitative-Developer_R0122741"
+    ],
+    "source": "careers"
+  },
+  {
+    "company": "Selby Jennings",
+    "roles": "Quant Trader",
+    "reason": "No explicit years-of-experience minimum is stated; the role is a Quantitative Trader position in New York, matching the candidate's target function and location criteria.",
+    "url": "https://www.linkedin.com/jobs/view/4464678457",
+    "source": "linkedin",
+    "location": "New York, NY"
   }
 ]
