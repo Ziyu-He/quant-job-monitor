@@ -48,5 +48,15 @@
     "url": "https://www.linkedin.com/jobs/view/4463046442",
     "source": "linkedin",
     "location": "London, England, United Kingdom"
+  },
+  {
+    "company": "Capital One (Data Science)",
+    "roles": "Manager, Quantitative Analysis - Model Risk Audit",
+    "reason": "Only the Manager, Quantitative Analysis - Model Risk Audit posting is a quantitative analysis function with no stated minimum experience or location disqualifier; the other postings are business/product roles outside the candidate's target functions.",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One",
+    "job_links": [
+      "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Manager--Quantitative-Analysis---Model-Risk-Audit_R1000309-1"
+    ],
+    "source": "careers"
   }
 ]
