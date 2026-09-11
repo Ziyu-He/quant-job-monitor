@@ -1,0 +1,38 @@
+[
+  {
+    "company": "Fidelity",
+    "roles": "Fixed Income Portfolio Analyst",
+    "reason": "Only the Fixed Income Portfolio Analyst matches the candidate's portfolio-management target and has no stated experience or location disqualifier.",
+    "url": "https://jobs.fidelity.com/en/jobs/?query=quantitative",
+    "job_links": [
+      "https://jobs.fidelity.com/en/jobs/2130503/fixed-income-portfolio-analyst/"
+    ],
+    "source": "careers"
+  },
+  {
+    "company": "DV Trading",
+    "roles": "2027 Quantitative Trader Graduate (DV Equities)",
+    "reason": "Only the full-time 2027 Quantitative Trader Graduate role is a relevant entry-level quant trading position in New York; the other postings are internships and/or software engineering roles.",
+    "url": "https://job-boards.greenhouse.io/dvtrading",
+    "job_links": [
+      "https://job-boards.greenhouse.io/embed/job_app?for=dvtrading&token=4719106005"
+    ],
+    "source": "careers"
+  },
+  {
+    "company": "Societe Generale Corporate and Investment Banking - SGCIB",
+    "roles": "Trainee Quantitative Research Analyst",
+    "reason": "The role is a London-based Trainee Quantitative Research Analyst with no stated minimum years of experience, requiring quantitative finance, derivative modelling, and Python skills, which matches the candidate's entry-level quantitative research targets.",
+    "url": "https://www.linkedin.com/jobs/view/4466333194",
+    "source": "linkedin",
+    "location": "London, England, United Kingdom"
+  },
+  {
+    "company": "targetjobs UK",
+    "roles": "Quantitative Analytics Associate",
+    "reason": "The posting is a London-based Quantitative Analytics Associate Graduate Programme with early-careers quantitative modelling/trading strategy work and no stated 3+ years experience requirement.",
+    "url": "https://www.linkedin.com/jobs/view/4464880831",
+    "source": "linkedin",
+    "location": "London, England, United Kingdom"
+  }
+]
