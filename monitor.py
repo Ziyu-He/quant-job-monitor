@@ -501,11 +501,15 @@ def human_url(url: str) -> str:
     m = re.search(r"api\.lever\.co/v0/postings/([^/?]+)", url)
     if m:
         return f"https://jobs.lever.co/{m.group(1)}"
-    # Workday CXS API → human myworkdayjobs site (…/wday/cxs/{t}/{site}/jobs)
-    m = re.search(r"(https?://[^/]+)/wday/cxs/([^/]+)/([^/]+)/jobs", url)
+    # Workday CXS API → human site. myworkdaysite.com has no tenant in the host,
+    # so it needs /en-US/recruiting/{tenant}/{site}; {tenant}.wdN.myworkdayjobs.com
+    # already carries the tenant and uses /en-US/{site}. (Matches fetch_workday.)
+    m = re.search(r"(https?://([^/]+))/wday/cxs/([^/]+)/([^/]+)/jobs", url)
     if m:
-        host = m.group(1).replace("wd", "wd", 1)  # host already the wd host
-        return f"{host}/en-US/{m.group(3)}"
+        _host, _hostname, _tenant, _site = m.groups()
+        if "myworkdaysite.com" in _hostname:
+            return f"{_host}/en-US/recruiting/{_tenant}/{_site}"
+        return f"{_host}/en-US/{_site}"
     # Bank of America jobs servlet → careers search
     if "careers.bankofamerica.com/services/jobssearchservlet" in url:
         return "https://careers.bankofamerica.com/en-us/search"
@@ -656,9 +660,20 @@ def fetch_workday(cxs_url: str) -> str | None:
         total = probe.get("total", 0) if probe else 0
         terms = [""] if (probe and 0 < total <= 500) else _WD_SEARCHES
 
-        # Human-viewable base for per-job links: host/en-US/{site} + externalPath
-        m = re.match(r"(https?://[^/]+)/wday/cxs/[^/]+/([^/]+)/jobs", cxs_url)
-        human_base = f"{m.group(1)}/en-US/{m.group(2)}" if m else None
+        # Human-viewable base for per-job links (+ externalPath). Two Workday
+        # hosting shapes need different paths:
+        #  - {tenant}.wdN.myworkdayjobs.com → tenant is in the host → /en-US/{site}
+        #  - wdN.myworkdaysite.com          → tenant NOT in the host → must insert
+        #    /en-US/recruiting/{tenant}/{site} (else the deep link 404s — e.g.
+        #    Brevan Howard). See human_url() for the matching fallback-link fix.
+        m = re.match(r"(https?://([^/]+))/wday/cxs/([^/]+)/([^/]+)/jobs", cxs_url)
+        if m:
+            _host, _hostname, _tenant, _site = m.groups()
+            human_base = (f"{_host}/en-US/recruiting/{_tenant}/{_site}"
+                          if "myworkdaysite.com" in _hostname
+                          else f"{_host}/en-US/{_site}")
+        else:
+            human_base = None
 
         for term in terms:
             offset = 0
