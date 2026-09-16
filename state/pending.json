@@ -103,5 +103,52 @@
     "url": "https://www.linkedin.com/jobs/view/4466863839",
     "source": "linkedin",
     "location": "Amsterdam, North Holland, Netherlands"
+  },
+  {
+    "company": "Bank of America",
+    "roles": "Sr. Quantitative Finance Analyst",
+    "reason": "[0] is a quantitative finance analyst role with no stated experience minimum and a US location, while [1] is a non-quant administrative assistant role.",
+    "url": "https://careers.bankofamerica.com/en-us/search",
+    "job_links": [
+      "https://careers.bankofamerica.com/en-us/job-detail/26034103/sr-quantitative-finance-analyst-multiple-locations"
+    ],
+    "source": "careers"
+  },
+  {
+    "company": "PineBridge Investments",
+    "roles": "Multi Asset Analyst",
+    "reason": "The Multi Asset Analyst role in New York is an entry-level investment/portfolio-oriented analyst position with no stated experience or internship restriction, matching the candidate's target functions and location.",
+    "url": "https://pinebridge.wd5.myworkdayjobs.com/PineBridge_Career_Site",
+    "job_links": [
+      "https://pinebridge.wd5.myworkdayjobs.com/en-US/PineBridge_Career_Site/job/New-York/Multi-Asset-Analyst_R-02099-1"
+    ],
+    "source": "careers"
+  },
+  {
+    "company": "ING",
+    "roles": "Market Risk Capital Analyst - Financial Risk, Acquisition Finance Portfolio Management - Associate",
+    "reason": "Market Risk Capital Analyst and Acquisition Finance Portfolio Management Associate match the candidate's quantitative analyst and portfolio management target functions with no stated experience or location restrictions that would disqualify them.",
+    "url": "https://careers.ing.com/search-jobs",
+    "job_links": [
+      "https://careers.ing.com/en/job/warsaw/market-risk-capital-analyst-financial-risk/3121/44785137152",
+      "https://careers.ing.com/en/job/london/acquisition-finance-portfolio-management-associate/3121/44785137280"
+    ],
+    "source": "careers"
+  },
+  {
+    "company": "Federal Home Loan Bank of Boston",
+    "roles": "Market Risk Analyst II",
+    "reason": "The role is a quantitative market risk analyst position, involving 'utilizing market risk models' and requiring a 'solid financial and quantitative foundation' with Python/SQL, and no minimum experience of 3+ years is stated.",
+    "url": "https://www.linkedin.com/jobs/view/4468257891",
+    "source": "linkedin",
+    "location": "Boston, MA"
+  },
+  {
+    "company": "Brookfield Renewable N.A.",
+    "roles": "Associate Real Time Trader",
+    "reason": "The role is an entry-level front-office trading position in New York with no stated years of experience, matching the candidate's Trader/Trading target.",
+    "url": "https://www.linkedin.com/jobs/view/4468285252",
+    "source": "linkedin",
+    "location": "New York, NY"
   }
 ]
