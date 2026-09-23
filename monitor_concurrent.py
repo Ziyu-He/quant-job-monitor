@@ -359,6 +359,15 @@ def apply_linkedin_results(results, state, pending, now):
 def main(dry_run: bool = False):
     """Full run. dry_run=True skips ALL state writes and email (read-only timing
     /diff harness) — used to compare against the local serial monitor safely."""
+    # Wait for the network to be genuinely ready (IP + DNS) before scanning.
+    # Under launchd the 11:00 run can fire while the Mac is still reconnecting
+    # Wi-Fi after wake — without this, every careers fetch dies with 'Failed to
+    # resolve host' and the whole official-site scan is silently empty.
+    if not monitor.wait_for_network():
+        log.error("No network after wait — aborting run")
+        notify_macos("Job Monitor Error", "No internet connection after wait; run aborted.")
+        return
+
     companies = load_companies()
     if not companies:
         log.error("No companies loaded — check Notion token / companies.json")
