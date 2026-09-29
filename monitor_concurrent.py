@@ -419,9 +419,10 @@ def main(dry_run: bool = False):
     # ── 公众号 (wechat2rss RSS): 拉取 → DeepSeek 判量化校招 → 并进 pending ──
     # 非致命:wechat2rss 没开 / 拉取失败都只是 0 条,不影响官网+LinkedIn 的 digest。
     try:
-        w_alerts = monitor.run_wechat_stage(state, pending)
-        if w_alerts:
-            log.info(f"WeChat stage: {w_alerts} 公众号 alert(s) queued")
+        w_hits = monitor.run_wechat_stage(state)
+        if w_hits:
+            pending.extend(w_hits)
+            log.info(f"WeChat stage: {len(w_hits)} 公众号 alert(s) queued")
         save_state(state)
         save_pending(pending)
     except Exception as e:
@@ -448,5 +449,21 @@ def main(dry_run: bool = False):
              f"{len(companies)} companies checked.")
 
 
+def main_wechat_only():
+    """快跑:只做公众号阶段并单独发一封公众号邮件。独立于 careers/LinkedIn 大轮,
+    几分钟内完成。已评过的文章记 _wechat_seen,所以和每日主 digest 不会重复上报。"""
+    if not monitor.wait_for_network():
+        log.error("No network — aborting wechat-only run")
+        return
+    state = load_state()
+    hits = monitor.run_wechat_stage(state)
+    save_state(state)
+    log.info(f"[wechat-only] {len(hits)} 公众号 alert(s)")
+    monitor.send_wechat_summary(hits)
+
+
 if __name__ == "__main__":
-    main(dry_run="--dry-run" in sys.argv)
+    if "--wechat-only" in sys.argv:
+        main_wechat_only()
+    else:
+        main(dry_run="--dry-run" in sys.argv)

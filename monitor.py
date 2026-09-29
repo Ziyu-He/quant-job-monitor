@@ -1823,15 +1823,16 @@ def evaluate_wechat_article(account: str, title: str, body: str) -> dict | None:
     log.warning(f"LLM eval failed for wechat '{title[:30]}': {last_err}")
     return {"_eval_failed": True}
 
-def run_wechat_stage(state: dict, pending: list) -> int:
-    """拉公众号 RSS → 对【新】文章做 LLM 判断 → 命中的量化招聘并进 pending。
-    返回新增 alert 数。已评估过的文章记在 state['_wechat_seen'](url->iso),只评一次;
-    _eval_failed 的不记 seen,下轮重试。wechat2rss 没开就返回 0(不影响主流程)。"""
+def run_wechat_stage(state: dict) -> list[dict]:
+    """拉公众号 RSS → 对【新】文章做 LLM 判断 → 返回命中的量化招聘 alert dict 列表。
+    已评估过的文章记在 state['_wechat_seen'](url->iso),只评一次(所以并入主邮件/单发
+    互不重复);_eval_failed 的不记 seen,下轮重试。wechat2rss 没开就返回 []。
+    由调用方决定并入每日 digest(pending.extend)还是单独发一封(send_wechat_summary)。"""
     feeds = load_wechat_feeds()
     if not feeds:
-        return 0
+        return []
     seen = state.setdefault("_wechat_seen", {})
-    added = 0
+    hits: list[dict] = []
     for feed in feeds:
         account, items = fetch_wechat_feed(feed.get("url", ""))
         account = account or feed.get("name", "公众号")
@@ -1844,7 +1845,7 @@ def run_wechat_stage(state: dict, pending: list) -> int:
                 continue                        # 无 key / 本轮失败 —— 不记 seen,下轮再评
             seen[url] = datetime.now(_ET).isoformat()
             if res.get("relevant"):
-                pending.append({
+                hits.append({
                     "company": res.get("company") or account,
                     "roles":   res.get("roles") or art["title"],
                     "reason":  res.get("reason") or art["title"],
@@ -1852,9 +1853,29 @@ def run_wechat_stage(state: dict, pending: list) -> int:
                     "account": account,
                     "url":     url,
                 })
-                added += 1
                 log.info(f"Alert queued: [公众号] {account} | {art['title'][:40]}")
-    return added
+    return hits
+
+def send_wechat_summary(hits: list[dict]) -> bool:
+    """单独的公众号邮件(手动快跑用),与每日主 digest 分开。"""
+    today = datetime.now(_ET).strftime("%Y-%m-%d")
+    if not hits:
+        subject = f"[Job Monitor] 公众号量化招聘 — {today} 无新内容"
+        body = f"公众号扫描完成 — {today}，暂无新的量化招聘推文。\n\n— Job Monitor"
+    else:
+        subject = f"[Job Monitor] 公众号量化招聘 — 发现 {len(hits)} 条"
+        lines = [f"公众号扫描 — {today}，{len(hits)} 条量化招聘：\n"]
+        for i, it in enumerate(hits, 1):
+            lines.append("─" * 48)
+            lines.append(f"{i}. {it['company']}  [公众号]")
+            lines.append(f"   来源：公众号 {it.get('account', '')}")
+            lines.append(f"   方向：{it['roles']}")
+            lines.append(f"   说明：{it['reason']}")
+            lines.append(f"   链接：{it['url']}")
+        lines.append("\n" + "─" * 48)
+        lines.append(f"\n— Job Monitor  {datetime.now(_ET).strftime('%Y-%m-%d %H:%M')}")
+        body = "\n".join(lines)
+    return notify_email(subject, body)
 
 
 # ─── STATE ───────────────────────────────────────────────────────────────────
