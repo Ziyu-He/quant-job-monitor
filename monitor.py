@@ -1724,6 +1724,141 @@ Reply ONLY in this JSON format:
     return {"_eval_failed": True}
 
 
+# ─── WECHAT 公众号 (via local wechat2rss RSS) ────────────────────────────────
+# 国内量化校招信息多走公众号,不上 LinkedIn。wechat2rss(本机 Docker,localhost:8080)
+# 把公众号转成 RSS;我们每天拉取、让 DeepSeek(中文原生)判断哪些是量化校招/实习,
+# 命中的并进每日 digest(source="wechat")。微信文章多为图片,正文文本很薄,标题是
+# 主要信号——所以始终附上文章链接,用户点进微信看详情+投递。
+_WECHAT_CONTENT_TAG = "{http://purl.org/rss/1.0/modules/content/}encoded"
+
+def load_wechat_feeds() -> list[dict]:
+    """读取公众号 RSS 源列表 (name+url),来自 state/wechat_feeds.json。"""
+    wf = BASE_DIR / "state" / "wechat_feeds.json"
+    try:
+        return json.loads(wf.read_text()) if wf.exists() else []
+    except Exception as e:
+        log.warning(f"load_wechat_feeds failed: {e}")
+        return []
+
+def fetch_wechat_feed(url: str) -> tuple[str, list[dict]]:
+    """拉一个 wechat2rss RSS 源 → (公众号名, [ {title,url,body,published} ])。
+    wechat2rss 若没开/源为空/解析失败都只返回空,不抛异常(不拖垮整轮)。"""
+    from xml.etree import ElementTree as ET
+    try:
+        r = requests.get(url, timeout=20)
+        if r.status_code != 200 or not r.text.strip():
+            log.warning(f"wechat feed {url}: HTTP {r.status_code}")
+            return "", []
+        ch = ET.fromstring(r.text).find("channel")
+        if ch is None:
+            return "", []
+        account = (ch.findtext("title") or "").strip()
+        items = []
+        for it in ch.findall("item"):
+            title = (it.findtext("title") or "").strip()
+            link = (it.findtext("link") or "").strip()
+            enc = it.findtext(_WECHAT_CONTENT_TAG) or it.findtext("description") or ""
+            body = re.sub(r"<[^>]+>", " ", enc)
+            body = re.sub(r"\s+", " ", body).replace("跳转微信打开", "").strip()
+            if title and link:
+                items.append({"title": title, "url": link.split("#")[0],
+                              "body": body[:2000],
+                              "published": (it.findtext("pubDate") or "").strip()})
+        return account, items
+    except Exception as e:
+        log.warning(f"wechat feed parse {url}: {e}")
+        return "", []
+
+def evaluate_wechat_article(account: str, title: str, body: str) -> dict | None:
+    """问 DeepSeek:这条公众号推文是不是【量化方向】的【校招/新岗/实习】招聘,
+    且适合候选人。返回 JSON dict;失败返回 {"_eval_failed": True} 供下轮重试。"""
+    if not DEEPSEEK_KEY:
+        return None
+    client = OpenAI(api_key=DEEPSEEK_KEY, base_url="https://api.deepseek.com")
+    prompt = f"""判断这条微信公众号推文是否是一条【量化方向】的【校招/新岗/实习】招聘信息,且适合下面这位候选人。
+
+公众号:{account}
+标题:{title}
+正文节选(公众号正文多为图片,可能很短甚至为空,主要看标题):
+{body or "(无正文文本)"}
+
+候选人:CMU MSCF(计算金融)在读,2026年12月毕业,找【量化】方向的校招/新岗/实习:
+量化研究员、量化交易员、量化开发、量化分析师、量化策略、投资研究(偏量化)、组合/指数。
+只要量化/交易方向;不要纯软件工程(后端/前端/全栈/运维)、不要销售/风控运营/传统银行柜员等非量化岗。
+
+判断规则(任一不满足则 relevant=false):
+1. 这是一条【招聘】信息(校招启动/宣讲会/投递开启/岗位发布/实习或校招公告),不是普通资讯/评论/活动/节日推送。
+2. 岗位方向是【量化/交易/量化开发/量化研究/量化策略/投研(偏量化)】。若是综合招聘汇总(含多家公司/多类岗位),只要其中【包含量化相关公司或岗位】即算 relevant=true,并在 company/roles 里点出量化的那部分。
+3. 不是纯软件工程,也不是纯传统金融(纯银行/柜员/客户经理/纯风控运营)。
+
+只回下面这个 JSON,不要多余文字:
+{{
+  "relevant": true 或 false,
+  "company": "招聘公司(如亦赋量化/纽达/Jump;综合汇总写涉及的量化公司,未知写公众号名)",
+  "roles": "岗位方向(如 量化研究员校招 / 量化实习 / 综合校招含量化)",
+  "reason": "一句话依据(引用标题关键信息)"
+}}"""
+    last_err = None
+    attempts = _llm_attempts()
+    for attempt in range(attempts):
+        try:
+            msg = client.chat.completions.create(
+                model="deepseek-v4-flash",
+                max_tokens=4096,
+                messages=[{"role": "user", "content": prompt}],
+            )
+            text = msg.choices[0].message.content.strip()
+            if text.startswith("```"):
+                text = text.split("\n", 1)[1].rsplit("```", 1)[0].strip()
+                if text.startswith("json"):
+                    text = text[4:].strip()
+            parsed = json.loads(text)
+            _llm_note_success()
+            return parsed
+        except Exception as e:
+            last_err = e
+            if _note_llm_error(e):
+                break                          # 余额错误——本轮不会恢复
+            if attempt < attempts - 1:
+                time.sleep(2)
+    _llm_note_failure()
+    log.warning(f"LLM eval failed for wechat '{title[:30]}': {last_err}")
+    return {"_eval_failed": True}
+
+def run_wechat_stage(state: dict, pending: list) -> int:
+    """拉公众号 RSS → 对【新】文章做 LLM 判断 → 命中的量化招聘并进 pending。
+    返回新增 alert 数。已评估过的文章记在 state['_wechat_seen'](url->iso),只评一次;
+    _eval_failed 的不记 seen,下轮重试。wechat2rss 没开就返回 0(不影响主流程)。"""
+    feeds = load_wechat_feeds()
+    if not feeds:
+        return 0
+    seen = state.setdefault("_wechat_seen", {})
+    added = 0
+    for feed in feeds:
+        account, items = fetch_wechat_feed(feed.get("url", ""))
+        account = account or feed.get("name", "公众号")
+        for art in items:
+            url = art["url"]
+            if url in seen:
+                continue
+            res = evaluate_wechat_article(account, art["title"], art["body"])
+            if res is None or res.get("_eval_failed"):
+                continue                        # 无 key / 本轮失败 —— 不记 seen,下轮再评
+            seen[url] = datetime.now(_ET).isoformat()
+            if res.get("relevant"):
+                pending.append({
+                    "company": res.get("company") or account,
+                    "roles":   res.get("roles") or art["title"],
+                    "reason":  res.get("reason") or art["title"],
+                    "source":  "wechat",
+                    "account": account,
+                    "url":     url,
+                })
+                added += 1
+                log.info(f"Alert queued: [公众号] {account} | {art['title'][:40]}")
+    return added
+
+
 # ─── STATE ───────────────────────────────────────────────────────────────────
 def load_state() -> dict:
     STATE_FILE.parent.mkdir(parents=True, exist_ok=True)
@@ -2075,7 +2210,7 @@ def send_daily_summary(found: list[dict], companies_checked: int):
     # have no `location` field and got dumped to the very bottom as "other").
     # Within each source, order by location priority: US > London > HK > SG > NL > other.
     found = sorted(found, key=lambda x: (
-        1 if x.get("source", "careers") == "linkedin" else 0,
+        {"careers": 0, "wechat": 1, "linkedin": 2}.get(x.get("source", "careers"), 0),
         _location_rank(x.get("location", "")),
     ))
     today = datetime.now().strftime("%Y-%m-%d")
@@ -2092,7 +2227,10 @@ def send_daily_summary(found: list[dict], companies_checked: int):
         for i, item in enumerate(found, 1):
             lines.append(f"{'─' * 48}")
             source = item.get("source", "careers")
-            lines.append(f"{i}. {item['company']}  {'[LinkedIn]' if source == 'linkedin' else '[官网]'}")
+            tag = {"linkedin": "[LinkedIn]", "wechat": "[公众号]"}.get(source, "[官网]")
+            lines.append(f"{i}. {item['company']}  {tag}")
+            if source == "wechat" and item.get("account"):
+                lines.append(f"   来源：公众号 {item['account']}")
             lines.append(f"   职位：{item['roles']}")
             location = item.get("location", "")
             if location:

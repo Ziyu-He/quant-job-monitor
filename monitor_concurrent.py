@@ -416,6 +416,17 @@ def main(dry_run: bool = False):
         close_browser()
         return
 
+    # ── 公众号 (wechat2rss RSS): 拉取 → DeepSeek 判量化校招 → 并进 pending ──
+    # 非致命:wechat2rss 没开 / 拉取失败都只是 0 条,不影响官网+LinkedIn 的 digest。
+    try:
+        w_alerts = monitor.run_wechat_stage(state, pending)
+        if w_alerts:
+            log.info(f"WeChat stage: {w_alerts} 公众号 alert(s) queued")
+        save_state(state)
+        save_pending(pending)
+    except Exception as e:
+        log.warning(f"wechat stage failed (non-fatal): {e}")
+
     # ── One daily digest email — at most once per calendar day (same as monitor.py) ──
     # Anchor to Eastern time, not the runner's UTC — see monitor.today_et().
     today = monitor.today_et()
