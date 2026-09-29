@@ -147,27 +147,25 @@ if os.getenv("GITHUB_ACTIONS") == "true" or os.getenv("USE_STATIC_COMPANIES") ==
 
 
 def wait_for_network(max_wait: int = 3600, interval: int = 15) -> bool:
-    """Block until the network is TRULY ready — both basic IP connectivity AND
-    DNS resolution — or max_wait seconds elapse.
+    """Block until the network is truly ready — DNS resolves AND a real HTTPS host
+    the monitor actually fetches is reachable — or max_wait seconds elapse.
 
-    DNS is checked explicitly (not just a TCP connect to 8.8.8.8): a Mac freshly
-    woken from sleep — launchd fires the 11:00 run before Wi-Fi/DNS is back up —
-    can have IP connectivity while name resolution still fails. That case
-    silently sinks the ENTIRE careers scan (all 283 fetches die instantly with
-    'Failed to resolve host'), while only LinkedIn — which retries — recovers.
-    Resolving a host the run actually fetches proves DNS is genuinely usable."""
+    We test an actual host (boards-api.greenhouse.io:443), NOT a TCP connect to
+    8.8.8.8:53. Many networks (campus Wi-Fi / VPN / firewalls) block outbound
+    port 53 to 8.8.8.8 while normal DNS + HTTPS work perfectly — the old 8.8.8.8
+    check false-negatived on such a network and hung the whole run forever. This
+    still handles the wake-from-sleep case (DNS not yet up → create_connection
+    raises → we retry) without the false negative."""
     import socket
+    host = "boards-api.greenhouse.io"
     deadline = time.time() + max_wait
     while time.time() < deadline:
         try:
-            s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-            s.settimeout(5)
-            s.connect(("8.8.8.8", 53))          # basic IP connectivity
-            s.close()
-            socket.getaddrinfo("boards-api.greenhouse.io", 443)  # DNS actually resolves
+            socket.getaddrinfo(host, 443)                        # DNS resolves
+            socket.create_connection((host, 443), timeout=5).close()  # host reachable
             return True
         except OSError:
-            log.info("Network not ready (IP/DNS), retrying in %ds…", interval)
+            log.info("Network not ready (DNS/host), retrying in %ds…", interval)
             time.sleep(interval)
     return False
 
