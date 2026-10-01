@@ -104,7 +104,9 @@ open to junior roles whose minimum requirement is under 3 years (0-2 years).
 International student — requires visa sponsorship (H-1B / OPT).
 Target roles (new-grad / entry-level through roles requiring at most 3 years of experience):
               Quantitative Researcher, Quantitative Trader, Quantitative Developer,
-              Quantitative Analyst, Trader / Trading (quant or systematic),
+              Quantitative Analyst, Trader / Trading (quant, systematic, OR execution/
+              dealing — buy-side or sell-side trading desks, incl. junior/associate/execution
+              trader roles on rates/FX/equity/FICC/commodities desks),
               Index Analyst, Index Researcher, Portfolio Manager / Portfolio Management.
               (ONLY these quant / trading / index / portfolio functions — NOT software engineering.)
 Preferred locations: US (NYC, Chicago, SF, Boston, Stamford CT), London, Hong Kong,
@@ -1673,17 +1675,20 @@ Apply these checks in order. If ANY fail, set relevant=false:
    -> KEEP if ANY: a range whose upper bound is 3 or less ("0-2", "1-3", "0-3", "up to 3 years"); OR a minimum-only figure with floor 0-2 and NO upper bound ("1+ years", "2+ years", vague "prior experience"/"background in" with no number); OR new grad / no experience stated.
 3. Internship check: internship/co-op/temporary? -> not relevant.
 4. Location check: not in US (NYC, Chicago, SF, Boston, Stamford CT), UK/London, Hong Kong, Singapore, or Netherlands (remote-only also ok)? -> not relevant. (Australia/New Zealand are NOT targeted — treat AU/NZ locations as not relevant.)
-5. Role check: keep ONLY if the role is quantitative research, quantitative/systematic trading,
-   quantitative developer, quantitative analyst, quantitative technology (INCLUDING quant-tech
+5. Role check: keep if the role is ANY of: quantitative research; TRADING on a trading desk —
+   this now INCLUDES both quant/systematic trading AND buy-side or sell-side execution/dealing
+   trader roles (e.g. a Junior/Associate/Execution/FX/EM Trader on a rates/FX/EM/equity/FICC/
+   commodities desk at an asset manager, bank, or trading firm); quantitative developer;
+   quantitative analyst / quantitative specialist; quantitative technology (INCLUDING quant-tech
    or quant-dev rotational / associate / graduate programs at an investment manager or quant/
-   trading firm, whose work is quantitative development, data/analysis, or research tooling),
-   index (analyst/researcher), or portfolio management. Reject a GENERIC software-engineering
-   role — "Software Engineer", "Software Developer", Java/Python/C++/C#/full-stack/backend/
-   frontend/web/mobile/DevOps/platform, EVEN "for trading systems", low-latency, or at a quant/
-   trading firm. BUT a title/role that is explicitly quantitative stays in: "Quantitative
-   Developer"/"Quant Developer", "Quantitative Technology Associate", or a quant-dev rotation —
-   when a role blends technology with quantitative development/research at an investment or
-   quant firm, KEEP it. If not one of the wanted functions -> not relevant.
+   trading firm); index (analyst/researcher); or portfolio management. Reject a GENERIC
+   software-engineering role — "Software Engineer", "Software Developer", Java/Python/C++/C#/
+   full-stack/backend/frontend/web/mobile/DevOps/platform, EVEN "for trading systems",
+   low-latency, or at a quant/trading firm. Also reject non-trading SALES roles, pure operations
+   / middle-office / trade support, risk operations, and traditional retail/commercial banking.
+   BUT an explicitly quantitative tech role stays in ("Quantitative Developer"/"Quant Developer",
+   "Quantitative Technology Associate", a quant-dev rotation), AND any genuine trading-desk role —
+   even non-quant execution/dealing — is now WANTED. If not one of the wanted functions -> not relevant.
 
 Reply ONLY in this JSON format:
 {{
@@ -2061,17 +2066,21 @@ under 3 years (0-2 years) — but NOT roles that require a minimum of 3 or more 
 3. Internship check: is this an internship, co-op, or temporary/seasonal program rather
    than a full-time permanent role? -> not relevant.
 4. Location check: not in US, UK/London, Hong Kong, Singapore, or Netherlands (remote-only also ok)? -> not relevant. (Australia/New Zealand are NOT targeted — treat AU/NZ locations as not relevant.)
-5. Keep relevant=true ONLY if the role is a quantitative-research / quantitative-or-systematic-
-   trading / quantitative-developer / quantitative-analyst / quantitative-technology (incl.
-   quant-tech or quant-dev rotational / associate / graduate programs at an investment manager
-   or quant/trading firm) / index (analyst/researcher) / portfolio-management function AND is
-   genuine full-time at most 3 years (new-grad, entry-level, Analyst, Associate, or junior ≤3yr).
+5. Keep relevant=true if the role is ANY of: quantitative-research; TRADING on a trading desk —
+   now INCLUDING both quant/systematic trading AND buy-side or sell-side execution/dealing trader
+   roles (e.g. Junior/Associate/Execution/FX/EM Trader on a rates/FX/EM/equity/FICC/commodities
+   desk at an asset manager, bank, or trading firm); quantitative-developer; quantitative-analyst
+   / quantitative-specialist; quantitative-technology (incl. quant-tech or quant-dev rotational /
+   associate / graduate programs at an investment manager or quant/trading firm); index
+   (analyst/researcher); or portfolio-management — AND is genuine full-time at most 3 years
+   (new-grad, entry-level, Analyst, Associate, or junior ≤3yr).
    Reject a GENERIC software-engineering role — "Software Engineer", "Software Developer",
    Java/Python/C++/C#/full-stack/backend/frontend/web/DevOps/platform — EVEN "for trading
-   systems" or at a quant firm. BUT an explicitly quantitative title/role stays in:
-   "Quantitative Developer", "Quantitative Technology Associate", a quant-dev rotation — when a
-   role blends technology with quantitative development/research at an investment or quant firm,
-   KEEP it.
+   systems" or at a quant firm; also reject non-trading SALES, pure operations/middle-office/
+   trade support, risk operations, and traditional retail/commercial banking. BUT an explicitly
+   quantitative tech title stays in ("Quantitative Developer", "Quantitative Technology
+   Associate", a quant-dev rotation), AND any genuine trading-desk role — even non-quant
+   execution/dealing — is now WANTED.
 
 Reply ONLY in this JSON format (no other text):
 {{
