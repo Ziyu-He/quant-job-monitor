@@ -1413,5 +1413,10 @@
     "id": "fd3eaac5-f4d6-4212-b976-871593bad4ed",
     "name": "XTX Markets",
     "url": "https://boards-api.greenhouse.io/v1/boards/xtxmarketstechnologies/jobs?content=true"
+  },
+  {
+    "id": "a4ebf0fb-2cbf-478d-bca6-52729f413ed9",
+    "name": "Russell Investments",
+    "url": "https://russell.wd5.myworkdayjobs.com/wday/cxs/russell/russellinvestments/jobs"
   }
 ]
