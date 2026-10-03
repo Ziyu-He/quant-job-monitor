@@ -417,14 +417,14 @@ def main(dry_run: bool = False):
         return
 
     # ── 公众号 (wechat2rss RSS): 拉取 → DeepSeek 判量化校招 → 并进 pending ──
-    # 非致命:wechat2rss 没开 / 拉取失败都只是 0 条,不影响官网+LinkedIn 的 digest。
+    # 混合架构:run_wechat_stage 在 GitHub Actions(云端)上直接返回 [](够不到本地
+    # wechat2rss),公众号只在本地跑;seen 记在独立的 wechat_seen.json。非致命。
     try:
-        w_hits = monitor.run_wechat_stage(state)
+        w_hits = monitor.run_wechat_stage()
         if w_hits:
             pending.extend(w_hits)
+            save_pending(pending)
             log.info(f"WeChat stage: {len(w_hits)} 公众号 alert(s) queued")
-        save_state(state)
-        save_pending(pending)
     except Exception as e:
         log.warning(f"wechat stage failed (non-fatal): {e}")
 
@@ -450,14 +450,13 @@ def main(dry_run: bool = False):
 
 
 def main_wechat_only():
-    """快跑:只做公众号阶段并单独发一封公众号邮件。独立于 careers/LinkedIn 大轮,
-    几分钟内完成。已评过的文章记 _wechat_seen,所以和每日主 digest 不会重复上报。"""
+    """快跑:只做公众号阶段并单独发一封公众号邮件。独立于 careers/LinkedIn(那块已迁回
+    GitHub 云端)。只读/写独立的 wechat_seen.json、不碰 snapshots.json,所以几秒~几分钟完成,
+    也不与云端状态冲突。已评文章去重,不重复上报。"""
     if not monitor.wait_for_network():
         log.error("No network — aborting wechat-only run")
         return
-    state = load_state()
-    hits = monitor.run_wechat_stage(state)
-    save_state(state)
+    hits = monitor.run_wechat_stage()
     log.info(f"[wechat-only] {len(hits)} 公众号 alert(s)")
     monitor.send_wechat_summary(hits)
 

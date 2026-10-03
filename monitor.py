@@ -1828,15 +1828,34 @@ def evaluate_wechat_article(account: str, title: str, body: str) -> dict | None:
     log.warning(f"LLM eval failed for wechat '{title[:30]}': {last_err}")
     return {"_eval_failed": True}
 
-def run_wechat_stage(state: dict) -> list[dict]:
+WECHAT_SEEN_FILE = BASE_DIR / "state" / "wechat_seen.json"
+
+def load_wechat_seen() -> dict:
+    """公众号已评文章记录(url->iso)。独立于 snapshots.json:混合架构下云端管
+    snapshots(careers/LinkedIn)、本地管 wechat_seen(公众号),两边互不覆盖。"""
+    try:
+        return json.loads(WECHAT_SEEN_FILE.read_text()) if WECHAT_SEEN_FILE.exists() else {}
+    except Exception as e:
+        log.warning(f"load_wechat_seen failed: {e}")
+        return {}
+
+def save_wechat_seen(seen: dict) -> None:
+    try:
+        WECHAT_SEEN_FILE.write_text(json.dumps(seen, ensure_ascii=False, indent=2))
+    except Exception as e:
+        log.warning(f"save_wechat_seen failed: {e}")
+
+def run_wechat_stage() -> list[dict]:
     """拉公众号 RSS → 对【新】文章做 LLM 判断 → 返回命中的量化招聘 alert dict 列表。
-    已评估过的文章记在 state['_wechat_seen'](url->iso),只评一次(所以并入主邮件/单发
-    互不重复);_eval_failed 的不记 seen,下轮重试。wechat2rss 没开就返回 []。
-    由调用方决定并入每日 digest(pending.extend)还是单独发一封(send_wechat_summary)。"""
+    已评估文章记在独立文件 state/wechat_seen.json(与 snapshots.json 解耦),只评一次;
+    _eval_failed 的不记 seen,下轮重试。wechat2rss 没开就返回 []。
+    **GitHub Actions(云端)上直接返回 []** —— 够不到本地 wechat2rss,公众号只在本地跑。"""
+    if os.getenv("GITHUB_ACTIONS") == "true":
+        return []
     feeds = load_wechat_feeds()
     if not feeds:
         return []
-    seen = state.setdefault("_wechat_seen", {})
+    seen = load_wechat_seen()
     hits: list[dict] = []
     for feed in feeds:
         account, items = fetch_wechat_feed(feed.get("url", ""))
@@ -1859,6 +1878,7 @@ def run_wechat_stage(state: dict) -> list[dict]:
                     "url":     url,
                 })
                 log.info(f"Alert queued: [公众号] {account} | {art['title'][:40]}")
+    save_wechat_seen(seen)
     return hits
 
 def send_wechat_summary(hits: list[dict]) -> bool:

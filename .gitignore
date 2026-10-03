@@ -29,3 +29,6 @@ setup.sh
 
 # Local launchd plist (local paths, macOS-only)
 com.heziyu.jobmonitor.plist
+
+# 公众号已评记录:本地专用,不进仓库(混合架构:云端管snapshots,本地管wechat_seen)
+state/wechat_seen.json
