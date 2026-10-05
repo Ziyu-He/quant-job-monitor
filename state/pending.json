@@ -67,5 +67,17 @@
     "url": "https://www.linkedin.com/jobs/view/4475836874",
     "source": "linkedin",
     "location": "New York, NY"
+  },
+  {
+    "company": "Citi",
+    "roles": "Equities Options Index Flow Trader, Officer, ETF Quant Trader, Quant Developer – Trading Analytics – Equity Derivatives Tech",
+    "reason": "Only the Equities Options Index Flow Trader and ETF Quant Trader are full-time trading roles without disqualifying seniority, experience, or location issues.; Only the Quant Developer – Trading Analytics – Equity Derivatives Tech posting matches the candidate’s target quantitative developer role and",
+    "url": "https://jobs.citi.com/search-jobs",
+    "job_links": [
+      "https://jobs.citi.com/job/new-york/equities-options-index-flow-trader-officer/287/101576427728",
+      "https://jobs.citi.com/job/london/etf-quant-trader/287/101576428288",
+      "https://jobs.citi.com/job/london/quant-developer-trading-analytics-equity-derivatives-tech/287/101576453664"
+    ],
+    "source": "careers"
   }
 ]
