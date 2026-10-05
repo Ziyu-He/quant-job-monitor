@@ -1,0 +1,71 @@
+[
+  {
+    "company": "DRW",
+    "roles": "Quantitative Researcher - Prediction Markets",
+    "reason": "The posting is for a Quantitative Researcher in New York with no stated experience minimum above the candidate's threshold and is not an internship or senior/management role.",
+    "url": "https://job-boards.greenhouse.io/drweng",
+    "job_links": [
+      "https://job-boards.greenhouse.io/embed/job_app?for=drweng&token=8256366"
+    ],
+    "source": "careers"
+  },
+  {
+    "company": "IMC Trading",
+    "roles": "Graduate Quantitative Researcher",
+    "reason": "The posting is a full-time entry-level Graduate Quantitative Researcher role in Amsterdam, matching the candidate’s quantitative research target and preferred Netherlands location.",
+    "url": "https://job-boards.greenhouse.io/imc",
+    "job_links": [
+      "https://job-boards.greenhouse.io/embed/job_app?for=imc&token=4939821101"
+    ],
+    "source": "careers"
+  },
+  {
+    "company": "T. Rowe Price",
+    "roles": "Team Analyst – Global Focused Growth Strategy",
+    "reason": "The Team Analyst – Global Focused Growth Strategy role is a junior portfolio-management/investment-team analyst position in the US with no stated experience minimum, while the other postings are senior, legal, or software-engineering roles.",
+    "url": "https://troweprice.wd5.myworkdayjobs.com/en-US/TRowePrice",
+    "job_links": [
+      "https://troweprice.wd5.myworkdayjobs.com/en-US/TRowePrice/job/Baltimore-MD/Team-Analyst---Global-Focused-Growth-Strategy_78674"
+    ],
+    "source": "careers"
+  },
+  {
+    "company": "JPMorgan",
+    "roles": "Model Risk Governance and Review Associate, Quant Analytics Senior Associate",
+    "reason": "The only relevant posting is the entry-level Model Risk Governance and Review Associate role in Jersey City, which is a quantitative risk/analyst function in a US location with no stated experience minimum above the candidate's limit.; Quant Analytics Senior Associate is a quantitative analyst role ",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?siteNumber=CX_1001",
+    "job_links": [
+      "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210790113",
+      "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210795992"
+    ],
+    "source": "careers"
+  },
+  {
+    "company": "BMO",
+    "roles": "Global Markets Analyst",
+    "reason": "Global Markets Analyst in New York is an entry-level markets/trading-aligned role, while the other postings fail because of VP seniority, non-quant service function, or non-target location.",
+    "url": "https://bmo.wd3.myworkdayjobs.com/en-US/External",
+    "job_links": [
+      "https://bmo.wd3.myworkdayjobs.com/en-US/External/job/New-York-NY-USA/Global-Markets-Analyst_R260022769-2"
+    ],
+    "source": "careers"
+  },
+  {
+    "company": "Russell Investments",
+    "roles": "Equity Trader",
+    "reason": "Equity Trader is a full-time trading-desk role in London with no stated experience barrier, while Digital Experience Strategist is a non-quant marketing/strategy role.",
+    "url": "https://russell.wd5.myworkdayjobs.com/en-US/russellinvestments",
+    "job_links": [
+      "https://russell.wd5.myworkdayjobs.com/en-US/russellinvestments/job/London/Equity-Trader_R-04228-1"
+    ],
+    "source": "careers"
+  },
+  {
+    "company": "DRW",
+    "roles": "Quantitative Researcher",
+    "reason": "The role is Quantitative Researcher in New York, NY, requiring only '2+ years of experience' (a minimum-only floor of 2 years, acceptable for this entry-level candidate) and involves quantitative modeling, research, and trading strategy development.",
+    "url": "https://www.linkedin.com/jobs/view/4475836874",
+    "source": "linkedin",
+    "location": "New York, NY"
+  }
+]
