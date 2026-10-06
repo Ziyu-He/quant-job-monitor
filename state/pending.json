@@ -107,5 +107,21 @@
     "url": "https://www.linkedin.com/jobs/view/4474089597",
     "source": "linkedin",
     "location": "London Area, United Kingdom"
+  },
+  {
+    "company": "UBS",
+    "roles": "QIS Quantitative Analyst",
+    "reason": "The role is a London-based QIS Quantitative Analyst requiring only 0–3 years of relevant experience, which fits the candidate's entry-level target and accepted experience range.",
+    "url": "https://www.linkedin.com/jobs/view/4475130158",
+    "source": "linkedin",
+    "location": "London, England, United Kingdom"
+  },
+  {
+    "company": "Point72",
+    "roles": "Quantitative Developer",
+    "reason": "The role is a Quantitative Developer in Hong Kong SAR with no stated minimum years of experience, and the JD describes developing automated equities trading applications and quant signals infrastructure, which matches the candidate's target quantitative developer role.",
+    "url": "https://www.linkedin.com/jobs/view/4476384513",
+    "source": "linkedin",
+    "location": "Hong Kong SAR"
   }
 ]
