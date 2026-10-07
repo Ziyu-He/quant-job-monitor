@@ -1,0 +1,30 @@
+[
+  {
+    "company": "Millennium Management",
+    "roles": "Quantitative Developer - Fixed Income RAD",
+    "reason": "Only the Quantitative Developer role matches the candidate's target quant function and acceptable London location with no stated experience exceeding the limit.",
+    "url": "https://mlp.eightfold.ai/api/apply/v2/jobs?domain=mlp.com",
+    "job_links": [
+      "https://mlp.eightfold.ai/careers/job/755958437534"
+    ],
+    "source": "careers"
+  },
+  {
+    "company": "Morgan Stanley",
+    "roles": "Portfolio Manager - Parametric",
+    "reason": "Portfolio Manager - Parametric is a full-time portfolio-management role in the US with no stated experience requirement above the candidate's limit.",
+    "url": "https://morganstanley.eightfold.ai/api/pcsx/search?domain=morganstanley.com",
+    "job_links": [
+      "https://morganstanley.eightfold.ai/careers/job/549800664144?domain=morganstanley.com"
+    ],
+    "source": "careers"
+  },
+  {
+    "company": "Citadel",
+    "roles": "Quantitative Research Analyst",
+    "reason": "The role is a University Graduate Quantitative Research Analyst in New York City with no minimum years of experience listed and responsibilities focused on quantitative research, models, and trading signals.",
+    "url": "https://www.linkedin.com/jobs/view/4474470251",
+    "source": "linkedin",
+    "location": "New York City Metropolitan Area"
+  }
+]
