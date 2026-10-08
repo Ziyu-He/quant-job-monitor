@@ -142,5 +142,49 @@
     "url": "https://www.linkedin.com/jobs/view/4477464081",
     "source": "linkedin",
     "location": "Arnhem, Gelderland, Netherlands"
+  },
+  {
+    "company": "Bank of America",
+    "roles": "Quantitative Finance Analyst",
+    "reason": "Quantitative Finance Analyst is a full-time entry-level quant analyst role located in Charlotte, US with no stated experience minimum above 0-2 years.",
+    "url": "https://careers.bankofamerica.com/en-us/search",
+    "job_links": [
+      "https://careers.bankofamerica.com/en-us/job-detail/26037154/quantitative-finance-analyst-multiple-locations"
+    ],
+    "source": "careers"
+  },
+  {
+    "company": "JPMorgan",
+    "roles": "Lead Software Engineer - Quant Developer",
+    "reason": "Only [6] is a Quant Developer role in the US with no stated experience minimum above the candidate's range, while the other postings are retail banking, software engineering, non-quant, or outside target locations.",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?siteNumber=CX_1001",
+    "job_links": [
+      "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210796051"
+    ],
+    "source": "careers"
+  },
+  {
+    "company": "Bank of America",
+    "roles": "Quantitative Finance Analyst",
+    "reason": "The role is a Quantitative Finance Analyst conducting quantitative analytics and modeling projects within Global Risk Analytics, has no stated minimum experience requirement, and is located in Atlanta, GA.",
+    "url": "https://www.linkedin.com/jobs/view/4477474753",
+    "source": "linkedin",
+    "location": "Atlanta, GA"
+  },
+  {
+    "company": "Bank of America",
+    "roles": "Quantitative Finance Analyst",
+    "reason": "The role is a Quantitative Finance Analyst position in Charlotte, NC with no stated minimum experience requirement, and the JD describes conducting quantitative analytics, modeling projects, and market risk stress testing.",
+    "url": "https://www.linkedin.com/jobs/view/4477481289",
+    "source": "linkedin",
+    "location": "Charlotte, NC"
+  },
+  {
+    "company": "Bank of America",
+    "roles": "Quantitative Finance Analyst",
+    "reason": "The role is a Quantitative Finance Analyst focused on \"conducting quantitative analytics and modeling projects\" with no stated minimum experience requirement, and it is located in Jersey City, NJ.",
+    "url": "https://www.linkedin.com/jobs/view/4477490015",
+    "source": "linkedin",
+    "location": "Jersey City, NJ"
   }
 ]
