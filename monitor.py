@@ -109,7 +109,9 @@ Target roles (new-grad / entry-level through roles requiring at most 3 years of 
               trader roles on rates/FX/equity/FICC/commodities desks),
               Index Analyst, Index Researcher, Portfolio Manager / Portfolio Management.
               (ONLY these quant / trading / index / portfolio functions — NOT software engineering.)
-Preferred locations: US (NYC, Chicago, SF, Boston, Stamford CT), London, Hong Kong,
+Preferred locations: ANYWHERE in the US (any city/state — NYC, Chicago, SF, Boston and the
+  CT/NJ hedge-fund belt like Stamford/Greenwich/Norwalk/Jersey City are common, but Seattle,
+  Austin, Miami, Washington DC/McLean VA, Philadelphia, etc. all count), London/UK, Hong Kong,
   Singapore, Netherlands. Remote-only also ok.
 NOT relevant:
   - Internships
@@ -1674,7 +1676,7 @@ Apply these checks in order. If ANY fail, set relevant=false:
    -> NOT relevant if EITHER: (a) a stated range whose UPPER bound is 4 or more years ("2-5 years", "2-4 years", "3-7 years", "1-5 years", "2 to 6 years"); OR (b) a minimum-only figure whose floor is 3 or more ("3+ years", "minimum 3 years", "at least 3 years", "5+ years").
    -> KEEP if ANY: a range whose upper bound is 3 or less ("0-2", "1-3", "0-3", "up to 3 years"); OR a minimum-only figure with floor 0-2 and NO upper bound ("1+ years", "2+ years", vague "prior experience"/"background in" with no number); OR new grad / no experience stated.
 3. Internship check: internship/co-op/temporary? -> not relevant.
-4. Location check: not in US (NYC, Chicago, SF, Boston, Stamford CT), UK/London, Hong Kong, Singapore, or Netherlands (remote-only also ok)? -> not relevant. (Australia/New Zealand are NOT targeted — treat AU/NZ locations as not relevant.)
+4. Location check: ANYWHERE in the US counts (any US city/state — NOT just NYC/Chicago/SF/Boston; Stamford/Greenwich/Norwalk CT, Jersey City, Seattle, Austin, Miami, Washington DC/McLean VA, Philadelphia, etc. are ALL fine). So keep if the location is in the US, UK/London, Hong Kong, Singapore, Netherlands, or remote. -> not relevant ONLY if the location is outside all of those (e.g. continental Europe ex-NL, India, Middle East, LATAM, mainland China, Australia/New Zealand — treat AU/NZ as not relevant).
 5. Role check: keep if the role is ANY of: quantitative research; TRADING on a trading desk —
    this now INCLUDES both quant/systematic trading AND buy-side or sell-side execution/dealing
    trader roles (e.g. a Junior/Associate/Execution/FX/EM Trader on a rates/FX/EM/equity/FICC/
@@ -2085,7 +2087,7 @@ under 3 years (0-2 years) — but NOT roles that require a minimum of 3 or more 
    "prior experience"/"background in" with no number); OR new grad / no experience stated.
 3. Internship check: is this an internship, co-op, or temporary/seasonal program rather
    than a full-time permanent role? -> not relevant.
-4. Location check: not in US, UK/London, Hong Kong, Singapore, or Netherlands (remote-only also ok)? -> not relevant. (Australia/New Zealand are NOT targeted — treat AU/NZ locations as not relevant.)
+4. Location check: anywhere in the US (any city/state), UK/London, Hong Kong, Singapore, Netherlands, or remote -> keep. not relevant ONLY if outside all of those (continental Europe ex-NL, India, Middle East, LATAM, mainland China, Australia/New Zealand — treat AU/NZ as not relevant).
 5. Keep relevant=true if the role is ANY of: quantitative-research; TRADING on a trading desk —
    now INCLUDING both quant/systematic trading AND buy-side or sell-side execution/dealing trader
    roles (e.g. Junior/Associate/Execution/FX/EM Trader on a rates/FX/EM/equity/FICC/commodities
