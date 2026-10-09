@@ -109,5 +109,57 @@
     "url": "https://www.linkedin.com/jobs/view/4477444913",
     "source": "linkedin",
     "location": "Chicago, IL"
+  },
+  {
+    "company": "Bank of America",
+    "roles": "Sr. Quantitative Engineer",
+    "reason": "The Sr. Quantitative Engineer role is a quantitative/quant-tech position in Chicago with no stated experience requirement over the limit, while the Markets Support Specialist is not a target quant/trading/index/portfolio role.",
+    "url": "https://careers.bankofamerica.com/en-us/search",
+    "job_links": [
+      "https://careers.bankofamerica.com/en-us/job-detail/26037408/sr-quantitative-engineer-chicago-illinois-united-states"
+    ],
+    "source": "careers"
+  },
+  {
+    "company": "Goldman Sachs Asset Management",
+    "roles": "Global Banking & Markets - Private - Structured Finance Trade Analytics - Analyst - Dallas",
+    "reason": "Posting [0] is an entry-level Analyst role in Structured Finance Trade Analytics in Dallas, matching the candidate's quantitative/trading analyst target, while the other postings are marketing or operations roles and/or VP-level.",
+    "url": "https://api-higher.gs.com/gateway/api/v1/graphql",
+    "job_links": [
+      "https://higher.gs.com/roles/167745"
+    ],
+    "source": "careers"
+  },
+  {
+    "company": "U.S. Bank",
+    "roles": "Quantitative Model Analyst 2 - Loans Modeling",
+    "reason": "Relevant because the role is a quantitative analyst position building statistical models for PPNR forecasting, and the Basic Qualifications allow an MA/MS in a quantitative field with less than three years of related experience, which fits an entry-level MSCF candidate.",
+    "url": "https://www.linkedin.com/jobs/view/4477849746",
+    "source": "linkedin",
+    "location": "Cincinnati, OH"
+  },
+  {
+    "company": "U.S. Bank",
+    "roles": "Quantitative Model Analyst 2 - Loans Modeling",
+    "reason": "The JD’s MA/MS path requires only 'less than three years of related experience' and the role builds statistical models for PPNR forecasting, matching an entry-level quantitative analyst target.",
+    "url": "https://www.linkedin.com/jobs/view/4477845861",
+    "source": "linkedin",
+    "location": "Minneapolis, MN"
+  },
+  {
+    "company": "U.S. Bank",
+    "roles": "Quantitative Model Analyst",
+    "reason": "The role is a Quantitative Model Analyst in Corporate Treasury Quantitative Finance, and the MS qualification path allows 'MA/MS in a quantitative field, and less than three years of related experience,' which fits the candidate's entry-level MS profile.",
+    "url": "https://www.linkedin.com/jobs/view/4477842992",
+    "source": "linkedin",
+    "location": "Charlotte, NC"
+  },
+  {
+    "company": "JPMorganChase",
+    "roles": "Quantitative Analyst",
+    "reason": "The Analyst/Associate XVA Pricing & Capital Solutions role is based in London and requires derivative pricing, quantitative analytics, and margin/risk analysis without stating a 3+ year minimum, matching the candidate's Quantitative Analyst target.",
+    "url": "https://www.linkedin.com/jobs/view/4477860979",
+    "source": "linkedin",
+    "location": "Greater London, England, United Kingdom"
   }
 ]
