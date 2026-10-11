@@ -22,5 +22,45 @@
     "url": "https://www.linkedin.com/jobs/view/4475667302",
     "source": "linkedin",
     "location": "Greater London, England, United Kingdom"
+  },
+  {
+    "company": "Hunter Bond",
+    "roles": "Quant Developer",
+    "reason": "The role is explicitly titled \"Quant Developer\" and requires \"Experience as a Quant Developer or Software Engineer\" with no minimum years threshold, while being located in Hong Kong.",
+    "url": "https://www.linkedin.com/jobs/view/4475661738",
+    "source": "linkedin",
+    "location": "Hong Kong, Hong Kong SAR"
+  },
+  {
+    "company": "Hunter Bond",
+    "roles": "Quant Developer/Strategist",
+    "reason": "The JD explicitly seeks a 'Quant Developer/Strategist' and asks for 'Experience as a Quant Developer' with 'Strong Python experience' and 'Experience of Quant/Model logic,' with no stated minimum years, matching the candidate's Quant Developer target.",
+    "url": "https://www.linkedin.com/jobs/view/4475668449",
+    "source": "linkedin",
+    "location": "Houston, TX"
+  },
+  {
+    "company": "Nexiora Holdings",
+    "roles": "Trading Associate",
+    "reason": "\"Trading Associate\" role requires trading, testing and analyzing trading strategies, and managing a portfolio, with new-grad eligibility for a Bachelor’s or Master’s degree graduating between December 2026 and June 2027 in Austin, TX, matching the candidate’s entry-level trading profile.",
+    "url": "https://www.linkedin.com/jobs/view/4475655849",
+    "source": "linkedin",
+    "location": "Austin, TX"
+  },
+  {
+    "company": "SUMO IQ",
+    "roles": "Quantitative Trader, Founder Beta Users",
+    "reason": "The JD is for a Quantitative Trader role where the candidate would actively trade quantitative strategies and provide feedback on execution and risk controls, with no stated minimum years requirement and a US/remote location.",
+    "url": "https://www.linkedin.com/jobs/view/4478332721",
+    "source": "linkedin",
+    "location": "United States"
+  },
+  {
+    "company": "Vident Asset Management",
+    "roles": "Portfolio Analyst, SMA",
+    "reason": "The Portfolio Analyst, SMA role supports portfolio management through portfolio optimization, model creation, trading, and performance analysis, and the only experience requirement is 2+ years preferred, which fits the candidate's 0-2 year threshold.",
+    "url": "https://www.linkedin.com/jobs/view/4477271495",
+    "source": "linkedin",
+    "location": "Alpharetta, GA"
   }
 ]
