@@ -1,0 +1,26 @@
+[
+  {
+    "company": "Hunter Bond",
+    "roles": "Quantitative Developer, Quantitative Researcher",
+    "reason": "The posting is a graduate role in London and explicitly hires into Quantitative Development and Quantitative Research, which are target roles with no minimum experience requirement.",
+    "url": "https://www.linkedin.com/jobs/view/4475653869",
+    "source": "linkedin",
+    "location": "London Area, United Kingdom"
+  },
+  {
+    "company": "CHEManager International",
+    "roles": "Graduate Machine Learning Researcher",
+    "reason": "The job is a 'Graduate Machine Learning Researcher' role on the 'quantitative modelling team' designing ML models for sports betting analytics/trading, which fits quantitative research, with no years-of-experience requirement and a London location.",
+    "url": "https://www.linkedin.com/jobs/view/4477255983",
+    "source": "linkedin",
+    "location": "London, England, United Kingdom"
+  },
+  {
+    "company": "Hunter Bond",
+    "roles": "Quantitative Developer",
+    "reason": "The role is a 'Python Quantitative Developer' in London with no stated minimum years of experience, matching the candidate's Quant Developer target and UK location preference.",
+    "url": "https://www.linkedin.com/jobs/view/4475667302",
+    "source": "linkedin",
+    "location": "Greater London, England, United Kingdom"
+  }
+]
