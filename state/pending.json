@@ -1,0 +1,103 @@
+[
+  {
+    "company": "Bank of America",
+    "roles": "Quantitative Engineer, Quantitative Finance Analyst",
+    "reason": "The non-VP quantitative roles are entry-level-compatible and located in the UK, while the VP titles are excluded by the seniority title check.",
+    "url": "https://careers.bankofamerica.com/en-us/search",
+    "job_links": [
+      "https://careers.bankofamerica.com/en-us/job-detail/26037523/quantitative-engineer-bromley-united-kingdom",
+      "https://careers.bankofamerica.com/en-us/job-detail/26037527/quantitative-finance-analyst-bromley-united-kingdom"
+    ],
+    "source": "careers"
+  },
+  {
+    "company": "Belvedere Trading",
+    "roles": "Quantitative Researcher - Entry Level 2027",
+    "reason": "The posting is an entry-level Quantitative Researcher role, which matches the candidate's target function and experience level.",
+    "url": "https://jobs.lever.co/belvederetrading",
+    "job_links": [],
+    "source": "careers"
+  },
+  {
+    "company": "JPMorgan",
+    "roles": "Trader [Multiple Positions Available], Market Risk VaR and Capital Coverage - Associate",
+    "reason": "Only the Trader posting matches the candidate's target trading function, with no stated experience minimum and a US location.; The London-based Market Risk VaR and Capital Coverage - Associate role is a junior quantitative risk/analyst position in a target location with no stated experience bar, whi",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?siteNumber=CX_1001",
+    "job_links": [
+      "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210794236",
+      "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210798720"
+    ],
+    "source": "careers"
+  },
+  {
+    "company": "Old Mission",
+    "roles": "ETF Sales Trader",
+    "reason": "The ETF Sales Trader role is a full-time trading-desk execution/dealing role in Hong Kong with no stated experience minimum above 2 years, matching the candidate's trading and location preferences.",
+    "url": "https://job-boards.greenhouse.io/oldmissioncapital",
+    "job_links": [
+      "https://job-boards.greenhouse.io/embed/job_app?for=oldmissioncapital&token=8019895003"
+    ],
+    "source": "careers"
+  },
+  {
+    "company": "Deutsche Bank",
+    "roles": "Quantitative Investment Strategies (QIS) Quantitative Strategist, Valuation Control Strat",
+    "reason": "Only the QIS Quantitative Strategist and Valuation Control Strat are quantitative roles in an acceptable location with no seniority or 3+ years requirement; the rest fail on function, location, seniority, or internship status.",
+    "url": "https://api-deutschebank.beesite.de/search/",
+    "job_links": [
+      "https://db.wd3.myworkdayjobs.com/DBWebsite/job/London-21-Moorfields/Quantitative-Investment-Strategies--QIS--Quantitative-Strategist_R0454542",
+      "https://db.wd3.myworkdayjobs.com/DBWebsite/job/London-21-Moorfields/Valuation-Control-Strat_R0453395"
+    ],
+    "source": "careers"
+  },
+  {
+    "company": "Russell Investments",
+    "roles": "Associate Trader, Equity",
+    "reason": "Associate Equity Trader in Seattle is a junior trading-desk role with no stated minimum experience of 3+ years, matching the candidate's trading targets.",
+    "url": "https://russell.wd5.myworkdayjobs.com/en-US/russellinvestments",
+    "job_links": [
+      "https://russell.wd5.myworkdayjobs.com/en-US/russellinvestments/job/Seattle/Associate-Trader--Equity_R-04245"
+    ],
+    "source": "careers"
+  },
+  {
+    "company": "Exelon",
+    "roles": "Quantitative Analyst",
+    "reason": "The role is titled Quantitative Analyst and the JD asks for simulation, statistical, and financial modeling work without stating any minimum years of experience, so it fits the candidate's entry-level quant analyst target.",
+    "url": "https://www.linkedin.com/jobs/view/4479027878",
+    "source": "linkedin",
+    "location": "Villa Park, IL"
+  },
+  {
+    "company": "Man Group",
+    "roles": "Quantitative Researcher",
+    "reason": "The role is a Quantitative Researcher focused on cash equities alpha research with no stated minimum years of experience, and it is located in Boston, MA, which fits the candidate's target functions and US location preferences.",
+    "url": "https://www.linkedin.com/jobs/view/4479042847",
+    "source": "linkedin",
+    "location": "Boston, MA"
+  },
+  {
+    "company": "JPMorganChase",
+    "roles": "Quantitative Counterparty Credit Risk Associate",
+    "reason": "The role is a Quantitative Research Associate requiring only 2+ years of applied experience and involves developing counterparty credit risk models, which fits the candidate's quantitative research/analyst targets and allowable experience threshold.",
+    "url": "https://www.linkedin.com/jobs/view/4479032816",
+    "source": "linkedin",
+    "location": "Jersey City, NJ"
+  },
+  {
+    "company": "Goldman Sachs",
+    "roles": "Quantitative Analyst, Solutions Structurer",
+    "reason": "The role requires quantitative analysis, modelling, backtesting, option pricing and structuring of systematic investment strategies, and it states no minimum years of experience, so it fits the candidate’s entry-level quant target.",
+    "url": "https://www.linkedin.com/jobs/view/4478134211",
+    "source": "linkedin",
+    "location": "New York, NY"
+  },
+  {
+    "company": "Vanguard",
+    "roles": "Transaction Cost Analyst",
+    "reason": "The role is a quantitative analyst position focused on transaction cost analysis, requires only a minimum of two years experience, and is located in London, which is an allowed location.",
+    "url": "https://www.linkedin.com/jobs/view/4479026988",
+    "source": "linkedin",
+    "location": "London, England, United Kingdom"
+  }
+]
