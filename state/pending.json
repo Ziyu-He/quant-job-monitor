@@ -46,5 +46,15 @@
     "url": "https://www.linkedin.com/jobs/view/4477905047",
     "source": "linkedin",
     "location": "Chicago, IL"
+  },
+  {
+    "company": "JPMorgan",
+    "roles": "Quantitative Counterparty Credit Risk Associate",
+    "reason": "Only the Quantitative Counterparty Credit Risk Associate is a junior quantitative role in an accepted location; the other postings are retail banking, compliance/audit, operations, data/analytics, or senior/non-quant roles.",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?siteNumber=CX_1001",
+    "job_links": [
+      "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210795665"
+    ],
+    "source": "careers"
   }
 ]
