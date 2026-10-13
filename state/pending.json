@@ -99,5 +99,49 @@
     "url": "https://www.linkedin.com/jobs/view/4479026988",
     "source": "linkedin",
     "location": "London, England, United Kingdom"
+  },
+  {
+    "company": "Old Mission",
+    "roles": "Junior Quantitative Trader (APAC)",
+    "reason": "Only the Junior Quantitative Trader (APAC) is an entry-level quantitative trading role in Hong Kong; the Fundamental Research Analyst is not a targeted quant/trading/index/portfolio function.",
+    "url": "https://job-boards.greenhouse.io/oldmissioncapital",
+    "job_links": [
+      "https://job-boards.greenhouse.io/embed/job_app?for=oldmissioncapital&token=8010585003"
+    ],
+    "source": "careers"
+  },
+  {
+    "company": "Charles Schwab",
+    "roles": "Associate Regional Bond Specialist",
+    "reason": "The Associate Regional Bond Specialist is an entry-level fixed-income trading/execution role in Orlando that matches the candidate's trading target, while the other postings are non-quant product or client-service management roles.",
+    "url": "https://www.schwabjobs.com/search-jobs",
+    "job_links": [
+      "https://www.schwabjobs.com/job/orlando/associate-regional-bond-specialist/33727/101918609264"
+    ],
+    "source": "careers"
+  },
+  {
+    "company": "ComEd",
+    "roles": "Quantitative Analyst",
+    "reason": "The posting is for a Quantitative Analyst with no minimum years of experience stated and duties focused on predictive analytics, statistical modeling, valuation, and risk management, which fits the candidate’s entry-level quant analyst targets.",
+    "url": "https://www.linkedin.com/jobs/view/4479091191",
+    "source": "linkedin",
+    "location": "Oakbrook Terrace, IL"
+  },
+  {
+    "company": "Continual Research",
+    "roles": "Research Engineer",
+    "reason": "The role builds the backtesting engine, data pipelines, and evaluation tooling for systematic investment research, matching a quantitative developer/research infrastructure function, and the 'At least 2 years' minimum falls within the acceptable 0-2 floor.",
+    "url": "https://www.linkedin.com/jobs/view/4479203031",
+    "source": "linkedin",
+    "location": "New York, NY"
+  },
+  {
+    "company": "CI SBH Asset Management",
+    "roles": "Junior Municipal Trader",
+    "reason": "The role is a Junior Municipal Trader on a fixed income trading desk with a stated qualification of zero to two years of experience, matching the candidate's entry-level trading target and US location.",
+    "url": "https://www.linkedin.com/jobs/view/4479079507",
+    "source": "linkedin",
+    "location": "Denver, CO"
   }
 ]
