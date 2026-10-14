@@ -18,5 +18,26 @@
       "https://russell.wd5.myworkdayjobs.com/en-US/russellinvestments/job/Seattle/Trader--Derivatives_R-04246-1"
     ],
     "source": "careers"
+  },
+  {
+    "company": "Bank of America",
+    "roles": "Quantitative Finance Analyst, Sr. Quantitative Engineer",
+    "reason": "Both postings are quantitative full-time roles in US locations with no stated experience requirement exceeding the candidate's limit.",
+    "url": "https://careers.bankofamerica.com/en-us/search",
+    "job_links": [
+      "https://careers.bankofamerica.com/en-us/job-detail/26034158/quantitative-finance-analyst-multiple-locations",
+      "https://careers.bankofamerica.com/en-us/job-detail/26037645/sr-quantitative-engineer-jersey-city-new-jersey-united-states"
+    ],
+    "source": "careers"
+  },
+  {
+    "company": "Gelber Group",
+    "roles": "Experienced Trader",
+    "reason": "Experienced Trader is a full-time trading role in White Plains, NY, with no stated minimum experience of 3+ years or senior/management title, matching the candidate's target trading area.",
+    "url": "https://job-boards.greenhouse.io/gelbergroup",
+    "job_links": [
+      "https://job-boards.greenhouse.io/embed/job_app?for=gelbergroup&token=4722059006"
+    ],
+    "source": "careers"
   }
 ]
