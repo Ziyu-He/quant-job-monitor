@@ -72,5 +72,25 @@
     "url": "https://www.linkedin.com/jobs/view/4479119845",
     "source": "linkedin",
     "location": "Amsterdam, North Holland, Netherlands"
+  },
+  {
+    "company": "Tower Research Capital",
+    "roles": "Quantitative Researcher (Mulitple Openings)",
+    "reason": "The Quantitative Researcher role in New York is a target quant function with no stated minimum experience of 3+ years, while the other posting is an internship and is not relevant.",
+    "url": "https://job-boards.greenhouse.io/towerresearchcapital",
+    "job_links": [
+      "https://job-boards.greenhouse.io/embed/job_app?for=towerresearchcapital&token=8286910"
+    ],
+    "source": "careers"
+  },
+  {
+    "company": "TD Bank",
+    "roles": "Modelling / Forecasting Senior Analyst (Quants)",
+    "reason": "The posting is a quantitative analyst role with no stated experience minimum above the candidate's threshold, no internship/senior-management disqualifier, and no location outside the allowed set.",
+    "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers",
+    "job_links": [
+      "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Modelling---Forecasting-Senior-Analyst--Quants-_R_1515271"
+    ],
+    "source": "careers"
   }
 ]
