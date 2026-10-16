@@ -1,0 +1,56 @@
+[
+  {
+    "company": "ING",
+    "roles": "Credit Risk Modeler",
+    "reason": "Credit Risk Modeler is a quantitative analyst/modeling role with no stated experience minimum and no disqualifying location, seniority, or internship issue.",
+    "url": "https://careers.ing.com/search-jobs",
+    "job_links": [
+      "https://careers.ing.com/en/job/milan/credit-risk-modeler/3121/46008155584"
+    ],
+    "source": "careers"
+  },
+  {
+    "company": "Goldman Sachs Asset Management",
+    "roles": "Global Banking & Markets, FX Market Sales Strats | London",
+    "reason": "Only the FX Market Sales Strats role is a quantitative strategist role with no stated senior title or 3+ years requirement and is based in London; the other postings are senior/leadership roles.",
+    "url": "https://api-higher.gs.com/gateway/api/v1/graphql",
+    "job_links": [
+      "https://higher.gs.com/roles/186932"
+    ],
+    "source": "careers"
+  },
+  {
+    "company": "Charles Schwab",
+    "roles": "Associate Portfolio Manager Money Market Strategies",
+    "reason": "Only the Associate Portfolio Manager role matches the candidate’s target portfolio-management function and lacks disqualifying seniority, experience, internship, or location issues.",
+    "url": "https://www.schwabjobs.com/search-jobs",
+    "job_links": [
+      "https://www.schwabjobs.com/job/san-francisco/associate-portfolio-manager-money-market-strategies/33727/102035641760"
+    ],
+    "source": "careers"
+  },
+  {
+    "company": "Bank of America",
+    "roles": "Quantitative Finance Analyst",
+    "reason": "The role is a Quantitative Finance Analyst position focused on quantitative analytics, modeling, market risk stress testing, and statistical analysis with no stated minimum experience requirement, making it suitable for an entry-level quant candidate.",
+    "url": "https://www.linkedin.com/jobs/view/4480505771",
+    "source": "linkedin",
+    "location": "Chicago, IL"
+  },
+  {
+    "company": "Oliver Bernard",
+    "roles": "Quantitative Analyst",
+    "reason": "The role is for an 'ambitious Graduate or Junior Quantitative Analyst' with no minimum years of experience, located in the London Area, United Kingdom, and focuses on quantitative modelling, AI, and financial markets.",
+    "url": "https://www.linkedin.com/jobs/view/4477708135",
+    "source": "linkedin",
+    "location": "London Area, United Kingdom"
+  },
+  {
+    "company": "Connect Resourcing",
+    "roles": "Energy Trading Analyst",
+    "reason": "The London-based Energy Trading Analyst role requires power/gas market analysis and Python modelling, and the JD states candidates will ideally have 1-2 years energy trading experience or be MSc/PhD-level candidates, matching the entry-level quant/trading analyst criteria.",
+    "url": "https://www.linkedin.com/jobs/view/4480515045",
+    "source": "linkedin",
+    "location": "London Area, United Kingdom"
+  }
+]
