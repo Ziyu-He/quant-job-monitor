@@ -53,5 +53,21 @@
     "url": "https://www.linkedin.com/jobs/view/4481206590",
     "source": "linkedin",
     "location": "Greater Boston"
+  },
+  {
+    "company": "Credit One Bank",
+    "roles": "Risk Modeler I, Quantitative Analyst",
+    "reason": "The role is a Risk Modeler I requiring only '2+ years of relevant modeling or quantitative analytics experience' with no upper bound and involves statistical/ML model development, fitting the candidate's quantitative analyst target.",
+    "url": "https://www.linkedin.com/jobs/view/4481282300",
+    "source": "linkedin",
+    "location": "Las Vegas, NV"
+  },
+  {
+    "company": "Fionics",
+    "roles": "Prediction Markets Researcher, Quantitative Researcher",
+    "reason": "The role is a quantitative modeling/research position building event-pricing models with strong stats and Python, and the JD states no minimum years of prediction-markets experience, matching the candidate's entry-level quant researcher targets.",
+    "url": "https://www.linkedin.com/jobs/view/4480279318",
+    "source": "linkedin",
+    "location": "New York, United States"
   }
 ]
