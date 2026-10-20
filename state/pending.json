@@ -1,0 +1,69 @@
+[
+  {
+    "company": "Manulife",
+    "roles": "Portfolio Analyst",
+    "reason": "Portfolio Analyst matches the candidate's portfolio-management target and has no stated experience requirement exceeding entry-level, while Content Manager is a non-quant role.",
+    "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs",
+    "job_links": [
+      "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Charlotte-North-Carolina/Portfolio-Analyst_JR26100953"
+    ],
+    "source": "careers"
+  },
+  {
+    "company": "ING",
+    "roles": "WB Portfolio Management Expert",
+    "reason": "Only the portfolio management posting matches the candidate's target functions and has no explicit experience, seniority, internship, or location disqualifier; all other postings are non-quant, software, internships, or outside target locations.",
+    "url": "https://careers.ing.com/search-jobs",
+    "job_links": [
+      "https://careers.ing.com/en/job/amsterdam/wb-portfolio-management-expert/3121/46162964864"
+    ],
+    "source": "careers"
+  },
+  {
+    "company": "Goldman Sachs Asset Management",
+    "roles": "Associate Applied AI - Deep Learning/Time Series, Global Banking & Markets, Credit Exotic Desk Strats, Associate, London",
+    "reason": "The new content includes a junior Applied AI deep learning/time-series role and a Credit Exotic Desk Strats Associate, both in target locations without seniority or 3+ year experience barriers.",
+    "url": "https://api-higher.gs.com/gateway/api/v1/graphql",
+    "job_links": [
+      "https://higher.gs.com/roles/180567",
+      "https://higher.gs.com/roles/186945"
+    ],
+    "source": "careers"
+  },
+  {
+    "company": "Neuberger Berman",
+    "roles": "Program Associate – Private Investment Portfolios and Co-Investment (“PIPCO”) Infrastructure",
+    "reason": "The PIPCO Infrastructure Program Associate is a junior full-time role in private investment portfolios, matching the portfolio-management target area, while the Investment Strategist role does not match the specified quant/trading/index/portfolio functions.",
+    "url": "http://nb.wd1.myworkdayjobs.com/nbcareers",
+    "job_links": [
+      "https://nb.wd1.myworkdayjobs.com/en-US/nbcareers/job/New-York-NY/Program-Associate---Private-Investment-Portfolios-and-Co-Investment---PIPCO---Infrastructure_R0012757"
+    ],
+    "source": "careers"
+  },
+  {
+    "company": "Barclays",
+    "roles": "Quantitative Developer",
+    "reason": "Only the Quantitative Developer posting matches the candidate's target quantitative roles, while the other postings are non-quant, software engineering, or otherwise out of scope.",
+    "url": "https://search.jobs.barclays/search-jobs",
+    "job_links": [
+      "https://search.jobs.barclays/job/london/quantitative-developer/13015/92857804752"
+    ],
+    "source": "careers"
+  },
+  {
+    "company": "CHEManager International",
+    "roles": "Quant Researcher",
+    "reason": "The role is a Quant Researcher in New York, NY requiring '2+ years of experience,' which fits the candidate's junior (0-2 years minimum) and quant research targets.",
+    "url": "https://www.linkedin.com/jobs/view/4480704355",
+    "source": "linkedin",
+    "location": "New York, NY"
+  },
+  {
+    "company": "Goldman Sachs",
+    "roles": "Desk Strat, Quantitative Analyst, Quantitative Developer",
+    "reason": "The London-based Desk Strat role builds pricing and risk models for credit derivatives and bonds, requires an MS/PhD quantitative background with no stated minimum years, and fits an entry-level quantitative analyst/developer target.",
+    "url": "https://www.linkedin.com/jobs/view/4480487780",
+    "source": "linkedin",
+    "location": "London, England, United Kingdom"
+  }
+]
