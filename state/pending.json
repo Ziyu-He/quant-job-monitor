@@ -65,5 +65,25 @@
     "url": "https://www.linkedin.com/jobs/view/4480487780",
     "source": "linkedin",
     "location": "London, England, United Kingdom"
+  },
+  {
+    "company": "JPMorgan",
+    "roles": "Service Product Analytics Team - Quant Analytics Senior Associate",
+    "reason": "The only relevant posting is the quant analytics senior associate role in Wilmington, which matches the candidate's quantitative analyst target, is US-based, and has no stated experience requirement of 3+ years or disqualifying senior management title.",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?siteNumber=CX_1001",
+    "job_links": [
+      "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210756298"
+    ],
+    "source": "careers"
+  },
+  {
+    "company": "Morgan Stanley",
+    "roles": "Institutional Equity Division – Associate, Morgan Stanley Electronic Trading Night Coverage (New York)",
+    "reason": "The electronic trading night coverage associate role is a New York-based trading/execution role with no stated experience requirement over three years, while the corporate derivatives analyst/associate role is not clearly a quant or trading desk role.",
+    "url": "https://morganstanley.eightfold.ai/api/pcsx/search?domain=morganstanley.com",
+    "job_links": [
+      "https://morganstanley.eightfold.ai/careers/job/549800863156?domain=morganstanley.com"
+    ],
+    "source": "careers"
   }
 ]
