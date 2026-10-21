@@ -35,5 +35,25 @@
     "url": "https://www.linkedin.com/jobs/view/4481134553",
     "source": "linkedin",
     "location": "West Midlands, England, United Kingdom"
+  },
+  {
+    "company": "Morgan Stanley",
+    "roles": "UMA Portfolio Manager",
+    "reason": "UMA Portfolio Manager is a portfolio-management role in New York with no stated experience minimum above the candidate's limit and no disqualifying seniority title.",
+    "url": "https://morganstanley.eightfold.ai/api/pcsx/search?domain=morganstanley.com",
+    "job_links": [
+      "https://morganstanley.eightfold.ai/careers/job/549800707929?domain=morganstanley.com"
+    ],
+    "source": "careers"
+  },
+  {
+    "company": "Charles Schwab",
+    "roles": "Sr Relationship Trader- Advisor Services Block Desk & Trading",
+    "reason": "Only posting [4] is a trading-desk role in the US; the others are non-quant product, operations, or audit roles.",
+    "url": "https://www.schwabjobs.com/search-jobs",
+    "job_links": [
+      "https://www.schwabjobs.com/job/westlake/sr-relationship-trader-advisor-services-block-desk-and-trading/33727/102259220576"
+    ],
+    "source": "careers"
   }
 ]
