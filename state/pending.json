@@ -45,5 +45,47 @@
     "url": "https://www.linkedin.com/jobs/view/4481394287",
     "source": "linkedin",
     "location": "London, England, United Kingdom"
+  },
+  {
+    "company": "U.S. Bank",
+    "roles": "Quantitative Model Validation Analyst - Wholesale & Small Business Credit Loss",
+    "reason": "The posting is a full-time quantitative analyst/model validation role with no stated experience requirement of 3+ years and no excluded seniority, internship, location, or software-engineering issue.",
+    "url": "https://usbank.wd1.myworkdayjobs.com/en-US/US_Bank_Careers",
+    "job_links": [
+      "https://usbank.wd1.myworkdayjobs.com/en-US/US_Bank_Careers/job/Minneapolis-MN/Quantitative-Model-Validation-Analyst---Wholesale---Small-Business-Credit-Loss_2026-0030095"
+    ],
+    "source": "careers"
+  },
+  {
+    "company": "USAA",
+    "roles": "Quantitative Risk Analyst",
+    "reason": "The role is a Quantitative Risk Analyst I in San Antonio, TX, and its stated requirements include a bachelor's degree or, alternatively, an advanced degree with 2 years of work experience, which fits the candidate's entry-level under-3-years criterion.",
+    "url": "https://www.linkedin.com/jobs/view/4480083472",
+    "source": "linkedin",
+    "location": "San Antonio, TX"
+  },
+  {
+    "company": "USAA",
+    "roles": "Quantitative Risk Analyst I",
+    "reason": "The posting is for a Quantitative Risk Analyst I in Charlotte, NC and only requires a Bachelor's degree in a quantitative field or equivalent education/experience, with an advanced-degree option mentioning 2 years, so it meets the entry-level quantitative analyst criteria and is not a 3+ year or software-engineering role.",
+    "url": "https://www.linkedin.com/jobs/view/4480069990",
+    "source": "linkedin",
+    "location": "Charlotte, NC"
+  },
+  {
+    "company": "USAA",
+    "roles": "Quantitative Risk Analyst I",
+    "reason": "The role is a Quantitative Risk Analyst I in Plano, TX, requiring a quantitative degree with either no stated years for the bachelor's path or 2 years in the advanced-degree path, which fits the candidate's entry-level quantitative analyst target and US location preference.",
+    "url": "https://www.linkedin.com/jobs/view/4480073682",
+    "source": "linkedin",
+    "location": "Plano, TX"
+  },
+  {
+    "company": "Frost",
+    "roles": "Capital Markets Quantitative Analyst",
+    "reason": "The role is titled Capital Markets Quantitative Analyst and the JD requires only a Bachelors degree with no stated years of experience, so it fits the entry-level quantitative analyst criteria.",
+    "url": "https://www.linkedin.com/jobs/view/4480065711",
+    "source": "linkedin",
+    "location": "Houston, TX"
   }
 ]
