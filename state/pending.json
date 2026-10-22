@@ -1,0 +1,49 @@
+[
+  {
+    "company": "U.S. Bank",
+    "roles": "Quantitative Model Analyst - Treasury",
+    "reason": "The posting is a full-time quantitative analyst-type role in Charlotte, NC, with no stated experience minimum that exceeds the candidate's limit.",
+    "url": "https://usbank.wd1.myworkdayjobs.com/en-US/US_Bank_Careers",
+    "job_links": [
+      "https://usbank.wd1.myworkdayjobs.com/en-US/US_Bank_Careers/job/Charlotte-NC/Quantitative-Model-Analyst---Treasury_2026-0032367"
+    ],
+    "source": "careers"
+  },
+  {
+    "company": "Fidelity",
+    "roles": "Derivatives Analyst",
+    "reason": "Derivatives Analyst is a junior, non-senior derivatives/quantitative-finance role with no disqualifying experience or location stated, while the other postings are operations, software, risk, client services, or a location line.",
+    "url": "https://jobs.fidelity.com/en/jobs/?query=quantitative",
+    "job_links": [
+      "https://jobs.fidelity.com/en/jobs/2132603/derivatives-analyst/"
+    ],
+    "source": "careers"
+  },
+  {
+    "company": "Maven Securities",
+    "roles": "Trading Analyst - QPT (Quantitative Positional Trading), Quant Trader - Quantitative Positional Trading (QPT)",
+    "reason": "Both London-based full-time postings are junior/unspecified experience quantitative trading roles that match the candidate's target functions and location preferences without senior-management or internship flags.",
+    "url": "https://job-boards.greenhouse.io/mavensecuritiesholdingltd",
+    "job_links": [
+      "https://job-boards.greenhouse.io/embed/job_app?for=mavensecuritiesholdingltd&token=8263271",
+      "https://job-boards.greenhouse.io/embed/job_app?for=mavensecuritiesholdingltd&token=8268873"
+    ],
+    "source": "careers"
+  },
+  {
+    "company": "Maven Securities",
+    "roles": "Trading Analyst - QPT (Quantitative Positional Trading)",
+    "reason": "The role is a Trading Analyst on the Quantitative Positional Trading Team, with responsibilities including research and backtests on alphas and PnL attribution, and the JD states no minimum years of experience.",
+    "url": "https://www.linkedin.com/jobs/view/4481391528",
+    "source": "linkedin",
+    "location": "London, England, United Kingdom"
+  },
+  {
+    "company": "Maven Securities",
+    "roles": "Quant Trader",
+    "reason": "The role is a London-based Quant Trader position requiring only '2+ years’ experience in quantitative research or trading,' with no upper bound above 3 years and responsibilities in systematic trading and quantitative research.",
+    "url": "https://www.linkedin.com/jobs/view/4481394287",
+    "source": "linkedin",
+    "location": "London, England, United Kingdom"
+  }
+]
