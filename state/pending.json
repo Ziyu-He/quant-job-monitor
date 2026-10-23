@@ -1,0 +1,80 @@
+[
+  {
+    "company": "DRW",
+    "roles": "UP - Analytics/Middle Office - Quant Developer",
+    "reason": "The posting is for a Quant Developer in Chicago, which matches the candidate's quantitative developer target role, is full-time, and has no stated experience requirement that would exclude entry-level candidates.",
+    "url": "https://job-boards.greenhouse.io/drweng",
+    "job_links": [
+      "https://job-boards.greenhouse.io/embed/job_app?for=drweng&token=8303364"
+    ],
+    "source": "careers"
+  },
+  {
+    "company": "Bank of America",
+    "roles": "Sr. Quantitative Finance Analyst",
+    "reason": "The Sr. Quantitative Finance Analyst role is a quantitative analyst position in the US with no stated experience minimum that would exclude entry-level/junior candidates, whereas the Quantitative Operations role is operations-focused and not a target quant function.",
+    "url": "https://careers.bankofamerica.com/en-us/search",
+    "job_links": [
+      "https://careers.bankofamerica.com/en-us/job-detail/26039038/sr-quantitative-finance-analyst-multiple-locations"
+    ],
+    "source": "careers"
+  },
+  {
+    "company": "JPMorgan",
+    "roles": "Quant Analytics Sr. Associate - Digital",
+    "reason": "Only the Quant Analytics Sr. Associate - Digital role matches the candidate's quantitative analyst target, has no disqualifying senior-management title, is in the US, and has no stated experience requirement exceeding the limit.",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?siteNumber=CX_1001",
+    "job_links": [
+      "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210803108"
+    ],
+    "source": "careers"
+  },
+  {
+    "company": "ConocoPhillips",
+    "roles": "Quantitative Analyst",
+    "reason": "The role is a Quantitative Analyst supporting global LNG trading, origination, structuring, and portfolio optimization, with no stated experience minimum that would exclude an entry-level candidate, and it is located in Houston, TX.",
+    "url": "https://www.linkedin.com/jobs/view/4472825972",
+    "source": "linkedin",
+    "location": "Houston, TX"
+  },
+  {
+    "company": "Sha Intelligence",
+    "roles": "Quantitative Researcher",
+    "reason": "The role is a full-time on-site Quantitative Researcher in London with no stated minimum years of experience, and the qualifications ask for foundational statistics/math and quantitative research skills, making it suitable for an entry-level candidate targeting quantitative research roles in London.",
+    "url": "https://www.linkedin.com/jobs/view/4481927480",
+    "source": "linkedin",
+    "location": "London, England, United Kingdom"
+  },
+  {
+    "company": "Hunter Bond",
+    "roles": "Quant Developer, Quant Researcher",
+    "reason": "The job explicitly hires graduates into 'Quantitative Development, and Quantitative Research' and the title includes 'Quant Developer / Quant Researcher', which are target quant roles.",
+    "url": "https://www.linkedin.com/jobs/view/4480682142",
+    "source": "linkedin",
+    "location": "London Area, United Kingdom"
+  },
+  {
+    "company": "White Swan Data",
+    "roles": "Football Trader",
+    "reason": "The role is a junior-friendly Football Trader in London with no stated minimum experience, requiring only that prior trading experience is not required, and its duties involve monitoring betting markets and making trading decisions.",
+    "url": "https://www.linkedin.com/jobs/view/4480660771",
+    "source": "linkedin",
+    "location": "London, England, United Kingdom"
+  },
+  {
+    "company": "Tempest Vane Partners",
+    "roles": "Quantitative Analyst",
+    "reason": "The role is a London-based Quantitative Analyst position requiring a minimum of 2 years' experience, which fits the candidate's junior/entry-level criteria and target function.",
+    "url": "https://www.linkedin.com/jobs/view/4482890358",
+    "source": "linkedin",
+    "location": "London Area, United Kingdom"
+  },
+  {
+    "company": "All Options",
+    "roles": "Graduate Trader",
+    "reason": "The role is a full-time Graduate Trader in Amsterdam, Netherlands, with no minimum experience requirement beyond a Master’s degree and quantitative background, matching the candidate’s entry-level trading target.",
+    "url": "https://www.linkedin.com/jobs/view/4480642508",
+    "source": "linkedin",
+    "location": "Amsterdam, North Holland, Netherlands"
+  }
+]
