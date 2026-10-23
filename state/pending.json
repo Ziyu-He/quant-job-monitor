@@ -76,5 +76,45 @@
     "url": "https://www.linkedin.com/jobs/view/4480642508",
     "source": "linkedin",
     "location": "Amsterdam, North Holland, Netherlands"
+  },
+  {
+    "company": "State Street Global Advisors",
+    "roles": "AI and Trading Analytics Researcher, Officer",
+    "reason": "The role is an entry-compatible trading analytics research position with no stated experience minimum and no senior-management or internship disqualifier.",
+    "url": "https://statestreet.wd1.myworkdayjobs.com/en-US/Global",
+    "job_links": [
+      "https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Cambridge-Massachusetts/AI-and-Trading-Analytics-Researcher--Officer--Onsite_R-800239"
+    ],
+    "source": "careers"
+  },
+  {
+    "company": "State Street",
+    "roles": "AI and Trading Analytics Researcher, Officer, Onsite",
+    "reason": "The role appears to be a full-time quantitative/trading analytics research position with no stated experience minimum that would exclude the candidate.",
+    "url": "https://statestreet.wd1.myworkdayjobs.com/en-US/Global",
+    "job_links": [
+      "https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Cambridge-Massachusetts/AI-and-Trading-Analytics-Researcher--Officer--Onsite_R-800239"
+    ],
+    "source": "careers"
+  },
+  {
+    "company": "JPMorgan",
+    "roles": "Agency MBS Portfolio Manager – Associate",
+    "reason": "Only the Agency MBS Portfolio Manager – Associate posting matches the candidate’s portfolio-management target and has no stated experience requirement or disqualifying seniority/location issue.",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?siteNumber=CX_1001",
+    "job_links": [
+      "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210803032"
+    ],
+    "source": "careers"
+  },
+  {
+    "company": "Deutsche Bank",
+    "roles": "Wealth Management Strat",
+    "reason": "The London-based Wealth Management Strat role has no stated experience minimum and appears to be a quantitative strategy/analyst function within the candidate's target areas and location.",
+    "url": "https://api-deutschebank.beesite.de/search/",
+    "job_links": [
+      "https://db.wd3.myworkdayjobs.com/DBWebsite/job/London-21-Moorfields/Wealth-Management-Strat_R0450286"
+    ],
+    "source": "careers"
   }
 ]
