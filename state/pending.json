@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "company": "Group One Trading",
+    "roles": "Quantitative Researcher",
+    "reason": "The role is a Quantitative Researcher in Chicago/NY with no explicit minimum years of experience, and the JD focuses on equity options quantitative research, volatility modeling, and hypothesis testing, matching the candidate's entry-level quant research target.",
+    "url": "https://www.linkedin.com/jobs/view/4483345398",
+    "source": "linkedin",
+    "location": "Chicago, IL"
+  },
+  {
+    "company": "Referment",
+    "roles": "Credit Quantitative Analyst",
+    "reason": "The title is Credit Quantitative Analyst and the JD requires quantitative credit pricing/data work with no explicit years requirement, which fits the candidate's entry-level quantitative analyst target.",
+    "url": "https://www.linkedin.com/jobs/view/4483336751",
+    "source": "linkedin",
+    "location": "London, England, United Kingdom"
+  },
+  {
+    "company": "Cargill",
+    "roles": "Merchant II",
+    "reason": "The Merchant II role executes commodity buying/selling and hedging in Cargill's Ag & Trading team, including 'originating, buying and selling commodities' and monitoring 'futures hedges,' with a minimum requirement of only 2 years.",
+    "url": "https://www.linkedin.com/jobs/view/4481042854",
+    "source": "linkedin",
+    "location": "Olathe, KS"
+  }
+]
