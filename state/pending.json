@@ -1,0 +1,18 @@
+[
+  {
+    "company": "Old Mission",
+    "roles": "Junior Quantitative Trader",
+    "reason": "The role is a Junior Quantitative Trader with only '2+ years of relevant trading experience' required and is located in Chicago, IL, so it satisfies the experience and location checks.",
+    "url": "https://www.linkedin.com/jobs/view/4483377795",
+    "source": "linkedin",
+    "location": "Chicago, IL"
+  },
+  {
+    "company": "UBS",
+    "roles": "AI Algo Quant Trader",
+    "reason": "The listing is for an 'AI Algo Quant Trader' in Hong Kong/Singapore with duties to 'Design, back-test and implement systematic trading strategies,' and it states no minimum years of experience, so it passes the seniority-title, experience, location, and trading-role checks.",
+    "url": "https://www.linkedin.com/jobs/view/4482681965",
+    "source": "linkedin",
+    "location": "Hong Kong, Hong Kong SAR"
+  }
+]
