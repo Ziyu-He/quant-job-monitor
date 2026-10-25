@@ -14,5 +14,21 @@
     "url": "https://www.linkedin.com/jobs/view/4482681965",
     "source": "linkedin",
     "location": "Hong Kong, Hong Kong SAR"
+  },
+  {
+    "company": "Referment",
+    "roles": "Quantitative Analyst",
+    "reason": "The role is titled Quantitative Analyst and explicitly says it 'could suit a recent graduate or early-career researcher' with no minimum years requirement, covering systematic trading research and statistical modelling.",
+    "url": "https://www.linkedin.com/jobs/view/4483504003",
+    "source": "linkedin",
+    "location": "New York, NY"
+  },
+  {
+    "company": "Referment",
+    "roles": "Machine Learning Researcher, Quantitative Researcher",
+    "reason": "The JD describes complex quantitative research for systematic investing with no stated minimum years of experience, and the Machine Learning Researcher role is quantitative research rather than generic software engineering.",
+    "url": "https://www.linkedin.com/jobs/view/4483503046",
+    "source": "linkedin",
+    "location": "New York, NY"
   }
 ]
