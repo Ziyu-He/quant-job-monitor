@@ -1,0 +1,85 @@
+[
+  {
+    "company": "Bank of America",
+    "roles": "Quantitative Finance Analyst",
+    "reason": "The posting is a full-time Quantitative Finance Analyst role in New York with no stated seniority or minimum experience requirement of 3+ years, matching the candidate’s target quantitative analyst function and location.",
+    "url": "https://careers.bankofamerica.com/en-us/search",
+    "job_links": [
+      "https://careers.bankofamerica.com/en-us/job-detail/26039426/quantitative-finance-analyst-new-york-new-york-united-states"
+    ],
+    "source": "careers"
+  },
+  {
+    "company": "T. Rowe Price",
+    "roles": "Senior Portfolio Analyst – US Equity Large Cap Value, Tactical Asset Allocation Strategist – Fixed Income",
+    "reason": "The Portfolio Analyst and Tactical Asset Allocation Strategist roles fall within portfolio/quantitative investment functions in the US with no stated 3+ year requirement, while the Salesforce/DevOps role is not relevant.",
+    "url": "https://troweprice.wd5.myworkdayjobs.com/en-US/TRowePrice",
+    "job_links": [
+      "https://troweprice.wd5.myworkdayjobs.com/en-US/TRowePrice/job/Baltimore-MD/Senior-Portfolio-Analyst---US-Equity-Large-Cap-Value_78442",
+      "https://troweprice.wd5.myworkdayjobs.com/en-US/TRowePrice/job/Baltimore-MD/Tactical-Asset-Allocation-Strategist---Fixed-Income_84184-1"
+    ],
+    "source": "careers"
+  },
+  {
+    "company": "JPMorgan",
+    "roles": "Quant Analytics, Senior Associate - Asset Wealth Management, Quant Modeling Associate - Model Risk Governance Review - Senior Associate, Securitized Products Group - CMBS Strategy - Associate, AWM: PMG, Associate, Mortgage Servicing Right Hedging – Analyst",
+    "reason": "The only matching role is a New York quantitative analytics role at Senior Associate level with no stated 3+ years requirement or rejected senior/management title.; The relevant postings are junior quantitative/markets-strategy roles in the US without a stated 3+ year experience requirement; all oth",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?siteNumber=CX_1001",
+    "job_links": [
+      "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210798247",
+      "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210803446",
+      "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210803547",
+      "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210803843",
+      "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210803883"
+    ],
+    "source": "careers"
+  },
+  {
+    "company": "Old Mission",
+    "roles": "Quantitative Researcher",
+    "reason": "The posting is for a Quantitative Researcher (Ph.D.) - 2027 Graduate Program in Chicago with no minimum years of experience stated and explicitly allows a Masters or Ph.D., so it matches the candidate's entry-level quantitative research target.",
+    "url": "https://www.linkedin.com/jobs/view/4483566894",
+    "source": "linkedin",
+    "location": "Chicago, IL"
+  },
+  {
+    "company": "Man Group",
+    "roles": "Quantitative Researcher - Cash Equities",
+    "reason": "The role is a Quantitative Researcher in Boston with no minimum years of experience stated, requiring a PhD or exceptional Masters/Bachelor’s qualification in a quantitative subject, which fits an entry-level quant candidate.",
+    "url": "https://www.linkedin.com/jobs/view/4483572786",
+    "source": "linkedin",
+    "location": "Boston, MA"
+  },
+  {
+    "company": "CHEManager International",
+    "roles": "Quant Researcher",
+    "reason": "The role is a Quant Researcher in New York, NY requiring only \"2+ years of experience\" and responsibilities building production quantitative models, which fits the candidate's entry-level quant targets and experience threshold.",
+    "url": "https://www.linkedin.com/jobs/view/4483221738",
+    "source": "linkedin",
+    "location": "New York, NY"
+  },
+  {
+    "company": "Man Group",
+    "roles": "Quantitative Researcher",
+    "reason": "The posting is for a Quantitative Researcher - Cash Equities in New York, NY, with no stated minimum years of experience and duties focused on alpha research, ML, and execution optimization, matching the candidate's target entry-level quant role.",
+    "url": "https://www.linkedin.com/jobs/view/4483565984",
+    "source": "linkedin",
+    "location": "New York, NY"
+  },
+  {
+    "company": "BMO U.S.",
+    "roles": "Intraday Liquidity Analyst, Quantitative Analyst",
+    "reason": "The JD states it 'Supports the research and development of quantitative risk modeling methodologies' and 'Develops and implements models,' making it a quantitative analyst/modeling role in Chicago with no stated experience minimum.",
+    "url": "https://www.linkedin.com/jobs/view/4483594737",
+    "source": "linkedin",
+    "location": "Chicago, IL"
+  },
+  {
+    "company": "Old Mission",
+    "roles": "Quantitative Trader",
+    "reason": "The role is Quantitative Trader in London and requires only '1+ years of relevant trading experience', which is a minimum-only requirement with a floor of 1 year and is acceptable for an entry-level/junior candidate.",
+    "url": "https://www.linkedin.com/jobs/view/4483570787",
+    "source": "linkedin",
+    "location": "London, England, United Kingdom"
+  }
+]
