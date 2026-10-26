@@ -81,5 +81,21 @@
     "url": "https://www.linkedin.com/jobs/view/4483570787",
     "source": "linkedin",
     "location": "London, England, United Kingdom"
+  },
+  {
+    "company": "Referment",
+    "roles": "Quantitative Analyst, Investment Strategist, Portfolio Strategy Associate",
+    "reason": "The JD describes an early-career, technically oriented strategist role focused on quantitative analysis, portfolio design, risk analysis, and investment-product research, with only a bachelor's degree and basic Python required and no minimum years stated.",
+    "url": "https://www.linkedin.com/jobs/view/4483713931",
+    "source": "linkedin",
+    "location": "New York, NY"
+  },
+  {
+    "company": "Monetary",
+    "roles": "Associate Quantitative Strategist",
+    "reason": "The role requires no stated years of experience and is a quantitative strategist position working on market data, benchmarks, and fixed income analytics in Charlotte, NC, matching the candidate's entry-level quant profile and US location preference.",
+    "url": "https://www.linkedin.com/jobs/view/4481800127",
+    "source": "linkedin",
+    "location": "Charlotte, NC"
   }
 ]
