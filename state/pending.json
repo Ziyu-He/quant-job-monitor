@@ -1,0 +1,74 @@
+[
+  {
+    "company": "Flow Traders",
+    "roles": "Digital Assets Options Trader",
+    "reason": "The Digital Assets Options Trader role in Amsterdam is a full-time trading role with no stated minimum experience of 3+ years and is in a preferred location.",
+    "url": "https://job-boards.greenhouse.io/flowtraders",
+    "job_links": [
+      "https://job-boards.greenhouse.io/embed/job_app?for=flowtraders&token=8176707"
+    ],
+    "source": "careers"
+  },
+  {
+    "company": "Bank of America",
+    "roles": "Quantitative Finance Analyst",
+    "reason": "Only the Quantitative Finance Analyst role matches the candidate's target quantitative function, entry-level experience, and US location criteria.",
+    "url": "https://careers.bankofamerica.com/en-us/search",
+    "job_links": [
+      "https://careers.bankofamerica.com/en-us/job-detail/26039659/quantitative-finance-analyst-multiple-locations"
+    ],
+    "source": "careers"
+  },
+  {
+    "company": "T. Rowe Price",
+    "roles": "Quantitative Investment Analyst",
+    "reason": "Only the Quantitative Investment Analyst role is a relevant quantitative analyst function in the U.S.; the others are legal or software/developer roles outside the candidate's target areas.",
+    "url": "https://troweprice.wd5.myworkdayjobs.com/en-US/TRowePrice",
+    "job_links": [
+      "https://troweprice.wd5.myworkdayjobs.com/en-US/TRowePrice/job/Baltimore-MD/Quantitative-Investment-Analyst_84187"
+    ],
+    "source": "careers"
+  },
+  {
+    "company": "Voloridge",
+    "roles": "Quantitative Developer - New University Graduate",
+    "reason": "The posting is a full-time new-graduate Quantitative Developer role, which matches the candidate's target quantitative developer function and entry-level experience requirements.",
+    "url": "http://voloridge.com/join-our-team",
+    "job_links": [
+      "http://voloridge.com/jobs/voloridgeinvestmentmanagement/4419326009"
+    ],
+    "source": "careers"
+  },
+  {
+    "company": "Freddie Mac",
+    "roles": "Quantitative Analytics Professional",
+    "reason": "The role is a quantitative modeling position that asks for a Master's in a quantitative field and involves developing and enhancing collateral models using statistical methods and machine learning, with no minimum years-of-experience requirement stated.",
+    "url": "https://www.linkedin.com/jobs/view/4483679311",
+    "source": "linkedin",
+    "location": "McLean, VA"
+  },
+  {
+    "company": "Saragossa",
+    "roles": "Quant Strategist",
+    "reason": "The role is a London-based Quant Strategist building pricing models and hedging strategies, with no stated numeric experience minimum, so it fits the candidate's quantitative research/analyst targets and location preferences.",
+    "url": "https://www.linkedin.com/jobs/view/4481889633",
+    "source": "linkedin",
+    "location": "London Area, United Kingdom"
+  },
+  {
+    "company": "Referment",
+    "roles": "Credit Quantitative Analyst",
+    "reason": "The posting is for a 'Credit Quantitative Analyst' with quantitative pricing/data duties and no explicit minimum years requirement, in London, so it fits the candidate's target role and location criteria.",
+    "url": "https://www.linkedin.com/jobs/view/4484227229",
+    "source": "linkedin",
+    "location": "London, England, United Kingdom"
+  },
+  {
+    "company": "Santander Consumer (UK) plc",
+    "roles": "CIB Agency CMBS Associate",
+    "reason": "Relevant because it is a front-office CIB Markets role that 'Supports trading and market-making in Agency CMBS' and requires '2+ Years of relevant Sales & Trading experience' (a minimum-only floor under 3 years), located in Madison, WI.",
+    "url": "https://www.linkedin.com/jobs/view/4483623132",
+    "source": "linkedin",
+    "location": "Madison, WI"
+  }
+]
