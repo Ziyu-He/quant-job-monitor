@@ -82,5 +82,45 @@
     "url": "https://www.linkedin.com/jobs/view/4483891486",
     "source": "linkedin",
     "location": "London, England, United Kingdom"
+  },
+  {
+    "company": "PIMCO",
+    "roles": "Quantitative Research Analyst - Client Solutions & Analytics",
+    "reason": "The posting is a full-time Quantitative Research Analyst role in Newport Beach, CA with no stated experience requirement exceeding the candidate's 0-2 year limit, matching the quantitative analyst/researcher target.",
+    "url": "https://pimco.wd1.myworkdayjobs.com/en-US/pimco-careers",
+    "job_links": [
+      "https://pimco.wd1.myworkdayjobs.com/en-US/pimco-careers/job/Newport-Beach-CA-USA/Quantitative-Research-Analyst_R106236"
+    ],
+    "source": "careers"
+  },
+  {
+    "company": "U.S. Bank",
+    "roles": "Quantitative Model Analyst - Wholesale Modeling",
+    "reason": "The posting is a quantitative analyst-type role with no seniority or excessive experience requirement stated, and the locations are unspecified but within a U.S.-based bank posting.",
+    "url": "https://usbank.wd1.myworkdayjobs.com/en-US/US_Bank_Careers",
+    "job_links": [
+      "https://usbank.wd1.myworkdayjobs.com/en-US/US_Bank_Careers/job/New-York-NY/Quantitative-Model-Analyst---Wholesale-Modeling_2026-0033911"
+    ],
+    "source": "careers"
+  },
+  {
+    "company": "Morgan Stanley",
+    "roles": "Market Risk - XVA (Risk Management) : Job Level - Associate",
+    "reason": "The XVA Market Risk Associate role is a quantitative risk role in New York with no stated minimum experience of 3 or more years.",
+    "url": "https://morganstanley.eightfold.ai/api/pcsx/search?domain=morganstanley.com",
+    "job_links": [
+      "https://morganstanley.eightfold.ai/careers/job/549800863137?domain=morganstanley.com"
+    ],
+    "source": "careers"
+  },
+  {
+    "company": "Citi",
+    "roles": "Portfolio Construction & Analytics – Senior Lead - New York",
+    "reason": "Only the portfolio construction and analytics posting appears aligned with the candidate's portfolio/quant targets, and no explicit 3+ year experience requirement or disallowed senior title was provided.",
+    "url": "https://jobs.citi.com/search-jobs",
+    "job_links": [
+      "https://jobs.citi.com/job/new-york/portfolio-construction-and-analytics-senior-lead-new-york/287/102566865424"
+    ],
+    "source": "careers"
   }
 ]
