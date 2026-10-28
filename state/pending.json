@@ -1,0 +1,86 @@
+[
+  {
+    "company": "Macquarie",
+    "roles": "Associate, Futures Brokerage",
+    "reason": "The Associate, Futures Brokerage role is a junior trading/brokerage role matching the candidate's trading desk interests and has no stated experience barrier; the others are software engineering, risk/project management, or temporary/non-quant roles.",
+    "url": "http://recruitment.macquarie.com/en_US/careers",
+    "job_links": [
+      "https://recruitment.macquarie.com/en_US/careers/JobDetail?jobId=24017"
+    ],
+    "source": "careers"
+  },
+  {
+    "company": "JPMorgan",
+    "roles": "Wholesale Credit Quantitative Research - Senior Associate, Wealth Management, Portfolio Construction Strategy, Analyst",
+    "reason": "Only the Wholesale Credit Quantitative Research role matches the candidate's quantitative research target and is not disqualified by title seniority, location, or stated experience requirements; the others are senior management, retail/commercial banking, sales/product, legal, or otherwise non-targe",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?siteNumber=CX_1001",
+    "job_links": [
+      "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210802731",
+      "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210804698"
+    ],
+    "source": "careers"
+  },
+  {
+    "company": "Goldman Sachs Asset Management",
+    "roles": "Asset & Wealth Management, QIS, Quantitative Equity Portfolio Construction Analyst - New York, Asset & Wealth Management, QIS, Quantitative Liquid Alternatives Portfolio Construction Analyst - New York",
+    "reason": "The two QIS portfolio construction analyst roles are entry-level quantitative/portfolio roles in New York with no stated experience requirement exceeding the candidate's limit, while the London platform management role is non-quant and the software engineer role is explicitly excluded.",
+    "url": "https://api-higher.gs.com/gateway/api/v1/graphql",
+    "job_links": [
+      "https://higher.gs.com/roles/186423",
+      "https://higher.gs.com/roles/186424"
+    ],
+    "source": "careers"
+  },
+  {
+    "company": "Citi",
+    "roles": "Clean Energy Finance – Analyst, Portfolio Management",
+    "reason": "Only posting [8] is an entry-level portfolio management role in a target function with no indicated years or disqualifying seniority requirement.",
+    "url": "https://jobs.citi.com/search-jobs",
+    "job_links": [
+      "https://jobs.citi.com/job/new-york/clean-energy-finance-analyst-portfolio-management/287/102550688560"
+    ],
+    "source": "careers"
+  },
+  {
+    "company": "Deutsche Bank",
+    "roles": "Commodities Quantitative Strategist",
+    "reason": "Only the London Commodities Quantitative Strategist is a relevant quant role in a target location with no stated seniority or experience barrier; all other postings fail due to title, function, or location checks.",
+    "url": "https://api-deutschebank.beesite.de/search/",
+    "job_links": [
+      "https://db.wd3.myworkdayjobs.com/DBWebsite/job/London-21-Moorfields/Commodities-Quantitative-Strategist_R0455753"
+    ],
+    "source": "careers"
+  },
+  {
+    "company": "Referment",
+    "roles": "Quantitative Analyst",
+    "reason": "The posting is for a Quantitative Analyst in New York, NY, explicitly suits a recent graduate or early-career researcher, and involves systematic trading research, statistical models, and strategy development with no minimum experience requirement.",
+    "url": "https://www.linkedin.com/jobs/view/4484719404",
+    "source": "linkedin",
+    "location": "New York, NY"
+  },
+  {
+    "company": "Referment",
+    "roles": "Machine Learning Researcher (Quantitative Research)",
+    "reason": "The role is for a Machine Learning Researcher focused on 'complex quantitative research in systematic investing' and developing ML approaches for 'challenging quantitative research problems,' which fits the candidate's quantitative research target despite no stated years requirement.",
+    "url": "https://www.linkedin.com/jobs/view/4484732039",
+    "source": "linkedin",
+    "location": "New York, NY"
+  },
+  {
+    "company": "Shell",
+    "roles": "Energy Analyst",
+    "reason": "The London-based Energy Analyst/Market Analysis role develops forecasting and optimisation models for the power trading desk, with only a graduate qualification (ideally a PhD) and no stated minimum years.",
+    "url": "https://www.linkedin.com/jobs/view/4484102492",
+    "source": "linkedin",
+    "location": "London, England, United Kingdom"
+  },
+  {
+    "company": "LexisNexis Risk Solutions",
+    "roles": "Computation Energy Pricing Specialist",
+    "reason": "The London-based role combines energy market analysis, Python coding, complex-dataset interrogation, and model development with no stated years of experience, matching an entry-level quantitative analyst/specialist path.",
+    "url": "https://www.linkedin.com/jobs/view/4483891486",
+    "source": "linkedin",
+    "location": "London, England, United Kingdom"
+  }
+]
