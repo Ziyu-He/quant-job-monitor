@@ -74,5 +74,41 @@
     "url": "https://www.linkedin.com/jobs/view/4484966559",
     "source": "linkedin",
     "location": "London Area, United Kingdom"
+  },
+  {
+    "company": "BlackRock",
+    "roles": "Research Associate – Investor Data",
+    "reason": "Entry-level Research Associate role in investor data at BlackRock in New York, with no seniority or 3+ years experience requirement and within quantitative/portfolio research.",
+    "url": "https://careers.blackrock.com/search-jobs",
+    "job_links": [
+      "https://careers.blackrock.com/job/new-york/research-associate-investor-data/45831/102608339808"
+    ],
+    "source": "careers"
+  },
+  {
+    "company": "Charles Schwab",
+    "roles": "Fixed Income Trader",
+    "reason": "Fixed Income Trader is a full-time trading-desk role in the US with no stated minimum experience, matching the candidate's trading target.",
+    "url": "https://www.schwabjobs.com/search-jobs",
+    "job_links": [
+      "https://www.schwabjobs.com/job/san-francisco/fixed-income-trader/33727/102607453536"
+    ],
+    "source": "careers"
+  },
+  {
+    "company": "Goldman Sachs",
+    "roles": "Quantitative Analyst, Portfolio Construction Analyst",
+    "reason": "The posting is an Analyst role on the QIS Liquid Alternatives Portfolio Construction team with responsibilities including optimization, rebalancing, risk monitoring, and portfolio construction research, and it states no minimum years of experience.",
+    "url": "https://www.linkedin.com/jobs/view/4483898805",
+    "source": "linkedin",
+    "location": "New York, NY"
+  },
+  {
+    "company": "Goldman Sachs",
+    "roles": "Quantitative Analyst, Portfolio Management",
+    "reason": "The posting is an entry-level Analyst role in Goldman Sachs QIS Quantitative Equity Portfolio Construction with no minimum years of experience stated, and it seeks strong quantitative/programming skills for portfolio construction, optimization, rebalancing, and portfolio management.",
+    "url": "https://www.linkedin.com/jobs/view/4484118018",
+    "source": "linkedin",
+    "location": "New York, NY"
   }
 ]
