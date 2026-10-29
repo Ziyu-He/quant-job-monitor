@@ -1,0 +1,78 @@
+[
+  {
+    "company": "Millennium Management",
+    "roles": "Quantitative Researcher - EQ Vol, Quantitative Developer",
+    "reason": "Both postings are full-time quantitative roles in New York with no stated experience requirement exceeding the candidate's junior threshold.",
+    "url": "https://mlp.eightfold.ai/api/apply/v2/jobs?domain=mlp.com",
+    "job_links": [
+      "https://mlp.eightfold.ai/careers/job/755959155608",
+      "https://mlp.eightfold.ai/careers/job/755959470974"
+    ],
+    "source": "careers"
+  },
+  {
+    "company": "Bank of America",
+    "roles": "Quantitative Engineer Analyst, Quantitative Finance Analyst",
+    "reason": "Postings 1 and 2 are entry-level quantitative roles in US locations matching the candidate's target quantitative functions, while posting 0 is a markets support role and not a target trading/quant function.",
+    "url": "https://careers.bankofamerica.com/en-us/search",
+    "job_links": [
+      "https://careers.bankofamerica.com/en-us/job-detail/26040002/quantitative-engineer-analyst-multiple-locations",
+      "https://careers.bankofamerica.com/en-us/job-detail/26040173/quantitative-finance-analyst-charlotte-north-carolina-united-states"
+    ],
+    "source": "careers"
+  },
+  {
+    "company": "Fidelity",
+    "roles": "DeFi Quant Developer",
+    "reason": "Only the DeFi Quant Developer posting matches the candidate's target quantitative developer role without a stated disqualifying experience, seniority, internship, or location restriction.",
+    "url": "https://jobs.fidelity.com/en/jobs/?query=quantitative",
+    "job_links": [
+      "https://jobs.fidelity.com/en/jobs/2132276/defi-quant-developer/"
+    ],
+    "source": "careers"
+  },
+  {
+    "company": "JPMorgan",
+    "roles": "Quantitative Trading & Research – Securities Services – Analyst or Associate",
+    "reason": "Only the London-based Quantitative Trading & Research Analyst/Associate role matches the candidate's quant/trading target function and is a junior full-time role in an approved location with no disqualifying experience or seniority requirement.",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?siteNumber=CX_1001",
+    "job_links": [
+      "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210804850"
+    ],
+    "source": "careers"
+  },
+  {
+    "company": "Dimensional",
+    "roles": "Analyst, Portfolio Management (Equities)",
+    "reason": "The Portfolio Management (Equities) Analyst role is a relevant junior portfolio-management posting in Austin, while the Full Stack Software Engineer role is excluded as software engineering.",
+    "url": "https://dimensional.wd5.myworkdayjobs.com/en-US/DFA_Careers",
+    "job_links": [
+      "https://dimensional.wd5.myworkdayjobs.com/en-US/DFA_Careers/job/Austin/Analyst--Portfolio-Management--Equities-_2026-8973"
+    ],
+    "source": "careers"
+  },
+  {
+    "company": "Bank of America",
+    "roles": "Quantitative Finance Analyst",
+    "reason": "The role is titled 'Quantitative Finance Analyst' and the JD says it is responsible for 'conducting quantitative analytics and modeling projects' with no stated experience minimum, and the location is Charlotte, NC, within the US.",
+    "url": "https://www.linkedin.com/jobs/view/4485203777",
+    "source": "linkedin",
+    "location": "Charlotte, NC"
+  },
+  {
+    "company": "NERA",
+    "roles": "Researcher – Auctions",
+    "reason": "The job is an entry-level 'Researcher in the Auctions Group' with no stated years-of-experience requirement, requiring quantitative/analytical skills and game theory for auction modelling and empirical analysis in New York.",
+    "url": "https://www.linkedin.com/jobs/view/4485213284",
+    "source": "linkedin",
+    "location": "New York, NY"
+  },
+  {
+    "company": "Synchronicity Group",
+    "roles": "Capital Markets Assumptions Specialist",
+    "reason": "The role is a London-based quantitative modelling/specialist position requiring 'capital market assumptions and modelling' and 'building and maintaining the models' with no stated years-of-experience minimum, so it passes the role, location, and experience checks.",
+    "url": "https://www.linkedin.com/jobs/view/4484966559",
+    "source": "linkedin",
+    "location": "London Area, United Kingdom"
+  }
+]
