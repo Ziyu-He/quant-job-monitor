@@ -28,5 +28,75 @@
       "https://db.wd3.myworkdayjobs.com/DBWebsite/job/London-21-Moorfields/Core-Quantitative-Strategic-Analytics-Engineer_R0454513"
     ],
     "source": "careers"
+  },
+  {
+    "company": "Millennium Management",
+    "roles": "Quantitative Analyst – Quant Analyst Program",
+    "reason": "Quantitative Analyst – Quant Analyst Program in New York is an entry-level/new-grad quant analyst role with no stated experience minimum or seniority exclusion.",
+    "url": "https://mlp.eightfold.ai/api/apply/v2/jobs?domain=mlp.com",
+    "job_links": [
+      "https://mlp.eightfold.ai/careers/job/755959471860"
+    ],
+    "source": "careers"
+  },
+  {
+    "company": "U.S. Bank",
+    "roles": "Financial Risk Quantitative Analyst",
+    "reason": "The Financial Risk Quantitative Analyst role matches the candidate's target Quantitative Analyst function, has no stated seniority or 3+ year experience requirement, and appears to be a full-time US-based opportunity.",
+    "url": "https://usbank.wd1.myworkdayjobs.com/en-US/US_Bank_Careers",
+    "job_links": [
+      "https://usbank.wd1.myworkdayjobs.com/en-US/US_Bank_Careers/job/Minneapolis-MN/Financial-Risk-Quantitative-Analyst_2026-0033895-1"
+    ],
+    "source": "careers"
+  },
+  {
+    "company": "S&P Global",
+    "roles": "Lead, Quantitative Modeling",
+    "reason": "Only the Lead, Quantitative Modeling role is a relevant quantitative role in New York, and its title does not contain a disqualifying senior/management word while no excessive experience requirement is stated.",
+    "url": "https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers",
+    "job_links": [
+      "https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/New-York-NY/Lead--Quantitative-Modeling_332289-2"
+    ],
+    "source": "careers"
+  },
+  {
+    "company": "S&P500",
+    "roles": "Lead, Quantitative Modeling",
+    "reason": "Only the New York quantitative modeling role matches the candidate's quantitative target function and has no stated over-3-year requirement or disqualifying senior title.",
+    "url": "https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers",
+    "job_links": [
+      "https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/New-York-NY/Lead--Quantitative-Modeling_332289-2"
+    ],
+    "source": "careers"
+  },
+  {
+    "company": "JPMorgan",
+    "roles": "Fixed Income Financing Trading – Associate",
+    "reason": "Only the Fixed Income Financing Trading – Associate role matches the candidate's trading-desk target, has no stated minimum experience, and is in New York, while all other postings are software engineering, senior/VP/Executive titles, retail/non-quant functions, or otherwise outside the target areas",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?siteNumber=CX_1001",
+    "job_links": [
+      "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210805594"
+    ],
+    "source": "careers"
+  },
+  {
+    "company": "BlackRock",
+    "roles": "Associate, Quant Research",
+    "reason": "Only the Associate, Quant Research posting matches the candidate's target quantitative-research function, junior/associate seniority with unspecified experience, and US location; the other postings are senior, software engineering, generic/non-target, or not in the desired quant/trading/index/portfo",
+    "url": "https://careers.blackrock.com/search-jobs",
+    "job_links": [
+      "https://careers.blackrock.com/job/san-francisco/associate-quant-research/45831/102651162688"
+    ],
+    "source": "careers"
+  },
+  {
+    "company": "Chicago Trading Company (Campus)",
+    "roles": "Quant Trading Associate",
+    "reason": "The posting is an entry-level Quant Trading Associate role in Chicago with no stated experience minimum above 3 years and a relevant quant trading function.",
+    "url": "https://job-boards.greenhouse.io/chicagotradingcampus",
+    "job_links": [
+      "https://job-boards.greenhouse.io/embed/job_app?for=chicagotradingcampus&token=4748936005"
+    ],
+    "source": "careers"
   }
 ]
