@@ -1,0 +1,32 @@
+[
+  {
+    "company": "Fidelity",
+    "roles": "Portfolio Analyst",
+    "reason": "The Portfolio Analyst posting matches a targeted portfolio-management function and has no stated experience or location that disqualifies it.",
+    "url": "https://jobs.fidelity.com/en/jobs/?query=quantitative",
+    "job_links": [
+      "https://jobs.fidelity.com/en/jobs/2137211/portfolio-analyst/"
+    ],
+    "source": "careers"
+  },
+  {
+    "company": "ING",
+    "roles": "Junior IRRBB Modelling Specialist",
+    "reason": "Only the Junior IRRBB Modelling Specialist is a junior quantitative modelling role; the other postings are internships, non-quant, senior/leadership, IT/security, or otherwise outside the target functions.",
+    "url": "https://careers.ing.com/search-jobs",
+    "job_links": [
+      "https://careers.ing.com/en/job/warsaw/junior-irrbb-modelling-specialist/3121/46478750976"
+    ],
+    "source": "careers"
+  },
+  {
+    "company": "Deutsche Bank",
+    "roles": "Core Quantitative Strategic Analytics Engineer",
+    "reason": "Only the London Core Quantitative Strategic Analytics Engineer role matches the quantitative/technology target area and preferred location without a stated 3+ year requirement; the other postings are retail banking roles outside target locations and function areas.",
+    "url": "https://api-deutschebank.beesite.de/search/",
+    "job_links": [
+      "https://db.wd3.myworkdayjobs.com/DBWebsite/job/London-21-Moorfields/Core-Quantitative-Strategic-Analytics-Engineer_R0454513"
+    ],
+    "source": "careers"
+  }
+]
