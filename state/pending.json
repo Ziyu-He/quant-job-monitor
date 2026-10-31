@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "company": "Referment",
+    "roles": "Quantitative Analyst",
+    "reason": "The role is a New York-based Quantitative Analyst position in systematic trading research that explicitly suits a recent graduate or early-career researcher, with no 3+ years requirement.",
+    "url": "https://www.linkedin.com/jobs/view/4485916515",
+    "source": "linkedin",
+    "location": "New York, NY"
+  },
+  {
+    "company": "Referment",
+    "roles": "Machine Learning Researcher",
+    "reason": "The JD describes a 'machine learning researcher for complex quantitative research in systematic investing' with no minimum years requirement, fitting the candidate's quantitative research target and entry-level openness.",
+    "url": "https://www.linkedin.com/jobs/view/4485906767",
+    "source": "linkedin",
+    "location": "New York, NY"
+  },
+  {
+    "company": "Gold-Eagle Cooperative",
+    "roles": "Commodity Merchandiser - Grain Originator",
+    "reason": "The role is a commodities merchandising/trading position involving sourcing corn and beans, overseeing grain movement, assisting with hedging strategies, and monitoring CBOT/NGFA developments, with no minimum years of experience stated.",
+    "url": "https://www.linkedin.com/jobs/view/4485918535",
+    "source": "linkedin",
+    "location": "Eagle Grove, IA"
+  }
+]
