@@ -1,6 +1,6 @@
 {
   "Chicago Trading Company (CTC)": {
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://boards-api.greenhouse.io/v1/boards/chicagotrading/jobs",
     "notion_page_id": "379ea971-7118-8157-94d3-dd5bbf296f5e",
     "seen_jobs": [
@@ -45,7 +45,7 @@
   },
   "D.E. Shaw": {
     "hash": "314819aaa1fec8d315fe64a1d839f2cc277795c7e7a75f872bd6d5df33c4475a",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://www.deshaw.com/careers",
     "notion_page_id": "379ea971-7118-811f-8999-ccd905ed567c",
     "seen_jobs": [
@@ -363,7 +363,7 @@
   },
   "Five Rings": {
     "hash": "954a1e10d83895be6c68596c4ececce1884c6c04907a36b3cbef19b880656c23",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://boards-api.greenhouse.io/v1/boards/fiveringsllc/jobs",
     "notion_page_id": "379ea971-7118-81e0-86d8-f33855af8ac8",
     "seen_jobs": [
@@ -435,8 +435,8 @@
     ]
   },
   "Flow Traders": {
-    "hash": "c3ae20a6cc755ba84cb3b30e7605d111152108acf45ec4f0dc2f6a99c836aed0",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "hash": "bf4524b42411ec56ff48ef33ca7a4e0f4b810fa1ca21c9170bcaba47e4d06d32",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://boards-api.greenhouse.io/v1/boards/flowtraders/jobs",
     "notion_page_id": "379ea971-7118-81be-b436-e633ea22a9b3",
     "seen_jobs": [
@@ -758,7 +758,7 @@
     "hash": "913b892699600b94913f5164a72f061d924533e309c687c5eb8d066fd63a296a"
   },
   "Jane Street": {
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://www.janestreet.com/jobs/main.json",
     "notion_page_id": "379ea971-7118-81b4-b4a4-f129dc2c79e7",
     "seen_jobs": [
@@ -1073,7 +1073,7 @@
     "hash": "9457391d96465eb7a86e1242a0303d74ce42d43deed40dd9933f5bee374907e7"
   },
   "Jump Trading": {
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://boards-api.greenhouse.io/v1/boards/jumptrading/jobs?content=true",
     "notion_page_id": "379ea971-7118-81b0-ab1b-f7079d8c386c",
     "seen_jobs": [
@@ -1235,10 +1235,10 @@
       "gh:8306516",
       "gh:8329789"
     ],
-    "hash": "3dc5317e4bce2dfc862a6ff2b7629b8274ca577b63858de2ae44e72f42110cea"
+    "hash": "feac7184f1226a5a06d4f52d678c9b4d31db239906a8bf0dceb1e043f6b1a5be"
   },
   "QRT (Qube Research & Technologies)": {
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://boards-api.greenhouse.io/v1/boards/quberesearchandtechnologies/jobs",
     "notion_page_id": "379ea971-7118-8185-93f2-dd1ce1f512a1",
     "seen_jobs": [
@@ -1577,10 +1577,10 @@
       "gh:8924898002",
       "gh:8924911002"
     ],
-    "hash": "d7506c3527e6d17c403bcaeb21f459c80a5739887d6f6990b00563b6e8f80dc8"
+    "hash": "1c0fbfbd80c1cd51814579e0ab51b5419939f1abd6a95632f3dec0c9f726e3a9"
   },
   "Squarepoint Capital": {
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://boards-api.greenhouse.io/v1/boards/squarepointcapital/jobs",
     "notion_page_id": "379ea971-7118-81e9-bb61-e727d110fc5e",
     "hash": "1295d5fcfea2367460e6de793a8d06226a4fa4588b3561b7279ec16b7302ad79",
@@ -1704,7 +1704,7 @@
     ]
   },
   "Susquehanna (SIG)": {
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://careers.sig.com/api/jobs?page=1&sortBy=relevance&descending=false&internal=false",
     "notion_page_id": "379ea971-7118-81a0-8aeb-e55886dc3a0a",
     "seen_jobs": [
@@ -2166,7 +2166,7 @@
   },
   "Balyasny Asset Management (BAM)": {
     "hash": "6982f408644dc14414667df43fff731574ef27f968be24b1b4ab89ad6edbb81d",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://www.bamfunds.com/careers/early-career",
     "notion_page_id": "379ea971-7118-8189-a19d-c4bda3ec94af",
     "seen_jobs": [
@@ -2193,7 +2193,7 @@
     ]
   },
   "Bridgewater Associates": {
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://boards-api.greenhouse.io/v1/boards/bridgewater89/jobs?content=true",
     "notion_page_id": "379ea971-7118-812b-bbee-fbbb234b74ea",
     "seen_jobs": [
@@ -2259,8 +2259,8 @@
     "hash": "aaf8b2b2cf69cb07caa8bdb7bfb6cfb946648c4003e0204972c2c2f7f094df56"
   },
   "Credit Agricole CIB (CACIB)": {
-    "hash": "cbb9c3ce2c82e92d5a680f838664f3f59ae0ac178c4cdb43727b7ef32f2f4f7a",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "hash": "5e039007127c3107b47e51be11d7df1239e914518e200e955c54c2448e2294cc",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://jobs.ca-cib.com/homepage.aspx",
     "notion_page_id": "379ea971-7118-81b3-a111-f80cd06baffb",
     "seen_jobs": [
@@ -3121,7 +3121,7 @@
   },
   "Marshall Wace": {
     "hash": "e5093a24a71cf036ecd97dbe416434e16c35218fec3ee976a2c6eaf4887ffd21",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://boards-api.greenhouse.io/v1/boards/mw-tech-grad/jobs?content=true",
     "notion_page_id": "379ea971-7118-810a-a20d-d37087ff556d",
     "seen_jobs": [
@@ -3199,7 +3199,7 @@
     ]
   },
   "Capstone Investment Advisors": {
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://boards-api.greenhouse.io/v1/boards/capstoneinvestmentadvisors/jobs",
     "notion_page_id": "379ea971-7118-8134-a560-fe26b017fa0f",
     "seen_jobs": [
@@ -3240,8 +3240,8 @@
     "hash": "1f6f2dc438979ef1389fdf708ccf7c16424ad551b6ea2f53a8474c3fdd638afb"
   },
   "Millennium Management": {
-    "hash": "270b79163cff0cfeb9ca71226f072ff68bb2085ba24821e539fee17af75dfe73",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "hash": "43d721f5e6b501b925a36547299b6c290f156bd7a5f824a8819ee79fb27410df",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://mlp.eightfold.ai/api/apply/v2/jobs?domain=mlp.com",
     "notion_page_id": "379ea971-7118-8127-be28-f9df9cdfc1ed",
     "seen_jobs": [
@@ -3693,7 +3693,7 @@
   },
   "Two Sigma": {
     "hash": "cfed9221c6959edafe6cb08aae262508baa4d9fcd0d13f8f2eca915de4086a53",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://careers.twosigma.com/careers/OpenRoles",
     "notion_page_id": "379ea971-7118-816a-84c1-dcca3cdad675",
     "first_alerted_at": "2026-07-07T17:52:54.922583",
@@ -3730,8 +3730,8 @@
     ]
   },
   "Virtu Financial": {
-    "hash": "2592b7c28523677eaa6017113a4484872989502d1711be5d3c934e41174dacda",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "hash": "7011a7eca4dbe08914160a3b363fdc601b1414c2ed62bc84cff3484a7363cf1b",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://boards-api.greenhouse.io/v1/boards/virtu/jobs?content=true",
     "notion_page_id": "379ea971-7118-816e-9d39-d0eb30a02a56",
     "seen_jobs": [
@@ -3819,11 +3819,11 @@
     ]
   },
   "WorldQuant": {
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://boards-api.greenhouse.io/v1/boards/worldquant/jobs",
     "notion_page_id": "379ea971-7118-8162-8766-d326263b2c13",
     "first_alerted_at": "2026-07-09T12:00:08.236544",
-    "hash": "3f6e10193423a6cc1d5d9121d5b2fda72cb3fc8db6f01a9180757eb2a8c69a18",
+    "hash": "15ba044fc53297fb37752099d1960e39701f72abe6fabb1b230150b0b581f849",
     "seen_jobs": [
       "gh:4062126006",
       "gh:4065713006",
@@ -3948,8 +3948,8 @@
     ]
   },
   "Optiver": {
-    "hash": "c26a31e847ebea1d7f46262348b4169346cd209c2b0df65b5ab97406a9232f8d",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "hash": "f066407463dbd85af301d822634e663df2dea010208e190d95220fbc308712ea",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://boards-api.greenhouse.io/v1/boards/optiverus/jobs?content=true",
     "notion_page_id": "37aea971-7118-8100-a4a4-fceb36b8ebde",
     "seen_jobs": [
@@ -4260,7 +4260,7 @@
   },
   "Belvedere Trading": {
     "hash": "b01da90be7f886a7d34403cd0c0c8ce0a64078ce05020129182f47fd249517d1",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://jobs.lever.co/belvederetrading",
     "notion_page_id": "37aea971-7118-8190-8c02-dcde779536f1",
     "seen_jobs": [
@@ -4326,8 +4326,8 @@
     ]
   },
   "IMC Trading": {
-    "hash": "8ffaa8c5346eaffec4ebbb7720196f37f6275e2968219d2d3e163d080778e848",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "hash": "1e2113cbc1ca6438da976c68d88e922d9fea84259ede66dfe66f08662049e102",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://boards-api.greenhouse.io/v1/boards/imc/jobs?content=true",
     "notion_page_id": "37aea971-7118-819e-9916-c37a12b3bd3d",
     "first_alerted_at": "2026-07-08T08:54:06.793591",
@@ -4627,8 +4627,8 @@
     ]
   },
   "Akuna Capital": {
-    "hash": "85ce84ea4272e2a1303a499362e5ffbee2ede5554f4a20e90211ed36dfa092c0",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "hash": "058ff767ff1166aca28c2818f3c089329a44d648d84b906e3aa7cd1589c7e6c1",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://boards-api.greenhouse.io/v1/boards/akunacapital/jobs",
     "notion_page_id": "37aea971-7118-81aa-be4f-d1514486b245",
     "seen_jobs": [
@@ -4739,7 +4739,7 @@
   },
   "PEAK6": {
     "hash": "d3003da7ea770ed2ab29da0fa9bfe555ef3bbc20e892b8916ca56851f6834e6b",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://peak6.com/campus/",
     "notion_page_id": "37aea971-7118-8125-9b96-d883ba66f437",
     "seen_jobs": [
@@ -4793,7 +4793,7 @@
   },
   "TransMarket Group": {
     "hash": "975251d0b55df8d908761845353f1130fb875565237361625c4ca2dc79fd065b",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://boards-api.greenhouse.io/v1/boards/transmarketgroup/jobs",
     "notion_page_id": "37aea971-7118-815c-ae6e-ea87d34536fc",
     "seen_jobs": [
@@ -4850,7 +4850,7 @@
     ]
   },
   "Quantbot": {
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://boards-api.greenhouse.io/v1/boards/quantbot-technologies/jobs",
     "notion_page_id": "37aea971-7118-8176-ab02-ca2794b8e5eb",
     "hash": "f5d193051cf536e0bfdead53d0107e9e3c1f635aab0c035895e1bd798cb6b183",
@@ -4868,7 +4868,7 @@
   },
   "Wintermute": {
     "hash": "5a0a9dac9c9182603dfd10ddfc5283f689f18130d96bb38c5003a9332930efbb",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://jobs.lever.co/wintermute-trading",
     "notion_page_id": "37aea971-7118-81e9-a791-fb22e0cbcbbc",
     "seen_jobs": [
@@ -4949,7 +4949,7 @@
     ]
   },
   "Quadrature Capital": {
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://boards-api.greenhouse.io/v1/boards/quadraturecapital/jobs?content=true",
     "notion_page_id": "37aea971-7118-81ed-8eb9-dc179ddb3820",
     "seen_jobs": [
@@ -4963,7 +4963,7 @@
   },
   "Fidelity": {
     "hash": "26fb1de04bab21743ec4f81ff97d83ce7b1392fc90ce92c37f8f23c8c77f621d",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://jobs.fidelity.com/en/jobs/?query=quantitative",
     "notion_page_id": "37aea971-7118-812b-b99b-cdcafb78026c",
     "seen_jobs": [
@@ -5474,7 +5474,7 @@
   },
   "Farallon Capital": {
     "hash": "0cd4642002274c840b21435179b7912cb5cd6ad6be65d79708aa6e49592dc32f",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://farallon.com",
     "notion_page_id": "37aea971-7118-814d-9fa5-c78ebc054ff9",
     "seen_jobs": [
@@ -5494,8 +5494,8 @@
     ]
   },
   "Morgan Stanley": {
-    "hash": "9dafd0c2493b498cb407066d8a3b92d57b635f59cfdeb3ddca25c07e35cd4b28",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "hash": "196550c65b1a7b8481c388d290f1254070bc7fa5bf2788d146993e2106050cd1",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://morganstanley.eightfold.ai/api/pcsx/search?domain=morganstanley.com",
     "notion_page_id": "37aea971-7118-815c-9a73-e557c4addf71",
     "seen_jobs": [
@@ -7286,7 +7286,7 @@
   },
   "Nomura Asset Management": {
     "hash": "f8695d58a26f992cb3344c2be1587a62bd81eac2297134cafe9dd8ef667aa93e",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://nomura.com/careers",
     "notion_page_id": "37aea971-7118-8161-a9fb-d68c67441005",
     "seen_jobs": [
@@ -7301,7 +7301,7 @@
   },
   "Global Trading Systems": {
     "hash": "84b825c24a42daa566bd7b68dad45d5f77167e5e0363f4a7ea58e97def184a82",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://gtsx.com/careers",
     "notion_page_id": "37aea971-7118-816f-8b7f-cc0d8863dc40",
     "seen_jobs": [
@@ -7395,7 +7395,7 @@
   },
   "G-research": {
     "hash": "8c0c331888dacf29ed43c7a3c82edd0d1094a3a44191a0e73cf6d08faa4b3255",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://gresearch.wd103.myworkdayjobs.com/wday/cxs/gresearch/G-Research/jobs",
     "notion_page_id": "37aea971-7118-8177-9205-dec0c5c93265",
     "seen_jobs": [
@@ -7555,7 +7555,7 @@
   },
   "ACT Commodities": {
     "hash": "fc1998a6fb51447753c76e98bd466abadb4c1bcb35a47994399feaa08bf5419b",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://careers.actgroup.com/vacancies",
     "notion_page_id": "37aea971-7118-810b-a2ec-eabf0bab65d8",
     "seen_jobs": [
@@ -7647,7 +7647,7 @@
   },
   "AAA Global": {
     "hash": "edd272387a2fc87bc5b402e94e6a15088cafe340ec07a9b598b25513a4282fed",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://aaa-global.com",
     "notion_page_id": "37aea971-7118-8112-b589-fd3fcbc7d213",
     "seen_jobs": [
@@ -7690,8 +7690,8 @@
     ]
   },
   "Altruist": {
-    "hash": "09dd049d331a7ae238cb4643a38ccd3b8c64cb733f903964dc6ad15c67ed1784",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "hash": "281085b07e943fffd442f65213e9b3a3b918544f5d13885419b0e4d34d8fa74a",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://boards-api.greenhouse.io/v1/boards/altruist/jobs?content=true",
     "notion_page_id": "37aea971-7118-8120-a9b5-ed99392f5b75",
     "seen_jobs": [
@@ -7862,7 +7862,7 @@
   },
   "ADIA": {
     "hash": "646c920e9cd1626eebeac6904486d4b91c157e7caebfdc815a8fdb63af16c759",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://apply.workable.com/api/v1/widget/accounts/adia",
     "notion_page_id": "37aea971-7118-8126-9e16-ea76c35c7450",
     "seen_jobs": [
@@ -7897,7 +7897,7 @@
   },
   "Bastion Trading": {
     "hash": "282a797caf9bbb9fd9de89f566351f881a172e628a5343cb77c2e204e03d95f9",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://bastiontrading.com/careers",
     "notion_page_id": "37aea971-7118-813c-8993-e63c5f0f362d",
     "seen_jobs": [
@@ -7923,14 +7923,14 @@
   },
   "Astera Holdings": {
     "hash": "a98e64743a710e4e9d37d2fc1ba6b09da9a6422a7c384b943bf537739878eb58",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://astera.holdings/careers",
     "notion_page_id": "37aea971-7118-8157-99e3-f5f1488fcc9b",
     "seen_jobs": []
   },
   "Aflac Asset Management": {
     "hash": "e781de7935a60685456362d7d6d971d19505bff13c045abdfc9ba9684c9b6557",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://careers.aflac.com",
     "notion_page_id": "37aea971-7118-816e-aca6-ed2ac10a840c",
     "seen_jobs": [
@@ -7979,7 +7979,7 @@
   },
   "Acadian": {
     "hash": "b238c6a30be4024688407730435c886bdb97d541edeab4095cabe768f2646adb",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://acadian-asset.com",
     "notion_page_id": "37aea971-7118-816f-b6fe-e0cb16f150c6",
     "seen_jobs": [
@@ -8107,7 +8107,7 @@
   },
   "400 Capital Management": {
     "hash": "498165f73edfb44e28b763bc7125cd981b335180b619c69d1a5fc9cb5a9fdd62",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://400capital.com",
     "notion_page_id": "37aea971-7118-8172-b899-e85d84f104b5",
     "seen_jobs": [
@@ -8122,8 +8122,8 @@
     ]
   },
   "CQS": {
-    "hash": "ab8f4b8ffe830324df4efa3fe27b0352fdd63b7e2d56d0d7d8bf328371ed62e3",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "hash": "f3ef460deca58bbfe8aac029663a270e05d3d7cb016ba9dfa16305cdad22b45d",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://cqs.com/careers",
     "seen_jobs": [
       "Reference #18.116adc17.1789305314.4eb1ad23",
@@ -8295,6 +8295,7 @@
       "Reference #18.d25ec817.1790262877.a9a90d27",
       "Reference #18.d25ec817.1792011963.3a282651",
       "Reference #18.d468dc17.1787237361.436b069a",
+      "Reference #18.d567cd17.1793568790.1324a5e6",
       "Reference #18.d5ab3717.1786032619.765a07eb",
       "Reference #18.d5ab3717.1788442537.ba2f13b6",
       "Reference #18.d5ab3717.1789046288.3da20f31",
@@ -8476,6 +8477,7 @@
       "https://errors.edgesuite.net/18.d25ec817.1790262877.a9a90d27",
       "https://errors.edgesuite.net/18.d25ec817.1792011963.3a282651",
       "https://errors.edgesuite.net/18.d468dc17.1787237361.436b069a",
+      "https://errors.edgesuite.net/18.d567cd17.1793568790.1324a5e6",
       "https://errors.edgesuite.net/18.d5ab3717.1786032619.765a07eb",
       "https://errors.edgesuite.net/18.d5ab3717.1788442537.ba2f13b6",
       "https://errors.edgesuite.net/18.d5ab3717.1789046288.3da20f31",
@@ -8492,7 +8494,7 @@
   },
   "Artisan Partners": {
     "hash": "ee11e9f6245b5fbf0516f0524d121e52fdd82c5942560951ff4178a3880acdc9",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://artisanpartners.com/careers",
     "notion_page_id": "37aea971-7118-817a-a458-d49885350428",
     "seen_jobs": [
@@ -8530,8 +8532,8 @@
     ]
   },
   "Cboe": {
-    "hash": "b3279184c431e47a3f5ad886c1e478e0c5fd227227f64af35d33279fe774bbaa",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "hash": "8e7b1eeb51ff8dabf1a5410144ac50622fae11035b17742342ef3a7c02e79cc9",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://careers.cboe.com",
     "notion_page_id": "37aea971-7118-819c-a488-f9212ae966d8",
     "seen_jobs": [
@@ -8551,6 +8553,7 @@
       "0f03826900f34c5f85381a74f64ea135",
       "0f278fa6347b44b388047ee6d013c281",
       "0fa97a2e90fd4e1fb83f0cf4195f1264",
+      "0fe0493e659f4b8d9250a27cfdbe22fa",
       "10422104227f48b6aa6952096f7a6bf1",
       "10bd49f047634806a6a37e05c2d4a072",
       "124ed686ad494d2caeb1abba79e3a429",
@@ -8774,7 +8777,7 @@
   },
   "Causeway": {
     "hash": "5a405aa8d6698dbcf7c82086e4299d3a88a78844ea4ba84ab554db73c5b7f7f5",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://causewaycap.com",
     "notion_page_id": "37aea971-7118-81a4-ab52-d1cd2d20410c",
     "seen_jobs": [
@@ -8843,8 +8846,8 @@
     ]
   },
   "CACIB (Credit Agricole CIB)": {
-    "hash": "cbb9c3ce2c82e92d5a680f838664f3f59ae0ac178c4cdb43727b7ef32f2f4f7a",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "hash": "5e039007127c3107b47e51be11d7df1239e914518e200e955c54c2448e2294cc",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://jobs.ca-cib.com",
     "notion_page_id": "37aea971-7118-81ae-9ae8-c533f5295e01",
     "seen_jobs": [
@@ -9706,8 +9709,8 @@
     ]
   },
   "Deutsche Bank": {
-    "hash": "133e3b00fe33ef68c482b17fa823e12efc49e5f1914a92191e49fed9e5a7fb2a",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "hash": "f90669854ae7aaf0b1a6add5746fe4fadc2d79c0fa1707bffd9fc1cf07fc2abe",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://api-deutschebank.beesite.de/search/",
     "notion_page_id": "37aea971-7118-81f9-827e-ecf534440f17",
     "seen_jobs": [
@@ -11079,7 +11082,7 @@
   },
   "Castleton Commodities": {
     "hash": "e6b773e5431dabfa85d47432c4f54f3111f0c45fba3dff66c3a17e1ae5e71fc3",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://osv-cci.wd1.myworkdayjobs.com/wday/cxs/osv_cci/CCICareers/jobs",
     "notion_page_id": "37aea971-7118-81fe-aa48-dd54245223c8",
     "seen_jobs": [
@@ -11134,7 +11137,7 @@
   },
   "Graham Capital Management": {
     "hash": "38336f7a8e0e3d48f08c46e6f4a641922672f1e45513bc3e126ac960aed1efaf",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://boards-api.greenhouse.io/v1/boards/grahamcapitalmanagement/jobs",
     "notion_page_id": "379ea971-7118-815b-ac4e-db586eb2e121",
     "seen_jobs": [
@@ -11256,7 +11259,7 @@
   },
   "PGIM": {
     "hash": "c39b54eb074be41d913e68a7d5d753defd9d64263dd873c614f9f0b46c8ed2f6",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "http://pgim.com/careers",
     "notion_page_id": "37aea971-7118-8105-afc6-d1965aa09999",
     "seen_jobs": [
@@ -11367,8 +11370,8 @@
     ]
   },
   "UBS": {
-    "hash": "faa206954f63673173f6d3f38cf1701f49134c9dd1e4ce530f75f4e61473ab61",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "hash": "f384301b2f6bab52a82717616da13101b8853ffc848ff1a5b506c20525205ee1",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "http://ubs.com/careers",
     "seen_jobs": [
       ", opens captions settings dialog",
@@ -11464,7 +11467,7 @@
   },
   "U.S. Bank": {
     "hash": "8440db2aaf7a95741b12599e75706819a7c169c8cd40268053cd69bd6d575510",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://usbank.wd1.myworkdayjobs.com/wday/cxs/usbank/US_Bank_Careers/jobs",
     "notion_page_id": "37aea971-7118-8108-86cb-f66bb9f4b680",
     "seen_jobs": [
@@ -11690,7 +11693,7 @@
     ]
   },
   "The Voleon Group": {
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "http://jobs.ashbyhq.com/voleon",
     "notion_page_id": "37aea971-7118-8113-bb59-f4145a938fbe",
     "hash": "0ebf24d4161049d18966daa68f93bce4be24b8f3ea4049f4bdc42443fbd6836e",
@@ -11785,7 +11788,7 @@
     "hash": "984a85841626877e786e608d0ac97d16264bee12d679930434dff0afcacd7e4d"
   },
   "Tanius": {
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://job-boards.greenhouse.io/tanius",
     "notion_page_id": "37aea971-7118-8120-86d1-d7654c81c634",
     "hash": "7c36aa8424cea15b4b5fc1852c63344f4919537e9cc0c53b8d120d833962589e",
@@ -11801,8 +11804,8 @@
     ]
   },
   "State Street Global Advisors": {
-    "hash": "fbe1181ee3a7b4553a590946cd9c0332c16eaa06d2de839cdd4a6ea60ddcdf6a",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "hash": "23cdfd7574cc0c1eee38f8226d85b0c34afa94f8f38f614c4c0abc4b47f2465e",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://statestreet.wd1.myworkdayjobs.com/wday/cxs/statestreet/Global/jobs",
     "notion_page_id": "37aea971-7118-812c-9039-e755344fa857",
     "seen_jobs": [
@@ -12003,6 +12006,8 @@
       "wd:R-794562",
       "wd:R-794563",
       "wd:R-794644",
+      "wd:R-794665",
+      "wd:R-794667",
       "wd:R-794668",
       "wd:R-794730",
       "wd:R-794738",
@@ -12188,6 +12193,7 @@
       "wd:R-798094",
       "wd:R-798095",
       "wd:R-798096",
+      "wd:R-798098",
       "wd:R-798100",
       "wd:R-798105",
       "wd:R-798109",
@@ -12339,7 +12345,7 @@
   },
   "Robeco": {
     "hash": "2be78f223d7b8a662ae718fffd952ad9ed81975c33f3eddbb0c8462b78f9f87a",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://robeco.wd3.myworkdayjobs.com/wday/cxs/robeco/robecoexternalcareers/jobs",
     "notion_page_id": "37aea971-7118-8139-8223-d9cdf5d9dff9",
     "seen_jobs": [
@@ -12427,8 +12433,8 @@
     ]
   },
   "S&P Global": {
-    "hash": "7d1cc3b24ad42516bc64ec84c6abf6615b5cb730436b7cad1d5a8f3ba30a3cb2",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "hash": "0a043596c157c3694b4947cdfbb3e9b601b9fffc93287412ce91fdae7b8bf2f7",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://spgi.wd5.myworkdayjobs.com/wday/cxs/spgi/SPGI_Careers/jobs",
     "notion_page_id": "37aea971-7118-813b-96c4-c0df3a816131",
     "seen_jobs": [
@@ -13214,7 +13220,10 @@
       "wd:332457",
       "wd:332460",
       "wd:332461",
+      "wd:332465",
       "wd:332467",
+      "wd:332468",
+      "wd:332471",
       "wd:332475",
       "wd:332477",
       "wd:332478",
@@ -13246,7 +13255,7 @@
   },
   "Plymouth Rock Assurance": {
     "hash": "ec5f5407d589e8a36054810d492d9972030db296573c6285a020dd28663739fa",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://www.plymouthrock.com/about/careers",
     "notion_page_id": "37aea971-7118-813f-bd26-d979ff608d71",
     "seen_jobs": [
@@ -13375,7 +13384,7 @@
   },
   "Verisk": {
     "hash": "9741923ce5f5ca30336b362fea0b1bb2c5b78f75242f3c5d7c9b305f0e380a42",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://www.verisk.com/company/careers/",
     "notion_page_id": "37aea971-7118-814b-9b74-c7840ea14479",
     "seen_jobs": [
@@ -13691,7 +13700,7 @@
   },
   "Talos": {
     "hash": "0115e528dd6ca8610545971107ba232af556b04602e243f00d254ea30e4bf511",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://www.talos.com/working/open-roles",
     "notion_page_id": "37aea971-7118-8154-9504-c3955f3a46b7",
     "seen_jobs": [
@@ -13889,8 +13898,8 @@
     ]
   },
   "Ripple": {
-    "hash": "10b4c6bc2f02ec8b92c3de5bea0683d7e2705bb80b02783626d644a43faed145",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "hash": "26f98355c428f02defc8338f987135d138b433fe376aa98b23d77fc8b18b84da",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://ripple.com/careers/all-jobs/",
     "notion_page_id": "37aea971-7118-8155-b1c3-d5af14c2e3d2",
     "seen_jobs": [
@@ -14033,7 +14042,7 @@
   },
   "Summit": {
     "hash": "d07bbb15c518a5a1c4d6d440b0c3cb4b790d1a9ba72ffc2802295bf4907fc0be",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://boards-api.greenhouse.io/v1/boards/summitpartnerslp/jobs",
     "notion_page_id": "37aea971-7118-815c-9533-d2cef2a061fa",
     "seen_jobs": [
@@ -14068,7 +14077,7 @@
     ]
   },
   "Soros Fund Management": {
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://job-boards.greenhouse.io/familyoffice",
     "notion_page_id": "37aea971-7118-8161-8eb0-d77e92267a25",
     "hash": "fc616319bc22608ea734fcef9587e33222c2eda9c6b48e2a10843aec36b25bb8",
@@ -14098,7 +14107,7 @@
   },
   "Square Kettle": {
     "hash": "6aeac31b09e2bd2c747f02ab242703319d7987a7fa3db9ff2b326a6710f2cd62",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://www.squarekettle.com/",
     "notion_page_id": "37aea971-7118-8163-b8a1-f9461e1f2971",
     "seen_jobs": [
@@ -14133,7 +14142,7 @@
   },
   "Uniper": {
     "hash": "c21a811b710e7a8d1e1c6eab267a373306def7674d28f873f374f8f91c8cb313",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://careers.uniper.energy/en",
     "notion_page_id": "37aea971-7118-816d-8966-cbabddd304b6",
     "seen_jobs": [
@@ -14409,7 +14418,7 @@
   },
   "Rock Bund Capital": {
     "hash": "4521b443b26441fadb5f1c0fd78568c352d1d4ae21be9394ff9d57ea2e83b7a0",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://www.rockbundcapital.com/careers",
     "notion_page_id": "37aea971-7118-816e-b4e6-f8b84f6adeff",
     "seen_jobs": [
@@ -14438,7 +14447,7 @@
     ]
   },
   "Polymer Capital": {
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://apply.workable.com/api/v1/widget/accounts/polymer-capital",
     "notion_page_id": "37aea971-7118-8174-bed6-fea4ece78d71",
     "seen_jobs": [
@@ -14472,7 +14481,7 @@
     "hash": "08fa960070aa5c8c7cd9a5e254bf2764121e9b71477c91abdd561c7907e182b6"
   },
   "Valkyrie Trading": {
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://api.lever.co/v0/postings/valkyrietrading?mode=json",
     "notion_page_id": "37aea971-7118-8175-9a70-d2b73a823688",
     "seen_jobs": [
@@ -14487,7 +14496,7 @@
   },
   "Rockstar Games": {
     "hash": "7070e88250ed4dcfeceee22bdeeaaf3ece3383f0cb9166aa8f4440708e73e478",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://www.rockstargames.com/careers/openings",
     "notion_page_id": "37aea971-7118-817d-96f7-fa8b32b5315b",
     "seen_jobs": [
@@ -14557,8 +14566,8 @@
     ]
   },
   "RBC": {
-    "hash": "78b6894cc286264d5aab4c204a3d210910e290c38ec843b2ba78a9373124a942",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "hash": "7307a3902b0e7499d6e640e63e4c249754d470db307d6601848dc7513156d8a2",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "http://rbc.com/careers",
     "notion_page_id": "37aea971-7118-817d-bd3e-d8a2a24eb52a",
     "seen_jobs": [
@@ -14639,6 +14648,7 @@
       "62fe0d09523c4a66b0ea13e1cb2d2bb7",
       "663a9e4f5f8445b391e0f9f99b9aff11",
       "673119ee21b34a598ed85a2c2498689f",
+      "6780b181e7f54635979f35db9f446719",
       "6794653069ac4dbf845c5460c4fe0fbc",
       "684f43f4646e406d95d827447ed8110c",
       "68c6abdbe2b1411986b1a6c0e9322a94",
@@ -14804,8 +14814,8 @@
     ]
   },
   "State Street": {
-    "hash": "fbe1181ee3a7b4553a590946cd9c0332c16eaa06d2de839cdd4a6ea60ddcdf6a",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "hash": "23cdfd7574cc0c1eee38f8226d85b0c34afa94f8f38f614c4c0abc4b47f2465e",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://statestreet.wd1.myworkdayjobs.com/wday/cxs/statestreet/Global/jobs",
     "notion_page_id": "37aea971-7118-817e-93ea-c9750b39f4ea",
     "seen_jobs": [
@@ -15006,6 +15016,8 @@
       "wd:R-794562",
       "wd:R-794563",
       "wd:R-794644",
+      "wd:R-794665",
+      "wd:R-794667",
       "wd:R-794668",
       "wd:R-794730",
       "wd:R-794738",
@@ -15191,6 +15203,7 @@
       "wd:R-798094",
       "wd:R-798095",
       "wd:R-798096",
+      "wd:R-798098",
       "wd:R-798100",
       "wd:R-798105",
       "wd:R-798109",
@@ -15336,7 +15349,7 @@
   },
   "Upstart": {
     "hash": "feab4882264d753e07d5e4ce6f9033679069c14a43cc31f4cb81c3fd6011be43",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://careers.upstart.com/jobs/search",
     "notion_page_id": "37aea971-7118-817e-9c6c-d42cb080ccf0",
     "seen_jobs": [
@@ -15440,7 +15453,7 @@
   },
   "Scalp Trading": {
     "hash": "503e938ba59474456dca0318c31132df1fcfc9f521e346ab656fe99e3656e2da",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://scalptrade.com/careers",
     "notion_page_id": "37aea971-7118-8184-ad5e-ecaf0968b701",
     "seen_jobs": [
@@ -15454,7 +15467,7 @@
   },
   "VanEck": {
     "hash": "b525d1ba755e221fe37868f850a5f5a5783070d2dbe7119e7979ba097509d976",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://www.vaneck.com/us/en/our-firm/careers/",
     "notion_page_id": "37aea971-7118-8190-a2d0-da5aa6ad57a5",
     "seen_jobs": [
@@ -15468,8 +15481,8 @@
     ]
   },
   "Standard Chartered Bank": {
-    "hash": "f1dcbc8e9522efe50a751db59ef641e9d74700c795729638ed1c7fde1752d027",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "hash": "62a4e4f512439f4f5ea784b096e9e2d7611e69bfde24ea79fc8c5c28f43a6360",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://jobs.standardchartered.com/services/recruiting/v1/jobs",
     "notion_page_id": "37aea971-7118-8197-91c8-ef0f8948358e",
     "seen_jobs": [
@@ -18172,7 +18185,7 @@
     ]
   },
   "Verition Fund Management": {
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://boards-api.greenhouse.io/v1/boards/veritiongroupllc/jobs",
     "notion_page_id": "37aea971-7118-8197-bea0-c699c9ec8e73",
     "seen_jobs": [
@@ -18242,7 +18255,7 @@
   },
   "Voya": {
     "hash": "89cdb6939cd5a9456853dd89fb7bf49fb3ca5a47236c94e96ecea8d3d6abedd3",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://godirect.wd5.myworkdayjobs.com/wday/cxs/godirect/voya_jobs/jobs",
     "notion_page_id": "37aea971-7118-81a5-86b0-fb2365b0400d",
     "seen_jobs": [
@@ -18537,7 +18550,7 @@
   },
   "Seven Research": {
     "hash": "cfc0b5a391b5fcd825e3e517886ecd36c28101be93f0cc3ff438f398fb5b509b",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://www.sevenresearch.com/careers",
     "notion_page_id": "37aea971-7118-81a5-9ce8-ed99a1e58fa8",
     "seen_jobs": [
@@ -18595,8 +18608,8 @@
     ]
   },
   "PNC": {
-    "hash": "238e4a83b22de158012b3676039426ff32cde9d62d9b508c8f77f7b229ab0dd1",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "hash": "3a7cdbf26558762c2326641ea98c4bdab111f106b4160c5a598356f95556d261",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://careers.pnc.com/global/en",
     "notion_page_id": "37aea971-7118-81ab-ac8e-c353acf594d4",
     "seen_jobs": [
@@ -18674,6 +18687,7 @@
       "5ceb883f39c44e1b8d6ce4c7fcbc28e4",
       "5e67909d6301433b81e9d011e14f0289",
       "5ec3381ae3564c2790d5e9ec8e4a3a7d",
+      "610219f3927c4ff485a02a658f17ee8b",
       "627213bb392f4d3aaa0c14488e24479d",
       "627bc88043a049a49b617bbb4b2cea18",
       "62c0878e8df54035b31803e8f4726068",
@@ -18843,7 +18857,7 @@
     ]
   },
   "Viking Global Investors": {
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://boards-api.greenhouse.io/v1/boards/vikingglobalinvestors/jobs",
     "notion_page_id": "37aea971-7118-81ad-9870-e82053b1c028",
     "seen_jobs": [
@@ -18860,7 +18874,7 @@
   },
   "Quadeye": {
     "hash": "e7dde8ff689af7e80ca96a9203607f14a0c4a9f810134b8261f17048f44be5d1",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "http://quadeye.com/careers",
     "notion_page_id": "37aea971-7118-81b2-ada4-cefc5a8d1999",
     "seen_jobs": [
@@ -18978,7 +18992,7 @@
   },
   "Vatic Labs": {
     "hash": "6afdffeaa04676798b4ea6ddc6a418016ddf52f8dd23cf6da7ab8e7f77def794",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://boards-api.greenhouse.io/v1/boards/vaticlabs/jobs?content=true",
     "notion_page_id": "37aea971-7118-81b5-9e6c-cd3d4f94e4f5",
     "seen_jobs": [
@@ -19018,7 +19032,7 @@
   },
   "Rockland Trust": {
     "hash": "aefb284744cae8b61b49c6f62c764d6337615fafed9d9ed30974c99e633511d5",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://careers.rocklandtrust.com/",
     "notion_page_id": "37aea971-7118-81b8-9cb7-d72539e13eaa",
     "seen_jobs": [
@@ -19054,7 +19068,7 @@
   },
   "VWH Capital Management": {
     "hash": "5747c4e0b9a463f4d28a6b0e496479368228badee5e0d0cd44e8739773fb44a7",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://careers.smartrecruiters.com/VWHCapitalManagementLP/",
     "notion_page_id": "37aea971-7118-81bb-83af-d78517543c36",
     "seen_jobs": [
@@ -19077,7 +19091,7 @@
   },
   "Paramount": {
     "hash": "39d8549a052cb1568ed0dc94be550b364a7486f057d86943829fa455831b9f1b",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://careers.paramount.com/",
     "notion_page_id": "37aea971-7118-81bc-8204-f352f602b59e",
     "seen_jobs": [
@@ -19109,7 +19123,7 @@
     ]
   },
   "William Blair": {
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://boards-api.greenhouse.io/v1/boards/williamblair/jobs",
     "notion_page_id": "37aea971-7118-81be-9cb4-c61e0bfdfc1d",
     "seen_jobs": [
@@ -19230,8 +19244,8 @@
     "hash": "c31793f02f16ea6dd511e06cc1b8792f8eb63e25b7297d2c46e70171a85f48cb"
   },
   "Voloridge": {
-    "hash": "243cb64a3a33ac8cef8bb31666473dd7372f36e5a9dd23d383182fcc0f5da464",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "hash": "b6c8f47e243aaa8b3bd44a0f34a8eda6d1dedd316b8072dea6f7fb2b9a7ddb45",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "http://voloridge.com/join-our-team",
     "notion_page_id": "37aea971-7118-81bf-9540-f05471e7ed19",
     "seen_jobs": [
@@ -19311,7 +19325,7 @@
   },
   "CITIC Securities (中信证券)": {
     "hash": "1d00b5929ffe64810990a99cefd858764e5a0f3a9563966ce598843b27f5a8e9",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://careers.citics.com/",
     "notion_page_id": "37aea971-7118-81c1-99ce-dff5e2a16250",
     "seen_jobs": [
@@ -19339,7 +19353,7 @@
   },
   "Saxo Bank": {
     "hash": "4ff6fc969967f514ea58a40e022b9e6f0aae67ec982b1c2f90a98f0662b220e1",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://saxobank.wd3.myworkdayjobs.com/wday/cxs/saxobank/CareeratSaxoBank/jobs",
     "notion_page_id": "37aea971-7118-81c2-8e1b-cbcb6c0f424b",
     "seen_jobs": [
@@ -19489,7 +19503,7 @@
   },
   "Signature Resources Capital Management": {
     "hash": "3fe84ba0dc0fe25eb32e1392078c43e4b81bee354ac9b931030e3f3f71c84e25",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://srcmadvisors.com/join-our-team/",
     "notion_page_id": "37aea971-7118-81c2-99db-cd01190e176d",
     "seen_jobs": [
@@ -19534,7 +19548,7 @@
   },
   "Syntax": {
     "hash": "4b3dc16ed7a607e71f499d20404edc565483f307734231ad1f760712270bcc06",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://jobs.lever.co/syntax",
     "notion_page_id": "37aea971-7118-81c2-a348-c84e1242e162",
     "seen_jobs": [
@@ -19575,7 +19589,7 @@
     ]
   },
   "Walleye Capital": {
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://boards-api.greenhouse.io/v1/boards/walleyecapital-external-fulltime/jobs",
     "notion_page_id": "37aea971-7118-81c7-88f7-dc03b2632cf6",
     "seen_jobs": [
@@ -19599,7 +19613,7 @@
   },
   "Perpay": {
     "hash": "db828601da839999b1e0f8e05947b80fdd02783abe1949a5b1769040f79589b4",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://boards-api.greenhouse.io/v1/boards/perpay/jobs",
     "notion_page_id": "37aea971-7118-81cd-b525-c44c9b3d9865",
     "seen_jobs": [
@@ -19662,7 +19676,7 @@
   },
   "S&P500": {
     "hash": "0a043596c157c3694b4947cdfbb3e9b601b9fffc93287412ce91fdae7b8bf2f7",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://spgi.wd5.myworkdayjobs.com/wday/cxs/spgi/SPGI_Careers/jobs",
     "notion_page_id": "37aea971-7118-81ce-a06a-e035f12b7bdd",
     "seen_jobs": [
@@ -20481,7 +20495,7 @@
     ]
   },
   "Trexquant": {
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://apply.workable.com/api/v1/widget/accounts/trexquant",
     "notion_page_id": "37aea971-7118-81d3-9713-c3c9f09506cf",
     "first_alerted_at": "2026-07-08T08:54:06.793591",
@@ -20534,7 +20548,7 @@
   },
   "Pinpoint Asset Management": {
     "hash": "2bedd5cf4ba18fb9957484b353d93f8b5b6d7799a7ca270969a7cfcb6725af28",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://www.pinpointfund.com/career/",
     "notion_page_id": "37aea971-7118-81d6-a5fb-e06a4bf1ea13",
     "seen_jobs": [
@@ -20547,8 +20561,8 @@
     ]
   },
   "Schonfeld": {
-    "hash": "3a46b39a6b088f74c4f6f3e5354ec6deb23659940e67615f90707444f06bc26b",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "hash": "a5ec5d93c8018d53263cac6e83280f44d4ed06884aadec108c8c83d547ee43ec",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://boards-api.greenhouse.io/v1/boards/schonfeld/jobs",
     "notion_page_id": "37aea971-7118-81da-8d64-f85f420072f9",
     "seen_jobs": [
@@ -20761,7 +20775,7 @@
   },
   "SummitTX Capital": {
     "hash": "3433a003677d30c668a4bc56bfe3e62e535a713ec8a9c53ff1cb2f22db148664",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://www.summittxcapital.com/join-our-team/",
     "notion_page_id": "37aea971-7118-81f2-89a3-d6338f7c4ab5",
     "seen_jobs": [
@@ -20813,7 +20827,7 @@
     ]
   },
   "Tudor Investment Group": {
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://job-boards.greenhouse.io/tudorgroup",
     "notion_page_id": "37aea971-7118-81fc-9c65-f119f899da3d",
     "hash": "1e8421d90e97f6958fe838c325a66d49f5b333bef866d6204eaade0902f42e36",
@@ -20827,7 +20841,7 @@
   },
   "Invesco": {
     "hash": "2ff640d1e7c661930b32d8d24db00c2c23253d76dd94cfff6a02013a864cbb33",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://invesco.wd1.myworkdayjobs.com/wday/cxs/invesco/IVZearlycareers/jobs",
     "notion_page_id": "37aea971-7118-8102-8bf0-c20c090e84fb",
     "seen_jobs": [
@@ -21063,8 +21077,8 @@
     ]
   },
   "Haitong International": {
-    "hash": "b02af6c1e5c6f68e77a3efc626d7d23275df6fb0c38caa326e0a7ddf279ee290",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "hash": "3830d85e949838ed3cb762d4864866cbed0f6eca5628df5c5d373d40f301ab8b",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://www.haitongib.com/en/careers",
     "notion_page_id": "37aea971-7118-8103-9ccf-ea4b7d1f672d",
     "seen_jobs": [
@@ -21153,7 +21167,7 @@
   },
   "Five Dimensions Energy": {
     "hash": "9b73961abe0303296449ceb94799f10dd9cb6ef348a7638e0ce20734f2e5630f",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://fivedimensionsenergy.com/careers/",
     "notion_page_id": "37aea971-7118-8106-b5bb-f98252f5feb2",
     "seen_jobs": [
@@ -21179,7 +21193,7 @@
   },
   "Linden Shore": {
     "hash": "46378fd8fde5238808fbf0f448ab410dceff2490f60fbf508462fc873c06f81b",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://www.lindenshore.com/careers",
     "notion_page_id": "37aea971-7118-8109-b6e7-ef9d88490c93",
     "seen_jobs": [
@@ -21195,7 +21209,7 @@
   },
   "LevelUP Human Capital Solutions": {
     "hash": "82ee7dce3998bfb380b65fe9405e697a84858d23ea21d276c74abf04e67de023",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://jobs.leveluphcs.com/",
     "notion_page_id": "37aea971-7118-810b-bf48-f748acc0219a",
     "seen_jobs": [
@@ -21240,7 +21254,7 @@
   },
   "Meketa": {
     "hash": "c1c00ae79f3edd6b683ede29d1787aa92317c42d46c12c5ad0a9b3ffceb19366",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://meketa.com/about-us/careers/",
     "notion_page_id": "37aea971-7118-8114-b897-fb39c6a22054",
     "seen_jobs": [
@@ -21260,7 +21274,7 @@
   },
   "Macquarie": {
     "hash": "1ad40cfc55c60426d42f54e4e9be044917bedfeec0532ee69ed7a27894977331",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "http://recruitment.macquarie.com/en_US/careers",
     "notion_page_id": "37aea971-7118-8117-b3db-c2810850471e",
     "seen_jobs": [
@@ -21606,7 +21620,7 @@
   },
   "MarketAxess": {
     "hash": "d33bfcd699df23a5ce51af303469d2e59cc59ddbd35222d28f482c7eb0017233",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://www.marketaxess.com/careers/current-openings",
     "notion_page_id": "37aea971-7118-8117-bea7-f44e257e0026",
     "seen_jobs": [
@@ -21696,7 +21710,7 @@
   },
   "EY": {
     "hash": "2d63545b2c11cf5ab8e6e80cf4e9eca46416cf37d120a13d5beca214215e370b",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://careers.ey.com/",
     "notion_page_id": "37aea971-7118-8126-9d2c-c8bfdcf3fdcf",
     "first_alerted_at": "2026-07-11T12:06:09.223434",
@@ -21779,7 +21793,7 @@
   },
   "GIC": {
     "hash": "36e7f3b29826957273576efbf7bc77c3f66bfaefe92e9ada8980fadfcd0ac4a5",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "http://careers.gic.com.sg",
     "notion_page_id": "37aea971-7118-812b-8dc8-c7932698ab2e",
     "seen_jobs": [
@@ -21839,7 +21853,7 @@
   },
   "Laurion Capital Management": {
     "hash": "22ff1dd8349b25956eaad59979229580d429a8d86574be27849e742198625501",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://www.laurioncap.com/",
     "notion_page_id": "37aea971-7118-812d-922c-fe36ec118d2d",
     "seen_jobs": [
@@ -21866,7 +21880,7 @@
   },
   "Milliman": {
     "hash": "521352592c90e19627a7a4614eca4c809e94fae4d61ee09df876af2f9f5f67ca",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://careers.milliman.com/en",
     "notion_page_id": "37aea971-7118-813b-94e8-d39e1d4d0ea7",
     "seen_jobs": [
@@ -22073,7 +22087,7 @@
   },
   "Federated Hermes": {
     "hash": "bb816f8ac1bd49076543708ce0bfca77a0febf6dac68eda25c73f5f406884fb4",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://careers.federatedhermes.com/",
     "notion_page_id": "37aea971-7118-813e-8b5f-ccdc0651130d",
     "seen_jobs": [
@@ -22082,8 +22096,8 @@
     ]
   },
   "Freddie Mac": {
-    "hash": "58ba7dadf2c515789344e96e0df240c98498ffb1234ad05bbc6edaf85eea3845",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "hash": "989bbbba556ab8a976a047c9837c0c7b346dc345220bca7aa17178485cb7c29c",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "http://careers.freddiemac.com",
     "notion_page_id": "37aea971-7118-8140-949f-d803f610d837",
     "seen_jobs": [
@@ -22290,6 +22304,7 @@
       "dd0a124dcb6c4cb4976b9322c057dc39",
       "dd586d649c0c41af86d452758f8b4cdf",
       "df1ed6f8ae9a4ddab0dfc3bfb08d1f88",
+      "e23b06c7ccb446198e3902661ce88fc2",
       "e349525488d04b3797ba945306534d03",
       "e47788a1f3884d33b1e6b1800333ebbe",
       "e54160737c404beaba967e2e71ec2c64",
@@ -22317,8 +22332,8 @@
     ]
   },
   "HilltopHoldings": {
-    "hash": "d0e15748bae994cd89fb56bca65de1ab40d52cab092cf5c451252fbc6643d186",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "hash": "f0d708ed96db0de2ec95b3f8a6a247b3c786c717af2f83c41d933e560c3539b5",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://www.hilltop.com/careers/",
     "notion_page_id": "37aea971-7118-8140-b43f-e369ad9ae56f",
     "seen_jobs": [
@@ -22387,6 +22402,7 @@
       "Request unsuccessful. Incapsula incident ID: 1017000110756249822-400666010072974059",
       "Request unsuccessful. Incapsula incident ID: 1017000110802588363-540054578049647346",
       "Request unsuccessful. Incapsula incident ID: 1017000111795204196-853601329689985770",
+      "Request unsuccessful. Incapsula incident ID: 1019000070222459174-133339909765923308",
       "Request unsuccessful. Incapsula incident ID: 102000310839208948-1342009162101819382",
       "Request unsuccessful. Incapsula incident ID: 102000350045183560-29170533117855979",
       "Request unsuccessful. Incapsula incident ID: 1021000030528460890-74221823830327518",
@@ -22515,7 +22531,7 @@
   },
   "Kearny Bank": {
     "hash": "ac3b40297b20ff0198ab094347151b09aad8a2e33120d4d8692bd7458c16df1e",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://careers-kearnybank.icims.com/jobs/intro",
     "notion_page_id": "37aea971-7118-8141-b1aa-cb96ccef1e20",
     "seen_jobs": [
@@ -22536,7 +22552,7 @@
   },
   "ICE": {
     "hash": "b3fc50f1a792d1449eca02846cbd2c5a96525a07da91eade7049b4d26d518519",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://careers.ice.com/jobs",
     "notion_page_id": "37aea971-7118-8142-8c26-f8c75dcad373",
     "seen_jobs": [
@@ -22548,7 +22564,7 @@
   },
   "Greenwich Commodities": {
     "hash": "f2aa64ec5dd7ebafa510cea82e725343615af29827ad1148ea6176c504e10b3a",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://www.greenwichcm.com/careers",
     "notion_page_id": "37aea971-7118-814c-bc20-db8393c5d6aa",
     "seen_jobs": [
@@ -22571,8 +22587,8 @@
     ]
   },
   "GQG Partners": {
-    "hash": "e9952d2dea443e71df7ff74a5598b790e6af1d577b1f2b07d68077535669ecb3",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "hash": "c3845929e32a59e6336247650362f1ddfbb6c805f74bb0eb8547c7eb512d194b",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://gqg.com/careers/",
     "notion_page_id": "37aea971-7118-8154-aeb1-cbab4c5af077",
     "seen_jobs": [
@@ -22633,7 +22649,7 @@
   },
   "OSL": {
     "hash": "1ee4251553c3e13afc966b096b8606d62e6ec825ce7f4156bb8b6873977f417f",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://group.osl.com/job-opportunities/",
     "notion_page_id": "37aea971-7118-815b-b414-d608fd087972",
     "seen_jobs": [
@@ -22731,7 +22747,7 @@
     ]
   },
   "Magnetar": {
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://boards-api.greenhouse.io/v1/boards/magnetar/jobs?content=true",
     "notion_page_id": "37aea971-7118-816d-8ca6-cef85b520066",
     "seen_jobs": [
@@ -22747,7 +22763,7 @@
   },
   "Grupo Oricteropo Tropical": {
     "hash": "da9426089514a43bd0850ee4fce74f7c8ed6a7dd4f72920f6d61f77acef74c8d",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://apply.workable.com/grupo-oricteropo-tropical/",
     "notion_page_id": "37aea971-7118-816f-9303-d85be1b4924f",
     "seen_jobs": [
@@ -22765,7 +22781,7 @@
   },
   "OKTA": {
     "hash": "746d48c1931765e4ef4f712220f9cb36a925e49405406c9536896608cafe14c4",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://www.okta.com/company/careers/",
     "notion_page_id": "37aea971-7118-8171-bc98-e0f4060d64cb",
     "seen_jobs": [
@@ -22863,8 +22879,8 @@
     ]
   },
   "Kapitus": {
-    "hash": "70ab84f05e1ea6b3bafc8a78be22e9b9eb6cd7c26a62c92c9f4a49089e48f6b8",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "hash": "f0ea8c143122acfb8d4acc6daff1b0cbf25fd9836ac08fc5122fb35cda25d1e1",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://boards-api.greenhouse.io/v1/boards/kapitus/jobs?content=true",
     "notion_page_id": "37aea971-7118-8172-b60c-f4d183b0aaca",
     "seen_jobs": [
@@ -22925,8 +22941,8 @@
     ]
   },
   "New York Life": {
-    "hash": "0fe600e7c05978fb838e7f4b63b2adc89cc7e266ac3171398b88a34b04fd1004",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "hash": "0690ec29311c6aa6fb7fbd09a6297cdd2666be7811e28a36de69552c4243cbd5",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://careers.newyorklife.com/",
     "notion_page_id": "37aea971-7118-8176-86bd-ca6012f25410",
     "seen_jobs": [
@@ -24259,7 +24275,7 @@
   },
   "FirstCitizenBank": {
     "hash": "a3c37404e1abc99de8ebd35247e6115549dfa43326e21cb1fa711e67182afa32",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://jobs.firstcitizens.com/",
     "notion_page_id": "37aea971-7118-8177-b33d-dd6a838db0a7",
     "seen_jobs": [
@@ -24344,7 +24360,7 @@
   },
   "Kadensa Capital": {
     "hash": "212fcd6ba132349340b6081a992530a57d08d98978937071486ab151d3c40952",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://www.kadensacapital.com/careers",
     "notion_page_id": "37aea971-7118-8178-b3bc-cbe609d0ca55",
     "seen_jobs": [
@@ -24373,7 +24389,7 @@
   },
   "Matrixport": {
     "hash": "4ea32938c29c3c8f1e0c48d7d2214563069b6e5e85c82502dbf2beb5277f1f94",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://www.matrixport.com/careers",
     "notion_page_id": "37aea971-7118-8181-8f7f-dd9e662102ae",
     "seen_jobs": [
@@ -24406,8 +24422,8 @@
     ]
   },
   "One River Asset Management": {
-    "hash": "72f807c18988d8766e39ea647fecc3d487b5c5cfa33c8a73f5832736de2b6384",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "hash": "80ca5c728b49bf85430c4d10754c0e5d1fd916a80e490ca5da1a850ae37132f5",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://www.linkedin.com/company/one-river-asset-management-llc/jobs",
     "notion_page_id": "37aea971-7118-8181-99e6-e28968a8dbc3",
     "seen_jobs": [
@@ -24639,7 +24655,7 @@
   },
   "Federal Home Loan Bank of New York": {
     "hash": "ed809d99bd5420820688ec5b35650316eaacb401a297075eb8646e271fb6b8d4",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://fhlbny.wd1.myworkdayjobs.com/wday/cxs/fhlbny/FHLBNY/jobs",
     "notion_page_id": "37aea971-7118-8187-95fa-ea15b133b620",
     "seen_jobs": [
@@ -24702,7 +24718,7 @@
   },
   "Maverick Capital": {
     "hash": "d7576fb85d43aea0fce5817048f4a2824d19f82cf885e974919289565d7b708c",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://careers.mavcapmgt.com/",
     "notion_page_id": "37aea971-7118-818f-a0c0-ea3d5ac8d667",
     "seen_jobs": [
@@ -24772,7 +24788,7 @@
   },
   "LSEG": {
     "hash": "816e960879cac4ea9d17053a7b89a38d6ad2849dc7765868a4d38a794350e449",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://lseg.wd3.myworkdayjobs.com/wday/cxs/lseg/Careers/jobs",
     "notion_page_id": "37aea971-7118-8196-82f7-c1de69310fbb",
     "seen_jobs": [
@@ -25150,8 +25166,8 @@
     ]
   },
   "Fortitude Reinsurance": {
-    "hash": "a0ebec46abe43f3fe6a6264d5b1424c3e82f7706177dfbf02e580a9a643850ae",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "hash": "60de77596aac0d7e53d26e1374d20609684d44b7036e2fd9b35d4f572b86ad4e",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://fortitude-re.com/culture-careers/",
     "notion_page_id": "37aea971-7118-8198-818b-eef15b51942e",
     "seen_jobs": [
@@ -25291,7 +25307,7 @@
   },
   "Garda": {
     "hash": "4d0f575e4985c4facd3f4844b3f0c9f63eec88962460b082ab60dceb9f045493",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://jobs.garda.com/",
     "notion_page_id": "37aea971-7118-8199-8d85-e5b241ebb8f7",
     "seen_jobs": [
@@ -25350,7 +25366,7 @@
   },
   "M&G Investments": {
     "hash": "4415342ea81dd89c726c913e377fde2b48217ad35171c9e74576072b0bde8642",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://mgpru.wd3.myworkdayjobs.com/wday/cxs/mgpru/mandgprudential/jobs",
     "notion_page_id": "37aea971-7118-819a-9a4c-df7c011d921a",
     "seen_jobs": [
@@ -25754,7 +25770,7 @@
   },
   "Interactive Broker": {
     "hash": "3d2ae15598002e3499115d99e45586f868a6dfb32769c1c83215f3a4c8b718ab",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://www.interactivebrokers.com/en/general/about/careers-splash.php",
     "notion_page_id": "37aea971-7118-819b-a79a-c0353716926b",
     "seen_jobs": [
@@ -26079,7 +26095,7 @@
   },
   "Lazard": {
     "hash": "5dcf22955c54a103a0cd69d48bf5f16a12276d0456346fdd54e33a60b609b823",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://www.lazard.com/careers/jobs/",
     "notion_page_id": "37aea971-7118-819f-8a5d-cc8e39ac06ba",
     "seen_jobs": [
@@ -26100,7 +26116,7 @@
   },
   "InfiniteQuant": {
     "hash": "0a76741ea84b97d0f8761c184eddc4397fc5d81c2d6708cf40fad9e0e77654e0",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://www.infquant.com/career",
     "notion_page_id": "37aea971-7118-819f-af9e-ee21406f3b4c",
     "seen_jobs": [
@@ -26115,7 +26131,7 @@
   },
   "Glenbrook Trading": {
     "hash": "65084d11a48ed01ab7f8406818bd9c6ce3f05af5840bd4a34490c0877c2604f0",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://www.glenbrooktrading.com/careers",
     "notion_page_id": "37aea971-7118-81a0-967d-c841afaebb25",
     "seen_jobs": [
@@ -26136,7 +26152,7 @@
   },
   "K-Hawk Capital": {
     "hash": "c55823c425c39313499f2956baad04cb7ae1280c955021e037300d736c99d530",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://www.khawk.com/careers",
     "notion_page_id": "37aea971-7118-81a7-b31a-c5a1671a4f15",
     "seen_jobs": [
@@ -26196,7 +26212,7 @@
   },
   "HSBC": {
     "hash": "d1306876eea46e9be645a38570fbf086d92f498eba68b7e9a6ad563313b40ad9",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "http://hsbc.com/careers",
     "notion_page_id": "37aea971-7118-81ae-a234-f200c9514d8f",
     "seen_jobs": [
@@ -26354,8 +26370,8 @@
     ]
   },
   "Goldman Sachs Asset Management": {
-    "hash": "0de1e0293f766a41f13d785c636a9d45503b8d0015aecd4dd809512bdb16a6bc",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "hash": "92b599da77c2578a9b02b8c5b07d6f1ea6ff36c3d29565d2078e40793ea20007",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://api-higher.gs.com/gateway/api/v1/graphql",
     "notion_page_id": "37aea971-7118-81b7-bff9-ebaea6a1ae4b",
     "seen_jobs": [
@@ -28167,7 +28183,7 @@
     ]
   },
   "Geneva Trading": {
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://job-boards.greenhouse.io/genevatrading",
     "notion_page_id": "37aea971-7118-81b8-8f36-cfb04cb7ff9e",
     "hash": "871c9fb8733fcf3b7c2a79c31d9bc149c301fdea49dcd19af2ad1844d600e387",
@@ -28199,7 +28215,7 @@
     ]
   },
   "KBRA": {
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://boards-api.greenhouse.io/v1/boards/krollbondratingagency/jobs",
     "notion_page_id": "37aea971-7118-81bd-9913-c00d34dc3bfc",
     "seen_jobs": [
@@ -28299,11 +28315,11 @@
       "gh:8919745002",
       "gh:8919762002"
     ],
-    "hash": "3d35f7afbdd1b281c956c3f4ab63497cd4bc6bd08c89ad7e27c932767caa0a1f"
+    "hash": "995bd6eb0699ffb3e58388e1b37640dd12675ffc6d55d785b4177d853093a4d7"
   },
   "HPS Investment": {
     "hash": "94ef2493e901618e8d077db1d087003ff0b443b24546a3ca2c9047a9200d9ced",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://www.hpspartners.com/open-roles",
     "notion_page_id": "37aea971-7118-81bd-a010-f15c5917929b",
     "seen_jobs": [
@@ -28341,7 +28357,7 @@
   },
   "MFS": {
     "hash": "575352e3246d0378077633c20d8a38a772856b5dcf8111e2582e3f81ef6e7bb5",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://mfs.wd1.myworkdayjobs.com/wday/cxs/mfs/MFS-Careers/jobs",
     "notion_page_id": "37aea971-7118-81c0-ab0f-cc897fe3ec24",
     "first_alerted_at": "2026-07-08T08:54:06.793591",
@@ -28582,7 +28598,7 @@
   },
   "Lombard Odier": {
     "hash": "e206ff8de76007302ae7440297d0f5cdc6737dded987a5c9c7c08f52abe8527b",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://lombardodier.wd3.myworkdayjobs.com/wday/cxs/lombardodier/Lombard_Odier_Careers/jobs",
     "notion_page_id": "37aea971-7118-81cb-8f8d-e431d9aead2b",
     "seen_jobs": [
@@ -28882,8 +28898,8 @@
     ]
   },
   "KPMG": {
-    "hash": "0b193242334c424283688c3bf9f3dd144ad9a0ba62e8e46e8d826c6b75008da5",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "hash": "b6c8f47e243aaa8b3bd44a0f34a8eda6d1dedd316b8072dea6f7fb2b9a7ddb45",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://www.kpmguscareers.com/job-search/",
     "notion_page_id": "37aea971-7118-81cc-a7c4-dee181220907",
     "seen_jobs": [
@@ -29075,7 +29091,7 @@
   },
   "Instinet": {
     "hash": "e2b13f9ae983b49cce565db60b807a84447e7f6295df3a381bc326eb43f2e6d3",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://www.instinet.com/careers",
     "notion_page_id": "37aea971-7118-81cc-b503-f44591e736c0",
     "seen_jobs": [
@@ -29117,7 +29133,7 @@
   },
   "Fullerton Fund Management": {
     "hash": "e5943458953a7886dca6a2c3e4942e48051dd804ae020d52aa1935f3959f2605",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://www.fullertonfund.com/about-fullerton/careers/",
     "notion_page_id": "37aea971-7118-81cd-9100-c97f8e972ae3",
     "seen_jobs": [
@@ -29172,7 +29188,7 @@
     ]
   },
   "Gelber Group": {
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://job-boards.greenhouse.io/gelbergroup",
     "notion_page_id": "37aea971-7118-81d1-931c-e4288ff054b4",
     "hash": "86acd3d2097d1551b3ad024eabd893f22c26f1a054e201dd200556c8f4c9725f",
@@ -29208,8 +29224,8 @@
     ]
   },
   "KKR": {
-    "hash": "ee7ab4915f6cd84c6b8f7165ec667c5f23feb5d7e60dae2f049f1f6acff96ded",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "hash": "3d96f656bf9c986e23429ead1f5ad8155430a1aa6d188d78b15935ab26ce43a3",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://boards-api.greenhouse.io/v1/boards/stage/jobs?content=true",
     "notion_page_id": "37aea971-7118-81dc-afbc-f8831a0f0b3a",
     "seen_jobs": [
@@ -29553,7 +29569,7 @@
     ]
   },
   "Galaxy": {
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://job-boards.greenhouse.io/galaxydigitalservices",
     "notion_page_id": "37aea971-7118-81e3-b287-df09293922e8",
     "hash": "41b7b9cdeacd59e38a693e30335cd2fbcbc54a6e6ab9a62944dd7784d8c2d29e",
@@ -29665,7 +29681,7 @@
   },
   "Hudson Advisors": {
     "hash": "3ae1133d43501662e7010b6d061730c34d1b2adbe0435ef827fa6742dbed96f1",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://www.hudson-advisors.com/careers/",
     "notion_page_id": "37aea971-7118-81e7-ab63-ef629d87d9e4",
     "seen_jobs": [
@@ -29697,7 +29713,7 @@
     "seen_jobs": []
   },
   "ExodusPoint Capital": {
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://boards-api.greenhouse.io/v1/boards/exoduspoint/jobs",
     "notion_page_id": "37aea971-7118-81f1-8ba4-e0da874b2bcb",
     "seen_jobs": [
@@ -29708,8 +29724,8 @@
     "hash": "f0fa599bdb650c2fbadeb3ee745c458dd609157e28bc9ef2d1090bb5b2a00f93"
   },
   "Dodge & Cox": {
-    "hash": "41bd2e70848ded7a7095a5b87bddbcdc0b906b69d106d30de4a02d3252000b9e",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "hash": "890a4b951ecb022c5fcddd1219cefcc0e742dc04570ba0073b63a01b63432ac1",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://dodgeandcox.wd5.myworkdayjobs.com/wday/cxs/dodgeandcox/Dodgecox/jobs",
     "notion_page_id": "37aea971-7118-810b-8d8f-fa14b08cafd9",
     "seen_jobs": [
@@ -29802,6 +29818,7 @@
       "wd:R0000669",
       "wd:R0000671",
       "wd:R0000673",
+      "wd:R0000676",
       "will come from a verified Dodge & Cox email address (@dodgeandcox.com). Be cautious of any communication from personal or non-company email addresses.",
       "with or respond to suspicious emails. If you are uncertain about the legitimacy of a communication, verify that the email address belongs to Dodge & Cox (@dodgeandcox.com).",
       "© 2026 Workday, Inc. All rights reserved."
@@ -29809,7 +29826,7 @@
   },
   "Brookfield": {
     "hash": "ff7375bbf6a94634156ad5d64b4b0f2b1f4885cccae83aa90e5c7e0341f047ab",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://brookfield.wd5.myworkdayjobs.com/wday/cxs/brookfield/brookfield/jobs",
     "notion_page_id": "37aea971-7118-811d-a9dd-f8919de382bc",
     "seen_jobs": [
@@ -30001,7 +30018,7 @@
   },
   "Centrica Energy": {
     "hash": "199c71649091e6f2c6a564d5cfc9101923228177c731c2741a466f342927a758",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://centrica.wd3.myworkdayjobs.com/wday/cxs/centrica/Centrica/jobs",
     "notion_page_id": "37aea971-7118-811f-a8e3-c4334c474195",
     "seen_jobs": [
@@ -30332,7 +30349,7 @@
   },
   "Analysis Group": {
     "hash": "102c84dc24158f45d23d735779deb12d22e2378d95042ca3870998b66483437c",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://www.analysisgroup.com/careers/",
     "notion_page_id": "37aea971-7118-8127-8fa9-c095c2fa3642",
     "seen_jobs": [
@@ -30376,7 +30393,7 @@
   },
   "Credibly": {
     "hash": "69cd916bcaa8ad9ba022b39f8bc37754487bf8520c97d4614b6229df03c7b499",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://www.credibly.com/careers/",
     "seen_jobs": [
       ", or enable JavaScript if it is disabled in your browser.",
@@ -30413,7 +30430,7 @@
     "notion_page_id": "37aea971-7118-812a-b077-d141a07a67b1"
   },
   "AlphaGrep": {
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "http://job-boards.greenhouse.io/alphagrepsecurities",
     "notion_page_id": "37aea971-7118-812c-89cd-c99c0d0c769f",
     "hash": "b5f72c23116d614321283d3726cebbaf2d2527f6f2bd470dabdbf1a44309e429",
@@ -30442,8 +30459,8 @@
     ]
   },
   "Crest Vale": {
-    "hash": "c14e9555b9baeee0bf886a29b8adafd2e7ba5fc858f672d36b302d929fce8e78",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "hash": "b6c8f47e243aaa8b3bd44a0f34a8eda6d1dedd316b8072dea6f7fb2b9a7ddb45",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://www.crestvaleassets.com/careers",
     "notion_page_id": "37aea971-7118-8131-a31a-e0861fbdb26b",
     "seen_jobs": [
@@ -30490,8 +30507,8 @@
     ]
   },
   "American Express": {
-    "hash": "05b026347dca53a2a293dbaa855285533364353ed2d4c81ab5fe01424edd7eb0",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "hash": "cafb88f960c2d27116dbf28290d10bad8d64f372228768e1d641ab65fdb46a01",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://careers.americanexpress.com/",
     "notion_page_id": "37aea971-7118-8133-88f9-ea247a6f1f7d",
     "seen_jobs": [
@@ -30520,7 +30537,7 @@
   },
   "BitMart": {
     "hash": "9cba071bc142d94f66f4ca1235324de02a1b702b82f47f967391bb19700f64c7",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://bitmart.zendesk.com/hc/en-us/categories/10942109789723-Career-Opportunities",
     "notion_page_id": "37aea971-7118-8140-9324-dbfa9c315645",
     "seen_jobs": [
@@ -30548,7 +30565,7 @@
   },
   "Burford Capital": {
     "hash": "a39fe8b74d41c91870a89b83819e6daff60b68de10717ea09145b8f736dc25ad",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://www.burfordcapital.com/about-us/careers/",
     "notion_page_id": "37aea971-7118-8145-83f2-ff54ac508018",
     "seen_jobs": [
@@ -30572,8 +30589,8 @@
     ]
   },
   "BCG": {
-    "hash": "935ccccfbd2ea6de18d08e64893830ad46533582f25a54310de867c9a95b974c",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "hash": "95d1a2f65fdd1596cdc9d4bd9f9099439a7adaa9450bb86ed265dc8e2f722e89",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://careers.bcg.com/global/en/",
     "notion_page_id": "37aea971-7118-814e-81ab-e3437d11fea8",
     "seen_jobs": [
@@ -30678,6 +30695,7 @@
       "802320f46b3e43d9b71521e0e3535efc",
       "810019561caf4446ae170a9f32bdcd83",
       "81fac335cab7415e8d3245ea53c80ce7",
+      "827a2ccb21234daba2cb1c7af3b9ce03",
       "835713b342c942b089d0e5da5f077b9e",
       "84d79ea434e645599071c4468232fdee",
       "854a8873ea8c40a4b2ccca86134bce45",
@@ -30861,7 +30879,7 @@
   },
   "Bunge": {
     "hash": "7ea691e94fce44d8b919ab71255b13edff230dbb020b8289fb970a6a68f5d548",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://jobs.bunge.com/",
     "notion_page_id": "37aea971-7118-8156-ace7-dc7724ac7b3d",
     "seen_jobs": [
@@ -30950,7 +30968,7 @@
     ]
   },
   "BlackEdge": {
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://job-boards.greenhouse.io/blackedgecapital",
     "notion_page_id": "37aea971-7118-815d-b36a-cb314c5f577a",
     "hash": "096473d6b0addb9a075401406e80ccaeae0aaa077efb40fd9ee4cb67ca711afc",
@@ -30967,7 +30985,7 @@
   },
   "Capital Research": {
     "hash": "6053b4fe921e56ce9c615477962f793ecea9979add991e7257ea5093efb16371",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://capgroup.wd1.myworkdayjobs.com/wday/cxs/capgroup/capitalgroupcareers/jobs",
     "notion_page_id": "37aea971-7118-8166-932a-e80632886c30",
     "seen_jobs": [
@@ -31365,7 +31383,7 @@
   },
   "DWS": {
     "hash": "01ad7e9f01aa66152a43fbd4941fedcaeb6bad484df8677b4c54ac716367ca4f",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://db.wd3.myworkdayjobs.com/wday/cxs/db/DWSWebsite/jobs",
     "notion_page_id": "37aea971-7118-8168-a538-c4d60487e545",
     "seen_jobs": [
@@ -31627,8 +31645,8 @@
     ]
   },
   "Anatole": {
-    "hash": "642d3e11330e2f65becaf7cc8e79afc9299b49fbc66992b8164b4afad1b54006",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "hash": "97e89968fd3a2ddb0d49b05470f91040a4e518a4d07407974bcc878fe51b89f0",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://www.anatole-inv.com/careers/",
     "notion_page_id": "37aea971-7118-816b-a260-d8c4f1df822d",
     "seen_jobs": [
@@ -31657,7 +31675,7 @@
   },
   "Chinese Asset Management": {
     "hash": "b5a36f48dd085a784bbfacb6cedaf69078d418902ed529f9db7cbadd45821715",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://en.chinaamc.com/",
     "notion_page_id": "37aea971-7118-8174-b2ea-df2e4988c94e",
     "seen_jobs": [
@@ -31695,7 +31713,7 @@
   },
   "Capula": {
     "hash": "703376df74b2124ba7bd4c5c3fb974005272b5c963ade8601cb9db33b307473d",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://apply.workable.com/api/v1/widget/accounts/capula-investment-management-ltd",
     "notion_page_id": "37aea971-7118-8175-8273-ddcf02e41bdd",
     "seen_jobs": [
@@ -31739,7 +31757,7 @@
   },
   "Bluesky Capital": {
     "hash": "eca55a7073be368bf54c471f6cc6d6961a1e4df08d3f2b41b502ec47d5a95a91",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "http://blueskycapitalmanagement.com/open-positions",
     "notion_page_id": "37aea971-7118-8175-a1eb-e35156a6d6fe",
     "seen_jobs": [
@@ -31755,8 +31773,8 @@
     ]
   },
   "BNP Paribas": {
-    "hash": "0069f3b582ba14c576b20b29efbde60aae835eb8dde85bd0809356d23a6d2485",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "hash": "2b742bc43a2269878db87f6a148ac73b855956f1ba19a80c06d275d8bb252ce1",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://group.bnpparibas/en/careers",
     "seen_jobs": [
       "Reference #18.1953d117.1788814445.ecf8ab5",
@@ -31884,6 +31902,7 @@
       "Reference #18.cfed2717.1792676053.41db8366",
       "Reference #18.cfed2717.1792692889.44061dc3",
       "Reference #18.cfed2717.1793367610.10bdaec7",
+      "Reference #18.cfed2717.1793568809.1d75425d",
       "Reference #18.d1542117.1792606686.607f3c0a",
       "Reference #18.d20c0317.1792157590.1f64d508",
       "Reference #18.d20c0317.1792446762.6839cf82",
@@ -32065,6 +32084,7 @@
       "https://errors.edgesuite.net/18.cfed2717.1792676053.41db8366",
       "https://errors.edgesuite.net/18.cfed2717.1792692889.44061dc3",
       "https://errors.edgesuite.net/18.cfed2717.1793367610.10bdaec7",
+      "https://errors.edgesuite.net/18.cfed2717.1793568809.1d75425d",
       "https://errors.edgesuite.net/18.d1542117.1792606686.607f3c0a",
       "https://errors.edgesuite.net/18.d20c0317.1792157590.1f64d508",
       "https://errors.edgesuite.net/18.d20c0317.1792446762.6839cf82",
@@ -32125,7 +32145,7 @@
   },
   "Bank of China": {
     "hash": "93689e1b1dd53faee2f45ac6e9b2bf81c5733ac0c6e8791b0e72e20b66b59f42",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://www.bocusa.com/careers",
     "notion_page_id": "37aea971-7118-817e-93c6-c60f599927a2",
     "seen_jobs": [
@@ -32184,7 +32204,7 @@
   },
   "Apollo": {
     "hash": "377083c0ba1be1f72c58430cda430aa3ed0289ad54921330bd853a39dce4ee03",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://athene.wd5.myworkdayjobs.com/wday/cxs/athene/Apollo_Careers/jobs",
     "notion_page_id": "37aea971-7118-817f-bbe9-fd748cf3435c",
     "seen_jobs": [
@@ -32376,7 +32396,7 @@
   },
   "Eastspring Investments": {
     "hash": "2241aa9194d38f02c261760aa0963b440a80f760afc65d4faa004835fe7c7469",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://prudential.wd3.myworkdayjobs.com/wday/cxs/prudential/prudential_eastspring/jobs",
     "notion_page_id": "37aea971-7118-8182-ba93-cc774a9e5c41",
     "seen_jobs": [
@@ -32624,7 +32644,7 @@
   },
   "Aristotle": {
     "hash": "05251327bab835c8ac2593ef3fbe06e13d782a4ded69ed1e11c51d850259c9c4",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://www.aristotlecap.com/careers/",
     "notion_page_id": "37aea971-7118-8183-b6ad-f9d53fdd9da8",
     "seen_jobs": [
@@ -32656,7 +32676,7 @@
     ]
   },
   "Dalio Family Office": {
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://job-boards.greenhouse.io/marinomanagementllc",
     "notion_page_id": "37aea971-7118-8192-bf65-e638878de272",
     "hash": "a102ccadc5f09cd7a779af7ddcf034f9f82f09a62805d89054e60e77630346ad",
@@ -32688,7 +32708,7 @@
   },
   "EquiTrust Life Insurance": {
     "hash": "730f1d95bb3425eceef0b7370cc652a73d5869c9a78484fe705bc59af4fe1b13",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://www.equitrust.com/careers/opportunities/",
     "notion_page_id": "37aea971-7118-8196-89fc-d19a823dd0c3",
     "seen_jobs": [
@@ -32730,7 +32750,7 @@
   },
   "Calamos Investments": {
     "hash": "f1ec693c7a7c26bd9a5606a48589852a865771f8af8137f5d0646926655fa550",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://www.calamos.com/careers/",
     "notion_page_id": "37aea971-7118-81a0-9b45-ec6273e60476",
     "seen_jobs": [
@@ -32754,10 +32774,10 @@
     ]
   },
   "AXQ Capital": {
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://job-boards.greenhouse.io/axq",
     "notion_page_id": "37aea971-7118-81a2-a22a-c29a9c0e9fac",
-    "hash": "4cd8f15724e79abc46c2d42fa69042a1ae5650b4878bd15d09d7eb473bc3fbc6",
+    "hash": "92e1ad41337acfd686dc0d4f254bc0253c20a8ad07c225afb2638dbc8fccbf72",
     "seen_jobs": [
       "gh:4907199004",
       "gh:5064668004",
@@ -32797,7 +32817,7 @@
   },
   "esVolta": {
     "hash": "a813845130b93a400e726109f5a6fea171f7edf61eee7335196b305253bf183b",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://www.esvolta.com/careers",
     "notion_page_id": "37aea971-7118-81ae-80f2-f55ad195e45e",
     "seen_jobs": [
@@ -32822,7 +32842,7 @@
   },
   "BHG Financial": {
     "hash": "a2f56763b9d36b6228fcc49c0789b3178f78f08bfa4876721b4195f06b9c8038",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://jobs.lever.co/bhg-inc",
     "notion_page_id": "37aea971-7118-81ae-a370-ee8c6b3b8d90",
     "seen_jobs": [
@@ -32934,8 +32954,8 @@
     ]
   },
   "Cross River": {
-    "hash": "daa7c670a38995e7e490354ae1bbd4bc3daa890d8b031ae726f2a24f379d5553",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "hash": "1768c0096dccfb960694fd903ab4c3c688afcb0480439f19de8f2861a3f80b69",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://boards-api.greenhouse.io/v1/boards/crossriverbank/jobs",
     "notion_page_id": "37aea971-7118-81ae-a4dd-cb75f3677bec",
     "seen_jobs": [
@@ -33072,7 +33092,7 @@
   },
   "Braeswood Carbon": {
     "hash": "2b976e9c4758633811a3466d6620f8107e5690e174e7900da9ef1a295eac95b2",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://www.braeswoodcarbon.com/jobs",
     "notion_page_id": "37aea971-7118-81c4-93d8-ea7866278a78",
     "seen_jobs": [
@@ -33117,7 +33137,7 @@
   },
   "Dimensional": {
     "hash": "0d584211622efa1577b1bec2e0bbc03f29d00dc5d56109ab94d09de0aa817814",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://dimensional.wd5.myworkdayjobs.com/wday/cxs/dimensional/DFA_Careers/jobs",
     "notion_page_id": "37aea971-7118-81d2-a385-d283f1b21b03",
     "seen_jobs": [
@@ -33301,7 +33321,7 @@
   },
   "Brevan Howard": {
     "hash": "a1471a6ed39595b03ec13157472099541eda869828004c2263dd57eec58f4693",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://wd3.myworkdaysite.com/wday/cxs/brevanhoward/BH_ExternalCareers/jobs",
     "notion_page_id": "37aea971-7118-81da-9c33-f513560bd1b5",
     "seen_jobs": [
@@ -33375,7 +33395,7 @@
   },
   "American Bankers Association": {
     "hash": "620306ed2dd57df7e20ab7280413d6db413d95001c963972c0f0d3913cfdd6c3",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://aba.wd1.myworkdayjobs.com/wday/cxs/aba/ABA/jobs",
     "notion_page_id": "37aea971-7118-81dc-aa70-f96fe9dba145",
     "seen_jobs": [
@@ -33470,7 +33490,7 @@
   },
   "Avenir Group": {
     "hash": "19aa7a44580b01c98b7d0d2015eda8cd13499be4e557a91afb1f3f4ca71a0b15",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "http://avenirx.com/career",
     "notion_page_id": "37aea971-7118-81e1-8069-dc508aad4013",
     "seen_jobs": [
@@ -33479,7 +33499,7 @@
     ]
   },
   "Aquatic Capital": {
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement",
     "notion_page_id": "37aea971-7118-81e4-a720-eab3eed3c25b",
     "hash": "057b83d72eb37f7424d77544e12de66950c8661931d3eaee923caa53b922a646",
@@ -33502,7 +33522,7 @@
   },
   "Clear Street": {
     "hash": "2a52f903bfa1ff418bb926436e19b594d8db4a86466c74d90f9b76ada3b97969",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://boards-api.greenhouse.io/v1/boards/clearstreet/jobs?content=true",
     "notion_page_id": "37aea971-7118-81e9-93f5-d6ceb785f0f3",
     "seen_jobs": [
@@ -33642,7 +33662,7 @@
   },
   "AXA XL": {
     "hash": "f053cae3ccbf0f836907210d097ab308a16ef9a578516d2f2ee3a87df20595ca",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://axaxl.com/about-us/careers-at-axa-xl",
     "notion_page_id": "37aea971-7118-81e9-a691-fa9c16ee64d8",
     "seen_jobs": [
@@ -33718,7 +33738,7 @@
   },
   "Columbia Threadneedle": {
     "hash": "54b3323357b1bc97174833fcd025686b78af0427acdf4402e7fec969ebf7790f",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://www.columbiathreadneedleus.com/about/careers",
     "notion_page_id": "37aea971-7118-81ea-96f0-e8c3f820c16f",
     "seen_jobs": [
@@ -33788,7 +33808,7 @@
   },
   "Caxton": {
     "hash": "1903f7229657d47406fec7275a7df5fb515ce66b96f25a1c107f864ce3587154",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://apply.workable.com/api/v1/widget/accounts/caxton",
     "notion_page_id": "37aea971-7118-81ea-b124-ccac369cd909",
     "seen_jobs": [
@@ -33851,7 +33871,7 @@
   },
   "Cypress Creek Renewables": {
     "hash": "43fe0d1ceb2e3b6af34d03b59e423fc51571980442a90628a2052057875ab017",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://ccrenew.com/careers/",
     "notion_page_id": "37aea971-7118-81ec-8a23-e94e4f71aed9",
     "seen_jobs": [
@@ -33973,7 +33993,7 @@
   },
   "CentralSquare": {
     "hash": "f3f0644be35f156478dccbf6ac44fb4cb7cff9467a37a347f8f8bcf4a6837e65",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://www.centralsquare.com/why-centralsquare/careers",
     "notion_page_id": "37aea971-7118-81ed-b386-d76928c997d6",
     "seen_jobs": [
@@ -34004,7 +34024,7 @@
   },
   "EverQuote": {
     "hash": "e7c16f19ce13c3c600da410d9d9ae4c28ff7caf2e0a7011931ae544332b0f767",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://boards-api.greenhouse.io/v1/boards/everquote/jobs",
     "notion_page_id": "37aea971-7118-81fe-bc38-c1d93490b266",
     "seen_jobs": [
@@ -34052,7 +34072,7 @@
   },
   "Scientech": {
     "hash": "c643ea561d4fedcb87a27715678ef8bf110aea1a8736aa116bdba0a0658072d0",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://www.scientechresearch.io/job-all",
     "notion_page_id": "37aea971-7118-8106-942c-d97bf75e15f4",
     "seen_jobs": [
@@ -34078,7 +34098,7 @@
   },
   "Forest Creek Capital": {
     "hash": "6a0b51daceb46480a509355e329b09db5b1a66200345f7b41bebd13518900957",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://www.forestcreekcap.com/careers",
     "notion_page_id": "37aea971-7118-8105-bab4-dc514daa8c3c",
     "seen_jobs": [
@@ -34088,7 +34108,7 @@
   },
   "Bridge Builder Strategies": {
     "hash": "1cb9eabc89236f159d3f1b076a52b0af2b41715a08e6a675a83e3a3afaf8d3a1",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://www.bridgebuilderstrategies.com/about/careers",
     "notion_page_id": "37aea971-7118-81c6-b577-f1bd382fb24d",
     "seen_jobs": [
@@ -34124,8 +34144,8 @@
     ]
   },
   "Point72 / Cubist Systematic": {
-    "hash": "bc767b8e92c1e927c427d9596ddc034dd0e980ec3ad174b699c2b9c053e5fc82",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "hash": "7c59d832bffeb71afeed2b39636256280fccc2ac2a835dea6bb0d7cefe0d5c54",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://boards-api.greenhouse.io/v1/boards/point72/jobs",
     "notion_page_id": "37aea971-7118-819b-8ecf-d79ca1ee2875",
     "seen_jobs": [
@@ -34513,7 +34533,7 @@
   },
   "PIMCO": {
     "hash": "99c0968d778111bc52c231787ee77c4b34a16b95e2a15b4105f38a71ab410e3b",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://pimco.wd1.myworkdayjobs.com/wday/cxs/pimco/pimco-careers/jobs",
     "notion_page_id": "37aea971-7118-8106-a8bb-e8e9174cf09f",
     "seen_jobs": [
@@ -34793,8 +34813,8 @@
     ]
   },
   "Y-intercept": {
-    "hash": "43d6800f73c9d10b4478f1fb727d42dacbdd326231acb73f3ec91ebc96129593",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "hash": "97e89968fd3a2ddb0d49b05470f91040a4e518a4d07407974bcc878fe51b89f0",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://y-intercept.org/careers/",
     "notion_page_id": "37aea971-7118-8116-a2ec-f8b279e2d874",
     "seen_jobs": [
@@ -34820,7 +34840,7 @@
   },
   "TD Bank": {
     "hash": "738b852b434106b054445dfebc5428bb7729db123049bcdc7179131bfbfbaa45",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://td.wd3.myworkdayjobs.com/wday/cxs/td/TD_Bank_Careers/jobs",
     "notion_page_id": "37aea971-7118-8117-9b9d-fde0111a4bcb",
     "seen_jobs": [
@@ -35396,7 +35416,7 @@
     ]
   },
   "Stevens Capital Management": {
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://job-boards.greenhouse.io/scm",
     "notion_page_id": "37aea971-7118-811e-bcd3-c75c0550af31",
     "hash": "05ab3c15912af07b5055a7a593a4340b00ab7a166d0ccdbac0216937fa27e3e0",
@@ -35434,7 +35454,7 @@
   },
   "SMBC": {
     "hash": "d6edce2074aefacf8d79ba84accc4335eba623c1b3cead733e3f44a57fabd4e9",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://careers.smbcgroup.com/",
     "notion_page_id": "37aea971-7118-814f-b227-f572297ea15f",
     "seen_jobs": [
@@ -35490,7 +35510,7 @@
   },
   "T. Rowe Price": {
     "hash": "95ea954ea15a43b4ab6c32614535d5fd1f6450fa3687228f5f0c1de159a37639",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://troweprice.wd5.myworkdayjobs.com/wday/cxs/troweprice/TRowePrice/jobs",
     "notion_page_id": "37aea971-7118-8152-ad52-f646d19abc0e",
     "seen_jobs": [
@@ -35782,8 +35802,8 @@
     ]
   },
   "Vanguard": {
-    "hash": "c6d46e695d55cb20e1ea2d8cfb090c42657ca5f90abd931af83eee079c356031",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "hash": "9ef26af0287c1c05443aefc4701811c43d886510a74baee29000d2e7bccc51d3",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://www.vanguardjobs.com/job-search-results/",
     "notion_page_id": "37aea971-7118-81b4-a2a7-ef3f39565ddd",
     "seen_jobs": [
@@ -35866,7 +35886,7 @@
   },
   "Schroders": {
     "hash": "ad1ce6a1df90fa034d70dd5507c6e5fa43293d359be2a1feaf46664a0aa9d986",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://www.schroders.com/en/global/individual/careers/early-careers/",
     "notion_page_id": "37aea971-7118-81ce-a680-eaa671e969c4",
     "seen_jobs": [
@@ -35913,8 +35933,8 @@
     ]
   },
   "Zentific Investment Management": {
-    "hash": "e2a3e238fe6cfc07dc35e2f7b8afe2d0182fbd446dc9ceb66767a4d946ccc233",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "hash": "2205c566bf258c745cdbfe44ef9e90c91c25f77b81427df91d901ae8bb32bedf",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://hk.linkedin.com/company/zentific-investment-management",
     "notion_page_id": "37aea971-7118-81d4-8e17-c84a7995ee3b",
     "seen_jobs": [
@@ -35980,7 +36000,7 @@
   },
   "Wellington Management": {
     "hash": "1615a452a88b723360b5af1ff239d216a892b743d3012e1d7c680554cc7be534",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://wellington.wd5.myworkdayjobs.com/wday/cxs/wellington/External/jobs",
     "notion_page_id": "37aea971-7118-81f1-b352-fc5d4e5bf9c1",
     "seen_jobs": [
@@ -36247,7 +36267,7 @@
   },
   "SESCO Enterprises": {
     "hash": "3769aace98f2e1a2891faaecfb3f035fa41dee267f44ab2e14447ee7b9b6e548",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "http://sescollc.com/careers/",
     "notion_page_id": "37aea971-7118-81ff-8e74-fd76b915e34d",
     "seen_jobs": [
@@ -36266,8 +36286,8 @@
     ]
   },
   "Neo Ivy Capital": {
-    "hash": "7bda330e32da6375e0d1baf3d23f5e60e2c6fc7ea88d0ca9c4a3261ddc09b4c1",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "hash": "1f6a8f3f4210d7dfc84ef9b7726530128e012b5f76ff49157cbdf6953295187e",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://www.neoivycapital.com/",
     "notion_page_id": "37aea971-7118-8111-896e-c465c74a227a",
     "seen_jobs": [
@@ -36354,6 +36374,7 @@
       "14 957 4741 13246 37",
       "15 230 3868 78993 27",
       "15 247 0939 10951 88",
+      "15 451 1905 01528 18",
       "15 463 4231 53117 18",
       "15 465 4152 69172 23",
       "15 767 0953 31025 68",
@@ -36372,6 +36393,7 @@
       "17 420 4896 79725 61",
       "17 568 5330 58383 46",
       "17 590 4965 95818 56",
+      "17 726 7160 37895 15",
       "17 736 5767 50459 71",
       "17 829 8596 48294 97",
       "17 890 8537 50477 58",
@@ -36661,6 +36683,7 @@
       "67 938 6321 20779 34",
       "68 266 2216 01707 08",
       "68 329 7667 51385 38",
+      "68 370 2907 22511 27",
       "68 408 1626 17407 60",
       "69 264 7461 12655 29",
       "69 565 2745 00582 28",
@@ -36851,7 +36874,7 @@
   },
   "Jefferies": {
     "hash": "38c8944427d4c6eed4d3d657aec4a2408172a33b65295fad5833ac479e8574e0",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://www.jefferies.com/careers/",
     "notion_page_id": "37aea971-7118-8134-b5f5-f7255edefa6c",
     "seen_jobs": [
@@ -36966,7 +36989,7 @@
   },
   "Global Atlantic": {
     "hash": "a87853cad61a44001d1bcba7949de7dd92a5c97025a410b08010593536126aa6",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://www.globalatlantic.com/careers",
     "notion_page_id": "37aea971-7118-813b-aa8c-c963e02bf777",
     "seen_jobs": [
@@ -37009,8 +37032,8 @@
     ]
   },
   "JPMorgan": {
-    "hash": "ea047cba4595b2475781547aa5cb56c9b2352a662269c955e342fd3d32677439",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "hash": "33e6db21c1647e2265132f5eba3d8383b8be858b6c9107087f0945c745acd69f",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://jpmc.fa.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?siteNumber=CX_1001",
     "notion_page_id": "37aea971-7118-814e-8fbc-c59c514fc3c1",
     "seen_jobs": [
@@ -52766,6 +52789,7 @@
       "or:210805285",
       "or:210805287",
       "or:210805288",
+      "or:210805314",
       "or:210805317",
       "or:210805319",
       "or:210805320",
@@ -52789,8 +52813,8 @@
     ]
   },
   "FactSet": {
-    "hash": "ee6ffe067a5e03058a0c096b7a302bf6c9b714c8a63c56570a726943cc388b4f",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "hash": "7d1dce2fdd3983edefcf6ce265abe201345ae63b33f582ab0affcb3eb33996de",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://www.factset.com/careers",
     "notion_page_id": "37aea971-7118-8175-8a4a-de4e39f0681a",
     "seen_jobs": [
@@ -52862,7 +52886,7 @@
   },
   "GSA Capital": {
     "hash": "762318707290bbb6f94c29b9e5dcd38074846a841d897abd48370508ff0fb319",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://boards-api.greenhouse.io/v1/boards/gsacapital/jobs?content=true",
     "notion_page_id": "37aea971-7118-81be-bef9-fbed981bbc18",
     "seen_jobs": [
@@ -52965,7 +52989,7 @@
   },
   "Moody's": {
     "hash": "aa26c68aa56b260f971b89ff8440065cb59e28fa8fac3a4af7932b84e0bb6864",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://careers.moodys.com/en",
     "notion_page_id": "37aea971-7118-81c0-8e8b-f3b87abcbbaf",
     "seen_jobs": [
@@ -53313,7 +53337,7 @@
   },
   "CICC": {
     "hash": "8055328bd634ceb6991a3f31966c42e2326d50293101917a582cafa2b7368920",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://cicc.zhiye.com/campus",
     "notion_page_id": "37aea971-7118-8164-b720-c288717fe291",
     "seen_jobs": [
@@ -53348,7 +53372,7 @@
   },
   "AllianceBernstein": {
     "hash": "e2992a1b873874a5735563158be1f4b73554c3b2dac4a63f522278bca9417cff",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://abglobal.wd1.myworkdayjobs.com/wday/cxs/abglobal/alliancebernsteincareers/jobs",
     "notion_page_id": "37aea971-7118-81cc-bca3-e63fe25da822",
     "seen_jobs": [
@@ -53575,7 +53599,7 @@
   },
   "Aspect Capital": {
     "hash": "68d508884bf876f3c6cd3e31449e47f5c1b31f85590fa6b71b7c2caafdc22512",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://www.aspectcapital.com/careers/",
     "notion_page_id": "37aea971-7118-81e1-9085-c4723cd6141d",
     "seen_jobs": [
@@ -1997388,10 +1997412,1571 @@
       "url": "https://nl.linkedin.com/jobs/view/projectleider-mjop-conditiemetingen-kracht-recruitment-at-jobster-4485409674",
       "seen_at": "2026-11-01T18:26:37.983317",
       "relevant": false
+    },
+    "4485926955": {
+      "title": "Principal Research Scientist II, Computational Sciences, MPDD",
+      "company": "BioSpace",
+      "url": "https://www.linkedin.com/jobs/view/principal-research-scientist-ii-computational-sciences-mpdd-at-biospace-4485926955",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4485413823": {
+      "title": "Data Analyst",
+      "company": "Evlo AI",
+      "url": "https://www.linkedin.com/jobs/view/data-analyst-at-evlo-ai-4485413823",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4485984785": {
+      "title": "Senior Data Scientist, Product Analytics - USDS",
+      "company": "TikTok USDS Joint Venture",
+      "url": "https://www.linkedin.com/jobs/view/senior-data-scientist-product-analytics-usds-at-tiktok-usds-joint-venture-4485984785",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4485427041": {
+      "title": "Measurement Science Partner, Global Accounts",
+      "company": "TikTok",
+      "url": "https://www.linkedin.com/jobs/view/measurement-science-partner-global-accounts-at-tiktok-4485427041",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4485403971": {
+      "title": "Data Scientist Level 2 with Security Clearance",
+      "company": "IntelliGenesis LLC®",
+      "url": "https://www.linkedin.com/jobs/view/data-scientist-level-2-with-security-clearance-at-intelligenesis-llc%C2%AE-4485403971",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4460146337": {
+      "title": "Applied Scientist, Last Mile Science",
+      "company": "Amazon",
+      "url": "https://www.linkedin.com/jobs/view/applied-scientist-last-mile-science-at-amazon-4460146337",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4460142399": {
+      "title": "Applied Scientist, Last Mile Science",
+      "company": "Amazon",
+      "url": "https://www.linkedin.com/jobs/view/applied-scientist-last-mile-science-at-amazon-4460142399",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4485403984": {
+      "title": "Teacher of Maths\nEDV/2026/DA/26267",
+      "company": "Academy Transformation Trust",
+      "url": "https://uk.linkedin.com/jobs/view/teacher-of-maths%0Aedv-2026-da-26267-at-academy-transformation-trust-4485403984",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4483992720": {
+      "title": "Supply Chain Optimization Manager",
+      "company": "CHEP",
+      "url": "https://uk.linkedin.com/jobs/view/supply-chain-optimization-manager-at-chep-4483992720",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4485416786": {
+      "title": "Global Head of Data Science - Trust and Safety",
+      "company": "TikTok",
+      "url": "https://sg.linkedin.com/jobs/view/global-head-of-data-science-trust-and-safety-at-tiktok-4485416786",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4485406981": {
+      "title": "Procurement Manager(AIDC)",
+      "company": "PaleBlueDot AI",
+      "url": "https://sg.linkedin.com/jobs/view/procurement-manager-aidc-at-palebluedot-ai-4485406981",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4475142773": {
+      "title": "Senior Analyst, Reporting and Systems",
+      "company": "Ensign InfoSecurity",
+      "url": "https://sg.linkedin.com/jobs/view/senior-analyst-reporting-and-systems-at-ensign-infosecurity-4475142773",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4477964769": {
+      "title": "Senior Executive, Risk Management",
+      "company": "Ensign InfoSecurity",
+      "url": "https://sg.linkedin.com/jobs/view/senior-executive-risk-management-at-ensign-infosecurity-4477964769",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4477038999": {
+      "title": "Production Control and Planning",
+      "company": "Applied Materials South East Asia",
+      "url": "https://sg.linkedin.com/jobs/view/production-control-and-planning-at-applied-materials-south-east-asia-4477038999",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4485411035": {
+      "title": "Audio Engineer - Fully Remote | Upto $19/hr",
+      "company": "Mercor",
+      "url": "https://sg.linkedin.com/jobs/view/audio-engineer-fully-remote-upto-%2419-hr-at-mercor-4485411035",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4469142046": {
+      "title": "Intern, eCommerce (SEO / CRO)",
+      "company": "Marina Bay Sands",
+      "url": "https://sg.linkedin.com/jobs/view/intern-ecommerce-seo-cro-at-marina-bay-sands-4469142046",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4450284327": {
+      "title": "Trainee Workshop Engineer",
+      "company": "Pratt & Whitney",
+      "url": "https://sg.linkedin.com/jobs/view/trainee-workshop-engineer-at-pratt-whitney-4450284327",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4467857163": {
+      "title": "QA Intern",
+      "company": "Cummins Asia Pacific",
+      "url": "https://sg.linkedin.com/jobs/view/qa-intern-at-cummins-asia-pacific-4467857163",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4485940999": {
+      "title": "Senior Manager - Audit & Risk Assurance",
+      "company": "ACCA Careers",
+      "url": "https://sg.linkedin.com/jobs/view/senior-manager-audit-risk-assurance-at-acca-careers-4485940999",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4485940857": {
+      "title": "Audit Senior",
+      "company": "SMRT Corporation Ltd",
+      "url": "https://sg.linkedin.com/jobs/view/audit-senior-at-smrt-corporation-ltd-4485940857",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4468822082": {
+      "title": "Software Engineer III - Quorum Technology - Java, Kotlin, AWS",
+      "company": "JPMorganChase",
+      "url": "https://sg.linkedin.com/jobs/view/software-engineer-iii-quorum-technology-java-kotlin-aws-at-jpmorganchase-4468822082",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4483842894": {
+      "title": "Senior Functional Data Business Analyst (Banking Technology)",
+      "company": "Optimum Solutions Pte Ltd",
+      "url": "https://sg.linkedin.com/jobs/view/senior-functional-data-business-analyst-banking-technology-at-optimum-solutions-pte-ltd-4483842894",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4412749713": {
+      "title": "Dietetic Technician, Dietetics (Contract)",
+      "company": "National University Hospital",
+      "url": "https://sg.linkedin.com/jobs/view/dietetic-technician-dietetics-contract-at-national-university-hospital-4412749713",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4486102081": {
+      "title": "AI Marketeer & GTM engineer Security & IT (DUTCH ONLY)",
+      "company": "Beyond Products • Cybersecurity Marketing",
+      "url": "https://nl.linkedin.com/jobs/view/ai-marketeer-gtm-engineer-security-it-dutch-only-at-beyond-products-%E2%80%A2-cybersecurity-marketing-4486102081",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4486104220": {
+      "title": "Kostendeskundige Meet en Regeltechniek",
+      "company": "Heel Hardinxveld Werkt",
+      "url": "https://nl.linkedin.com/jobs/view/kostendeskundige-meet-en-regeltechniek-at-heel-hardinxveld-werkt-4486104220",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4449331869": {
+      "title": "Post-doctoral Researcher - Statistical Learning and Modeling",
+      "company": "National Laboratory of the Rockies",
+      "url": "https://www.linkedin.com/jobs/view/post-doctoral-researcher-statistical-learning-and-modeling-at-national-laboratory-of-the-rockies-4449331869",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4485416778": {
+      "title": "Staff Data Scientist",
+      "company": "RemoteHunter",
+      "url": "https://www.linkedin.com/jobs/view/staff-data-scientist-at-remotehunter-4485416778",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4485985738": {
+      "title": "Director of Actuarial Services",
+      "company": "Brio Capital",
+      "url": "https://www.linkedin.com/jobs/view/director-of-actuarial-services-at-brio-capital-4485985738",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4468693479": {
+      "title": "2027 Quantitative Masters Internship Program - Investments - Portfolio Management - Atlanta",
+      "company": "BlackRock",
+      "url": "https://www.linkedin.com/jobs/view/2027-quantitative-masters-internship-program-investments-portfolio-management-atlanta-at-blackrock-4468693479",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4469202353": {
+      "title": "Sr Analyst - Restructuring",
+      "company": "DLA Piper",
+      "url": "https://www.linkedin.com/jobs/view/sr-analyst-restructuring-at-dla-piper-4469202353",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4483991632": {
+      "title": "Python Developer",
+      "company": "Hunter Bond",
+      "url": "https://uk.linkedin.com/jobs/view/python-developer-at-hunter-bond-4483991632",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4483987984": {
+      "title": "Senior Python Engineer",
+      "company": "Saragossa",
+      "url": "https://uk.linkedin.com/jobs/view/senior-python-engineer-at-saragossa-4483987984",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4486103315": {
+      "title": "Retail Sales Associate, Fashion Place - Full Time",
+      "company": "Macy's",
+      "url": "https://www.linkedin.com/jobs/view/retail-sales-associate-fashion-place-full-time-at-macy-s-4486103315",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4486110038": {
+      "title": "Retail Sales Associate, Pearlridge - Full Time",
+      "company": "Macy's",
+      "url": "https://www.linkedin.com/jobs/view/retail-sales-associate-pearlridge-full-time-at-macy-s-4486110038",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4486101370": {
+      "title": "Retail Sales Associate",
+      "company": "Macy's",
+      "url": "https://www.linkedin.com/jobs/view/retail-sales-associate-at-macy-s-4486101370",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4485426207": {
+      "title": "OTR Dry Van Truck Driver, CDL-A",
+      "company": "HMD Trucking, Inc.",
+      "url": "https://www.linkedin.com/jobs/view/otr-dry-van-truck-driver-cdl-a-at-hmd-trucking-inc-4485426207",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4485998191": {
+      "title": "Class A CDL with HazMat Driver",
+      "company": "HIGH TIDE OIL COMPANY INC",
+      "url": "https://www.linkedin.com/jobs/view/class-a-cdl-with-hazmat-driver-at-high-tide-oil-company-inc-4485998191",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4485404987": {
+      "title": "OTR Dry Van Truck Driver, CDL-A",
+      "company": "HMD Trucking, Inc.",
+      "url": "https://www.linkedin.com/jobs/view/otr-dry-van-truck-driver-cdl-a-at-hmd-trucking-inc-4485404987",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4485994500": {
+      "title": "Local Class A CDL Tanker Driver | $7,500 Sign-On Bonus | 4314",
+      "company": "Denali",
+      "url": "https://www.linkedin.com/jobs/view/local-class-a-cdl-tanker-driver-%247-500-sign-on-bonus-4314-at-denali-4485994500",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4483990668": {
+      "title": "SKI STARTUP Founders Team",
+      "company": "SNOWGROUP",
+      "url": "https://www.linkedin.com/jobs/view/ski-startup-founders-team-at-snowgroup-4483990668",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4485420562": {
+      "title": "Sales Associate",
+      "company": "Parkland Corporation",
+      "url": "https://www.linkedin.com/jobs/view/sales-associate-at-parkland-corporation-4485420562",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4485997415": {
+      "title": "Regional Class A CDL Truck Driver | $7,500 Sign On Bonus | 4276",
+      "company": "Denali",
+      "url": "https://www.linkedin.com/jobs/view/regional-class-a-cdl-truck-driver-%247-500-sign-on-bonus-4276-at-denali-4485997415",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4485999212": {
+      "title": "Firefighter/Paramedic or Critical Care Paramedic (FT)lateral position",
+      "company": "American Fork City",
+      "url": "https://www.linkedin.com/jobs/view/firefighter-paramedic-or-critical-care-paramedic-ft-lateral-position-at-american-fork-city-4485999212",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4485985889": {
+      "title": "Driver Tank Wagon PM- Kansas City, KS",
+      "company": "Diesel Direct",
+      "url": "https://www.linkedin.com/jobs/view/driver-tank-wagon-pm-kansas-city-ks-at-diesel-direct-4485985889",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4485418765": {
+      "title": "OTR Dry Van Truck Driver, CDL-A",
+      "company": "HMD Trucking, Inc.",
+      "url": "https://www.linkedin.com/jobs/view/otr-dry-van-truck-driver-cdl-a-at-hmd-trucking-inc-4485418765",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4485403973": {
+      "title": "OTR Dry Van Truck Driver, CDL-A",
+      "company": "HMD Trucking, Inc.",
+      "url": "https://www.linkedin.com/jobs/view/otr-dry-van-truck-driver-cdl-a-at-hmd-trucking-inc-4485403973",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4485427118": {
+      "title": "OTR Dry Van Truck Driver, CDL-A",
+      "company": "HMD Trucking, Inc.",
+      "url": "https://www.linkedin.com/jobs/view/otr-dry-van-truck-driver-cdl-a-at-hmd-trucking-inc-4485427118",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4485405959": {
+      "title": "OTR Dry Van Truck Driver, CDL-A",
+      "company": "HMD Trucking, Inc.",
+      "url": "https://www.linkedin.com/jobs/view/otr-dry-van-truck-driver-cdl-a-at-hmd-trucking-inc-4485405959",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4485414780": {
+      "title": "OTR Dry Van Truck Driver, CDL-A",
+      "company": "HMD Trucking, Inc.",
+      "url": "https://www.linkedin.com/jobs/view/otr-dry-van-truck-driver-cdl-a-at-hmd-trucking-inc-4485414780",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4485410889": {
+      "title": "OTR Dry Van Truck Driver, CDL-A",
+      "company": "HMD Trucking, Inc.",
+      "url": "https://www.linkedin.com/jobs/view/otr-dry-van-truck-driver-cdl-a-at-hmd-trucking-inc-4485410889",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4485406939": {
+      "title": "OTR Dry Van Truck Driver, CDL-A",
+      "company": "HMD Trucking, Inc.",
+      "url": "https://www.linkedin.com/jobs/view/otr-dry-van-truck-driver-cdl-a-at-hmd-trucking-inc-4485406939",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4485408966": {
+      "title": "OTR Dry Van Truck Driver, CDL-A",
+      "company": "HMD Trucking, Inc.",
+      "url": "https://www.linkedin.com/jobs/view/otr-dry-van-truck-driver-cdl-a-at-hmd-trucking-inc-4485408966",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4485426206": {
+      "title": "OTR Dry Van Truck Driver, CDL-A",
+      "company": "HMD Trucking, Inc.",
+      "url": "https://www.linkedin.com/jobs/view/otr-dry-van-truck-driver-cdl-a-at-hmd-trucking-inc-4485426206",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4485408995": {
+      "title": "Digital Trading Specialist - EU Sites",
+      "company": "Frasers Group",
+      "url": "https://uk.linkedin.com/jobs/view/digital-trading-specialist-eu-sites-at-frasers-group-4485408995",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4457308578": {
+      "title": "Trade Sales & Business Development Representative",
+      "company": "The Modest Merchant Limited",
+      "url": "https://uk.linkedin.com/jobs/view/trade-sales-business-development-representative-at-the-modest-merchant-limited-4457308578",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4486104202": {
+      "title": "Digital Trading Specialist - EU Sites",
+      "company": "Frasers Group",
+      "url": "https://uk.linkedin.com/jobs/view/digital-trading-specialist-eu-sites-at-frasers-group-4486104202",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4479467042": {
+      "title": "Seasonal Sales Assistant - Part Time",
+      "company": "Superdry",
+      "url": "https://uk.linkedin.com/jobs/view/seasonal-sales-assistant-part-time-at-superdry-4479467042",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4476764160": {
+      "title": "Christmas Customer Assistant - Food - Arnison Centre Durham Retail Park",
+      "company": "Marks and Spencer",
+      "url": "https://uk.linkedin.com/jobs/view/christmas-customer-assistant-food-arnison-centre-durham-retail-park-at-marks-and-spencer-4476764160",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4476748784": {
+      "title": "Christmas Customer Assistant - Food - Arnison Centre Durham Retail Park",
+      "company": "Marks and Spencer",
+      "url": "https://uk.linkedin.com/jobs/view/christmas-customer-assistant-food-arnison-centre-durham-retail-park-at-marks-and-spencer-4476748784",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4476754868": {
+      "title": "Christmas Customer Assistant - Food - Arnison Centre Durham Retail Park",
+      "company": "Marks and Spencer",
+      "url": "https://uk.linkedin.com/jobs/view/christmas-customer-assistant-food-arnison-centre-durham-retail-park-at-marks-and-spencer-4476754868",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4476750780": {
+      "title": "Christmas Customer Assistant - Food - Arnison Centre Durham Retail Park",
+      "company": "Marks and Spencer",
+      "url": "https://uk.linkedin.com/jobs/view/christmas-customer-assistant-food-arnison-centre-durham-retail-park-at-marks-and-spencer-4476750780",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4485409929": {
+      "title": "Winkelmedewerker Sieraden - Regio Sneek",
+      "company": "J-Club International B.V.",
+      "url": "https://nl.linkedin.com/jobs/view/winkelmedewerker-sieraden-regio-sneek-at-j-club-international-b-v-4485409929",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4483995711": {
+      "title": "Vulploegmedewerker in Venlo",
+      "company": "Big Bazar",
+      "url": "https://nl.linkedin.com/jobs/view/vulploegmedewerker-in-venlo-at-big-bazar-4483995711",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4404111775": {
+      "title": "Apothekersassistent",
+      "company": "Leiden University Medical Center",
+      "url": "https://nl.linkedin.com/jobs/view/apothekersassistent-at-leiden-university-medical-center-4404111775",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4469125219": {
+      "title": "Allround Magazijn Medewerker (m/v/x)",
+      "company": "Linde Europe",
+      "url": "https://nl.linkedin.com/jobs/view/allround-magazijn-medewerker-m-v-x-at-linde-europe-4469125219",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4476815116": {
+      "title": "Stage Internship Procurement Excellence & Sustainability",
+      "company": "Ahold Delhaize",
+      "url": "https://nl.linkedin.com/jobs/view/stage-internship-procurement-excellence-sustainability-at-ahold-delhaize-4476815116",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4418773764": {
+      "title": "Sales Consultant 32 Hours",
+      "company": "adidas",
+      "url": "https://nl.linkedin.com/jobs/view/sales-consultant-32-hours-at-adidas-4418773764",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4485409717": {
+      "title": "Soldaat Genie Chemische Middelen - Jobbird.com",
+      "company": "Jobster",
+      "url": "https://nl.linkedin.com/jobs/view/soldaat-genie-chemische-middelen-jobbird-com-at-jobster-4485409717",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4485410739": {
+      "title": "Verkoopmedewerker Kiosk Zwolle - Jobbird.com",
+      "company": "Jobster",
+      "url": "https://nl.linkedin.com/jobs/view/verkoopmedewerker-kiosk-zwolle-jobbird-com-at-jobster-4485410739",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4485189342": {
+      "title": "Proef- & Promotiemedewerker Supermarkt (bijbaan)",
+      "company": "Booston.io",
+      "url": "https://nl.linkedin.com/jobs/view/proef-promotiemedewerker-supermarkt-bijbaan-at-booston-io-4485189342",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4485403777": {
+      "title": "Verkoopmedewerker Kiosk Amsterdam Amstel - Jobbird.com",
+      "company": "Jobster",
+      "url": "https://nl.linkedin.com/jobs/view/verkoopmedewerker-kiosk-amsterdam-amstel-jobbird-com-at-jobster-4485403777",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4477844213": {
+      "title": "Assistent bedrijfsleider",
+      "company": "Action",
+      "url": "https://nl.linkedin.com/jobs/view/assistent-bedrijfsleider-at-action-4477844213",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4485419097": {
+      "title": "VeVa Soldaat Verkenner/Chauffeur - Jobbird.com",
+      "company": "Jobster",
+      "url": "https://nl.linkedin.com/jobs/view/veva-soldaat-verkenner-chauffeur-jobbird-com-at-jobster-4485419097",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4485402906": {
+      "title": "Magazijnbediende Heftruckrijder Parttime - Jobbird.com",
+      "company": "Jobster",
+      "url": "https://nl.linkedin.com/jobs/view/magazijnbediende-heftruckrijder-parttime-jobbird-com-at-jobster-4485402906",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4477825977": {
+      "title": "Assistent bedrijfsleider",
+      "company": "Action",
+      "url": "https://nl.linkedin.com/jobs/view/assistent-bedrijfsleider-at-action-4477825977",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4485986936": {
+      "title": "Driver Fuel PM- Washington, PA",
+      "company": "Diesel Direct",
+      "url": "https://www.linkedin.com/jobs/view/driver-fuel-pm-washington-pa-at-diesel-direct-4485986936",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4485417303": {
+      "title": "HIRING! CDL A Driver - Local",
+      "company": "Union Beer Distributors",
+      "url": "https://www.linkedin.com/jobs/view/hiring%21-cdl-a-driver-local-at-union-beer-distributors-4485417303",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4486109066": {
+      "title": "Meat Cutter - Journeyman",
+      "company": "PCC Community Markets",
+      "url": "https://www.linkedin.com/jobs/view/meat-cutter-journeyman-at-pcc-community-markets-4486109066",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4484310004": {
+      "title": "South Loop-Store Associate Wine",
+      "company": "Binny's Beverage Depot",
+      "url": "https://www.linkedin.com/jobs/view/south-loop-store-associate-wine-at-binny-s-beverage-depot-4484310004",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4485415799": {
+      "title": "Concrete Mixer Driver (Local / CDL)",
+      "company": "Jones & Sons, Inc.",
+      "url": "https://www.linkedin.com/jobs/view/concrete-mixer-driver-local-cdl-at-jones-sons-inc-4485415799",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4485415798": {
+      "title": "OTR Dry Van Truck Driver, CDL-A",
+      "company": "HMD Trucking, Inc.",
+      "url": "https://www.linkedin.com/jobs/view/otr-dry-van-truck-driver-cdl-a-at-hmd-trucking-inc-4485415798",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4483982932": {
+      "title": "CDL A Delivery Driver",
+      "company": "Performance Foodservice",
+      "url": "https://www.linkedin.com/jobs/view/cdl-a-delivery-driver-at-performance-foodservice-4483982932",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4485961600": {
+      "title": "Class A Driver | Monday-Friday | $2500 Sign On Bonus",
+      "company": "Bunzl plc",
+      "url": "https://www.linkedin.com/jobs/view/class-a-driver-monday-friday-%242500-sign-on-bonus-at-bunzl-plc-4485961600",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4485963751": {
+      "title": "Class A Truck Driver - Regional Routes",
+      "company": "ProDrivers",
+      "url": "https://www.linkedin.com/jobs/view/class-a-truck-driver-regional-routes-at-prodrivers-4485963751",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4485973121": {
+      "title": "Store Team Member - #961",
+      "company": "Sheetz",
+      "url": "https://www.linkedin.com/jobs/view/store-team-member-%23961-at-sheetz-4485973121",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4485404560": {
+      "title": "CDL Truck Driver (Class A preferred)",
+      "company": "MacArthur Co.",
+      "url": "https://www.linkedin.com/jobs/view/cdl-truck-driver-class-a-preferred-at-macarthur-co-4485404560",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4485981079": {
+      "title": "CDL-A Truck Drivers - No Touch Freight - Up to $107,950 Annually",
+      "company": "Hogan Transportation Companies",
+      "url": "https://www.linkedin.com/jobs/view/cdl-a-truck-drivers-no-touch-freight-up-to-%24107-950-annually-at-hogan-transportation-companies-4485981079",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4485970396": {
+      "title": "Store Team Member - #476",
+      "company": "Sheetz",
+      "url": "https://www.linkedin.com/jobs/view/store-team-member-%23476-at-sheetz-4485970396",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4485959745": {
+      "title": "Local Truck Driver",
+      "company": "Performance Food Group",
+      "url": "https://www.linkedin.com/jobs/view/local-truck-driver-at-performance-food-group-4485959745",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4485413412": {
+      "title": "OTR Reefer Drivers",
+      "company": "Roamer Transport, Inc.",
+      "url": "https://www.linkedin.com/jobs/view/otr-reefer-drivers-at-roamer-transport-inc-4485413412",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4485408466": {
+      "title": "OTR Reefer Drivers",
+      "company": "Roamer Transport, Inc.",
+      "url": "https://www.linkedin.com/jobs/view/otr-reefer-drivers-at-roamer-transport-inc-4485408466",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4485405507": {
+      "title": "OTR Reefer Drivers",
+      "company": "Roamer Transport, Inc.",
+      "url": "https://www.linkedin.com/jobs/view/otr-reefer-drivers-at-roamer-transport-inc-4485405507",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4485967577": {
+      "title": "Truck Driver",
+      "company": "Performance Food Group",
+      "url": "https://www.linkedin.com/jobs/view/truck-driver-at-performance-food-group-4485967577",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4485415350": {
+      "title": "OTR Reefer Drivers",
+      "company": "Roamer Transport, Inc.",
+      "url": "https://www.linkedin.com/jobs/view/otr-reefer-drivers-at-roamer-transport-inc-4485415350",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4485416348": {
+      "title": "OTR Reefer Drivers",
+      "company": "Roamer Transport, Inc.",
+      "url": "https://www.linkedin.com/jobs/view/otr-reefer-drivers-at-roamer-transport-inc-4485416348",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4485418285": {
+      "title": "OTR Reefer Drivers",
+      "company": "Roamer Transport, Inc.",
+      "url": "https://www.linkedin.com/jobs/view/otr-reefer-drivers-at-roamer-transport-inc-4485418285",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4485400832": {
+      "title": "OTR Reefer Drivers",
+      "company": "Roamer Transport, Inc.",
+      "url": "https://www.linkedin.com/jobs/view/otr-reefer-drivers-at-roamer-transport-inc-4485400832",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4485967542": {
+      "title": "CDL A Shuttle Driver",
+      "company": "Performance Food Group",
+      "url": "https://www.linkedin.com/jobs/view/cdl-a-shuttle-driver-at-performance-food-group-4485967542",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4485965570": {
+      "title": "Entry Level, Delivery Driver",
+      "company": "Performance Food Group",
+      "url": "https://www.linkedin.com/jobs/view/entry-level-delivery-driver-at-performance-food-group-4485965570",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4485405958": {
+      "title": "OTR Dry Van Truck Driver, CDL-A",
+      "company": "HMD Trucking, Inc.",
+      "url": "https://www.linkedin.com/jobs/view/otr-dry-van-truck-driver-cdl-a-at-hmd-trucking-inc-4485405958",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4485421298": {
+      "title": "OTR Reefer Drivers",
+      "company": "Roamer Transport, Inc.",
+      "url": "https://www.linkedin.com/jobs/view/otr-reefer-drivers-at-roamer-transport-inc-4485421298",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4485409416": {
+      "title": "OTR Reefer Drivers",
+      "company": "Roamer Transport, Inc.",
+      "url": "https://www.linkedin.com/jobs/view/otr-reefer-drivers-at-roamer-transport-inc-4485409416",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4485420773": {
+      "title": "OTR Dry Van Truck Driver, CDL-A",
+      "company": "HMD Trucking, Inc.",
+      "url": "https://www.linkedin.com/jobs/view/otr-dry-van-truck-driver-cdl-a-at-hmd-trucking-inc-4485420773",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4485421292": {
+      "title": "OTR Reefer Drivers",
+      "company": "Roamer Transport, Inc.",
+      "url": "https://www.linkedin.com/jobs/view/otr-reefer-drivers-at-roamer-transport-inc-4485421292",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4485964571": {
+      "title": "Delivery Driver",
+      "company": "Performance Food Group",
+      "url": "https://www.linkedin.com/jobs/view/delivery-driver-at-performance-food-group-4485964571",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4485408479": {
+      "title": "OTR Reefer Drivers",
+      "company": "Roamer Transport, Inc.",
+      "url": "https://www.linkedin.com/jobs/view/otr-reefer-drivers-at-roamer-transport-inc-4485408479",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4485413409": {
+      "title": "OTR Reefer Drivers",
+      "company": "Roamer Transport, Inc.",
+      "url": "https://www.linkedin.com/jobs/view/otr-reefer-drivers-at-roamer-transport-inc-4485413409",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4485421294": {
+      "title": "OTR Reefer Drivers",
+      "company": "Roamer Transport, Inc.",
+      "url": "https://www.linkedin.com/jobs/view/otr-reefer-drivers-at-roamer-transport-inc-4485421294",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4485400824": {
+      "title": "OTR Reefer Drivers",
+      "company": "Roamer Transport, Inc.",
+      "url": "https://www.linkedin.com/jobs/view/otr-reefer-drivers-at-roamer-transport-inc-4485400824",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4485969570": {
+      "title": "Class A Delivery Driver (HIRING BONUS)",
+      "company": "Performance Food Group",
+      "url": "https://www.linkedin.com/jobs/view/class-a-delivery-driver-hiring-bonus-at-performance-food-group-4485969570",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4485401741": {
+      "title": "OTR Reefer Drivers",
+      "company": "Roamer Transport, Inc.",
+      "url": "https://www.linkedin.com/jobs/view/otr-reefer-drivers-at-roamer-transport-inc-4485401741",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4485408463": {
+      "title": "OTR Reefer Drivers",
+      "company": "Roamer Transport, Inc.",
+      "url": "https://www.linkedin.com/jobs/view/otr-reefer-drivers-at-roamer-transport-inc-4485408463",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4485422228": {
+      "title": "OTR Reefer Drivers",
+      "company": "Roamer Transport, Inc.",
+      "url": "https://www.linkedin.com/jobs/view/otr-reefer-drivers-at-roamer-transport-inc-4485422228",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4485422213": {
+      "title": "OTR Reefer Drivers",
+      "company": "Roamer Transport, Inc.",
+      "url": "https://www.linkedin.com/jobs/view/otr-reefer-drivers-at-roamer-transport-inc-4485422213",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4485412403": {
+      "title": "OTR Reefer Drivers",
+      "company": "Roamer Transport, Inc.",
+      "url": "https://www.linkedin.com/jobs/view/otr-reefer-drivers-at-roamer-transport-inc-4485412403",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4485423234": {
+      "title": "OTR Reefer Drivers",
+      "company": "Roamer Transport, Inc.",
+      "url": "https://www.linkedin.com/jobs/view/otr-reefer-drivers-at-roamer-transport-inc-4485423234",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4485400830": {
+      "title": "OTR Reefer Drivers",
+      "company": "Roamer Transport, Inc.",
+      "url": "https://www.linkedin.com/jobs/view/otr-reefer-drivers-at-roamer-transport-inc-4485400830",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4485965531": {
+      "title": "Delivery Driver",
+      "company": "Performance Food Group",
+      "url": "https://www.linkedin.com/jobs/view/delivery-driver-at-performance-food-group-4485965531",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4485413407": {
+      "title": "OTR Reefer Drivers",
+      "company": "Roamer Transport, Inc.",
+      "url": "https://www.linkedin.com/jobs/view/otr-reefer-drivers-at-roamer-transport-inc-4485413407",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4485427115": {
+      "title": "OTR Dry Van Truck Driver, CDL-A",
+      "company": "HMD Trucking, Inc.",
+      "url": "https://www.linkedin.com/jobs/view/otr-dry-van-truck-driver-cdl-a-at-hmd-trucking-inc-4485427115",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4485419332": {
+      "title": "OTR Reefer Drivers",
+      "company": "Roamer Transport, Inc.",
+      "url": "https://www.linkedin.com/jobs/view/otr-reefer-drivers-at-roamer-transport-inc-4485419332",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4485422206": {
+      "title": "OTR Reefer Drivers",
+      "company": "Roamer Transport, Inc.",
+      "url": "https://www.linkedin.com/jobs/view/otr-reefer-drivers-at-roamer-transport-inc-4485422206",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4485415354": {
+      "title": "OTR Reefer Drivers",
+      "company": "Roamer Transport, Inc.",
+      "url": "https://www.linkedin.com/jobs/view/otr-reefer-drivers-at-roamer-transport-inc-4485415354",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4485417352": {
+      "title": "OTR Reefer Drivers",
+      "company": "Roamer Transport, Inc.",
+      "url": "https://www.linkedin.com/jobs/view/otr-reefer-drivers-at-roamer-transport-inc-4485417352",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4485423228": {
+      "title": "OTR Reefer Drivers",
+      "company": "Roamer Transport, Inc.",
+      "url": "https://www.linkedin.com/jobs/view/otr-reefer-drivers-at-roamer-transport-inc-4485423228",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4485422209": {
+      "title": "OTR Reefer Drivers",
+      "company": "Roamer Transport, Inc.",
+      "url": "https://www.linkedin.com/jobs/view/otr-reefer-drivers-at-roamer-transport-inc-4485422209",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4485418288": {
+      "title": "OTR Reefer Drivers",
+      "company": "Roamer Transport, Inc.",
+      "url": "https://www.linkedin.com/jobs/view/otr-reefer-drivers-at-roamer-transport-inc-4485418288",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4485418274": {
+      "title": "OTR Reefer Drivers",
+      "company": "Roamer Transport, Inc.",
+      "url": "https://www.linkedin.com/jobs/view/otr-reefer-drivers-at-roamer-transport-inc-4485418274",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4485953835": {
+      "title": "Entry Level, Delivery Driver - Springfield East",
+      "company": "Performance Food Group",
+      "url": "https://www.linkedin.com/jobs/view/entry-level-delivery-driver-springfield-east-at-performance-food-group-4485953835",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4485417366": {
+      "title": "OTR Reefer Drivers",
+      "company": "Roamer Transport, Inc.",
+      "url": "https://www.linkedin.com/jobs/view/otr-reefer-drivers-at-roamer-transport-inc-4485417366",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4485418286": {
+      "title": "OTR Reefer Drivers",
+      "company": "Roamer Transport, Inc.",
+      "url": "https://www.linkedin.com/jobs/view/otr-reefer-drivers-at-roamer-transport-inc-4485418286",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4485412387": {
+      "title": "OTR Reefer Drivers",
+      "company": "Roamer Transport, Inc.",
+      "url": "https://www.linkedin.com/jobs/view/otr-reefer-drivers-at-roamer-transport-inc-4485412387",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4485417346": {
+      "title": "OTR Reefer Drivers",
+      "company": "Roamer Transport, Inc.",
+      "url": "https://www.linkedin.com/jobs/view/otr-reefer-drivers-at-roamer-transport-inc-4485417346",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4485408469": {
+      "title": "OTR Reefer Drivers",
+      "company": "Roamer Transport, Inc.",
+      "url": "https://www.linkedin.com/jobs/view/otr-reefer-drivers-at-roamer-transport-inc-4485408469",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4485412392": {
+      "title": "OTR Reefer Drivers",
+      "company": "Roamer Transport, Inc.",
+      "url": "https://www.linkedin.com/jobs/view/otr-reefer-drivers-at-roamer-transport-inc-4485412392",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4485971134": {
+      "title": "CDL A Shuttle Driver",
+      "company": "Performance Food Group",
+      "url": "https://www.linkedin.com/jobs/view/cdl-a-shuttle-driver-at-performance-food-group-4485971134",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4485408472": {
+      "title": "OTR Reefer Drivers",
+      "company": "Roamer Transport, Inc.",
+      "url": "https://www.linkedin.com/jobs/view/otr-reefer-drivers-at-roamer-transport-inc-4485408472",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4485419333": {
+      "title": "OTR Reefer Drivers",
+      "company": "Roamer Transport, Inc.",
+      "url": "https://www.linkedin.com/jobs/view/otr-reefer-drivers-at-roamer-transport-inc-4485419333",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4485425299": {
+      "title": "OTR Dry Van Truck Driver, CDL-A",
+      "company": "HMD Trucking, Inc.",
+      "url": "https://www.linkedin.com/jobs/view/otr-dry-van-truck-driver-cdl-a-at-hmd-trucking-inc-4485425299",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4485419340": {
+      "title": "OTR Reefer Drivers",
+      "company": "Roamer Transport, Inc.",
+      "url": "https://www.linkedin.com/jobs/view/otr-reefer-drivers-at-roamer-transport-inc-4485419340",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4485412398": {
+      "title": "OTR Reefer Drivers",
+      "company": "Roamer Transport, Inc.",
+      "url": "https://www.linkedin.com/jobs/view/otr-reefer-drivers-at-roamer-transport-inc-4485412398",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4485413403": {
+      "title": "OTR Reefer Drivers",
+      "company": "Roamer Transport, Inc.",
+      "url": "https://www.linkedin.com/jobs/view/otr-reefer-drivers-at-roamer-transport-inc-4485413403",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4485985885": {
+      "title": "Class A CDL| Route Driver| $7,500 Sign On Bonus| 4284",
+      "company": "Denali",
+      "url": "https://www.linkedin.com/jobs/view/class-a-cdl-route-driver-%247-500-sign-on-bonus-4284-at-denali-4485985885",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4485410423": {
+      "title": "OTR Reefer Drivers",
+      "company": "Roamer Transport, Inc.",
+      "url": "https://www.linkedin.com/jobs/view/otr-reefer-drivers-at-roamer-transport-inc-4485410423",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4485427117": {
+      "title": "OTR Dry Van Truck Driver, CDL-A",
+      "company": "HMD Trucking, Inc.",
+      "url": "https://www.linkedin.com/jobs/view/otr-dry-van-truck-driver-cdl-a-at-hmd-trucking-inc-4485427117",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4485403974": {
+      "title": "OTR Dry Van Truck Driver, CDL-A",
+      "company": "HMD Trucking, Inc.",
+      "url": "https://www.linkedin.com/jobs/view/otr-dry-van-truck-driver-cdl-a-at-hmd-trucking-inc-4485403974",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4485416364": {
+      "title": "OTR Reefer Drivers",
+      "company": "Roamer Transport, Inc.",
+      "url": "https://www.linkedin.com/jobs/view/otr-reefer-drivers-at-roamer-transport-inc-4485416364",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4485415359": {
+      "title": "OTR Reefer Drivers",
+      "company": "Roamer Transport, Inc.",
+      "url": "https://www.linkedin.com/jobs/view/otr-reefer-drivers-at-roamer-transport-inc-4485415359",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4485407531": {
+      "title": "OTR Reefer Drivers",
+      "company": "Roamer Transport, Inc.",
+      "url": "https://www.linkedin.com/jobs/view/otr-reefer-drivers-at-roamer-transport-inc-4485407531",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4485424168": {
+      "title": "OTR Reefer Drivers",
+      "company": "Roamer Transport, Inc.",
+      "url": "https://www.linkedin.com/jobs/view/otr-reefer-drivers-at-roamer-transport-inc-4485424168",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4485405492": {
+      "title": "OTR Reefer Drivers",
+      "company": "Roamer Transport, Inc.",
+      "url": "https://www.linkedin.com/jobs/view/otr-reefer-drivers-at-roamer-transport-inc-4485405492",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4485418762": {
+      "title": "OTR Dry Van Truck Driver, CDL-A",
+      "company": "HMD Trucking, Inc.",
+      "url": "https://www.linkedin.com/jobs/view/otr-dry-van-truck-driver-cdl-a-at-hmd-trucking-inc-4485418762",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4485411407": {
+      "title": "OTR Reefer Drivers",
+      "company": "Roamer Transport, Inc.",
+      "url": "https://www.linkedin.com/jobs/view/otr-reefer-drivers-at-roamer-transport-inc-4485411407",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4485423238": {
+      "title": "OTR Reefer Drivers",
+      "company": "Roamer Transport, Inc.",
+      "url": "https://www.linkedin.com/jobs/view/otr-reefer-drivers-at-roamer-transport-inc-4485423238",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4485409421": {
+      "title": "OTR Reefer Drivers",
+      "company": "Roamer Transport, Inc.",
+      "url": "https://www.linkedin.com/jobs/view/otr-reefer-drivers-at-roamer-transport-inc-4485409421",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4485412396": {
+      "title": "OTR Reefer Drivers",
+      "company": "Roamer Transport, Inc.",
+      "url": "https://www.linkedin.com/jobs/view/otr-reefer-drivers-at-roamer-transport-inc-4485412396",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4485413401": {
+      "title": "OTR Reefer Drivers",
+      "company": "Roamer Transport, Inc.",
+      "url": "https://www.linkedin.com/jobs/view/otr-reefer-drivers-at-roamer-transport-inc-4485413401",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4485414781": {
+      "title": "OTR Dry Van Truck Driver, CDL-A",
+      "company": "HMD Trucking, Inc.",
+      "url": "https://www.linkedin.com/jobs/view/otr-dry-van-truck-driver-cdl-a-at-hmd-trucking-inc-4485414781",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4485419799": {
+      "title": "OTR Dry Van Truck Driver, CDL-A",
+      "company": "HMD Trucking, Inc.",
+      "url": "https://www.linkedin.com/jobs/view/otr-dry-van-truck-driver-cdl-a-at-hmd-trucking-inc-4485419799",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4485421300": {
+      "title": "OTR Reefer Drivers",
+      "company": "Roamer Transport, Inc.",
+      "url": "https://www.linkedin.com/jobs/view/otr-reefer-drivers-at-roamer-transport-inc-4485421300",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4485412393": {
+      "title": "OTR Reefer Drivers",
+      "company": "Roamer Transport, Inc.",
+      "url": "https://www.linkedin.com/jobs/view/otr-reefer-drivers-at-roamer-transport-inc-4485412393",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4485408464": {
+      "title": "OTR Reefer Drivers",
+      "company": "Roamer Transport, Inc.",
+      "url": "https://www.linkedin.com/jobs/view/otr-reefer-drivers-at-roamer-transport-inc-4485408464",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4485407529": {
+      "title": "OTR Reefer Drivers",
+      "company": "Roamer Transport, Inc.",
+      "url": "https://www.linkedin.com/jobs/view/otr-reefer-drivers-at-roamer-transport-inc-4485407529",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4485424164": {
+      "title": "OTR Reefer Drivers",
+      "company": "Roamer Transport, Inc.",
+      "url": "https://www.linkedin.com/jobs/view/otr-reefer-drivers-at-roamer-transport-inc-4485424164",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4485419335": {
+      "title": "OTR Reefer Drivers",
+      "company": "Roamer Transport, Inc.",
+      "url": "https://www.linkedin.com/jobs/view/otr-reefer-drivers-at-roamer-transport-inc-4485419335",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4485416352": {
+      "title": "OTR Reefer Drivers",
+      "company": "Roamer Transport, Inc.",
+      "url": "https://www.linkedin.com/jobs/view/otr-reefer-drivers-at-roamer-transport-inc-4485416352",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4485408471": {
+      "title": "OTR Reefer Drivers",
+      "company": "Roamer Transport, Inc.",
+      "url": "https://www.linkedin.com/jobs/view/otr-reefer-drivers-at-roamer-transport-inc-4485408471",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4485402597": {
+      "title": "OTR Reefer Drivers",
+      "company": "Roamer Transport, Inc.",
+      "url": "https://www.linkedin.com/jobs/view/otr-reefer-drivers-at-roamer-transport-inc-4485402597",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4485420294": {
+      "title": "OTR Reefer Drivers",
+      "company": "Roamer Transport, Inc.",
+      "url": "https://www.linkedin.com/jobs/view/otr-reefer-drivers-at-roamer-transport-inc-4485420294",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4485981983": {
+      "title": "Managing Director UK – Technical Sales & Business Development",
+      "company": "Lightnovo ApS",
+      "url": "https://uk.linkedin.com/jobs/view/managing-director-uk-%E2%80%93-technical-sales-business-development-at-lightnovo-aps-4485981983",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4486106012": {
+      "title": "Head of Digital Performance / Ecommerce",
+      "company": "The Talent of Tomorrow",
+      "url": "https://uk.linkedin.com/jobs/view/head-of-digital-performance-ecommerce-at-the-talent-of-tomorrow-4486106012",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4485997447": {
+      "title": "Senior Trade Marketing Manager",
+      "company": "The Talent of Tomorrow",
+      "url": "https://uk.linkedin.com/jobs/view/senior-trade-marketing-manager-at-the-talent-of-tomorrow-4485997447",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4485684723": {
+      "title": "Trainee Dispenser",
+      "company": "Boots UK",
+      "url": "https://uk.linkedin.com/jobs/view/trainee-dispenser-at-boots-uk-4485684723",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4478596242": {
+      "title": "Founding Engineers (Typescript) | 90-120k (+equity) | Early stage travel / consumer marketplace startup | x5 days pw (central/east Ldn)",
+      "company": "Owen Thomas | B Corp™",
+      "url": "https://uk.linkedin.com/jobs/view/founding-engineers-typescript-90-120k-%2Bequity-early-stage-travel-consumer-marketplace-startup-x5-days-pw-central-east-ldn-at-owen-thomas-b-corp%E2%84%A2-4478596242",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4448448207": {
+      "title": "Customer and Trading Manager - Convenience",
+      "company": "Sainsbury's",
+      "url": "https://uk.linkedin.com/jobs/view/customer-and-trading-manager-convenience-at-sainsbury-s-4448448207",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4486108025": {
+      "title": "(Hoofd)Monteur Regeltechniek",
+      "company": "Heel Hardinxveld Werkt",
+      "url": "https://nl.linkedin.com/jobs/view/hoofd-monteur-regeltechniek-at-heel-hardinxveld-werkt-4486108025",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4486104209": {
+      "title": "Leidinggevend Monteur Elektrotechniek",
+      "company": "Hollander Techniek B.V.",
+      "url": "https://nl.linkedin.com/jobs/view/leidinggevend-monteur-elektrotechniek-at-hollander-techniek-b-v-4486104209",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4486104105": {
+      "title": "Utility Locate Technician - Minneapolis, MN and Surrounding Areas",
+      "company": "Stake Center Locating",
+      "url": "https://www.linkedin.com/jobs/view/utility-locate-technician-minneapolis-mn-and-surrounding-areas-at-stake-center-locating-4486104105",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4485996399": {
+      "title": "Junior Geospatial Analyst",
+      "company": "Prescient Edge",
+      "url": "https://www.linkedin.com/jobs/view/junior-geospatial-analyst-at-prescient-edge-4485996399",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4483992678": {
+      "title": "Remote Team Pet Manager",
+      "company": "NSF NOIRLab",
+      "url": "https://www.linkedin.com/jobs/view/remote-team-pet-manager-at-nsf-noirlab-4483992678",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4485414800": {
+      "title": "RANGE CONTROL SPECIALIST V with Security Clearance",
+      "company": "InDyne",
+      "url": "https://www.linkedin.com/jobs/view/range-control-specialist-v-with-security-clearance-at-indyne-4485414800",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4485412864": {
+      "title": "Finishing Technician",
+      "company": "INTERPRINT Group",
+      "url": "https://www.linkedin.com/jobs/view/finishing-technician-at-interprint-group-4485412864",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4485984844": {
+      "title": "Corrosion Control Technician",
+      "company": "Afognak Native Corporation",
+      "url": "https://www.linkedin.com/jobs/view/corrosion-control-technician-at-afognak-native-corporation-4485984844",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4485986932": {
+      "title": "Trimmer Operator",
+      "company": "Command Companies",
+      "url": "https://www.linkedin.com/jobs/view/trimmer-operator-at-command-companies-4485986932",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4485993573": {
+      "title": "Grinder",
+      "company": "Jagemann Stamping Company",
+      "url": "https://www.linkedin.com/jobs/view/grinder-at-jagemann-stamping-company-4485993573",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4485996446": {
+      "title": "Primary Care Physician",
+      "company": "State of Nebraska",
+      "url": "https://www.linkedin.com/jobs/view/primary-care-physician-at-state-of-nebraska-4485996446",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4485995448": {
+      "title": "General Job Application (All Offices)",
+      "company": "4LEAF, Inc.",
+      "url": "https://www.linkedin.com/jobs/view/general-job-application-all-offices-at-4leaf-inc-4485995448",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4485922262": {
+      "title": "INTERNAL CANDIDATES ONLY Glasskeeper",
+      "company": "Space Needle",
+      "url": "https://www.linkedin.com/jobs/view/internal-candidates-only-glasskeeper-at-space-needle-4485922262",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4485998271": {
+      "title": "Weatherization Pre-Audit Inspector",
+      "company": "Brightpoint",
+      "url": "https://www.linkedin.com/jobs/view/weatherization-pre-audit-inspector-at-brightpoint-4485998271",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4485985898": {
+      "title": "Stacker Operator",
+      "company": "Command Companies",
+      "url": "https://www.linkedin.com/jobs/view/stacker-operator-at-command-companies-4485985898",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4485999260": {
+      "title": "Principal Recruitment Consultant",
+      "company": "Connect-AI",
+      "url": "https://uk.linkedin.com/jobs/view/principal-recruitment-consultant-at-connect-ai-4485999260",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4483991649": {
+      "title": "Sales Consultant",
+      "company": "iO Sphere",
+      "url": "https://uk.linkedin.com/jobs/view/sales-consultant-at-io-sphere-4483991649",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4471227476": {
+      "title": "Senior Project Manager, Client Services EMEA (12 month contract)",
+      "company": "Lighthouse",
+      "url": "https://uk.linkedin.com/jobs/view/senior-project-manager-client-services-emea-12-month-contract-at-lighthouse-4471227476",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4485997515": {
+      "title": "Amazon Advertising Manager (Brand-side)",
+      "company": "Vertical Advantage",
+      "url": "https://uk.linkedin.com/jobs/view/amazon-advertising-manager-brand-side-at-vertical-advantage-4485997515",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4485428080": {
+      "title": "Consultant Psychiatrist- Eating Disorders",
+      "company": "Stockport Nub News",
+      "url": "https://uk.linkedin.com/jobs/view/consultant-psychiatrist-eating-disorders-at-stockport-nub-news-4485428080",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4483989612": {
+      "title": "Sales Executive",
+      "company": "iO Sphere",
+      "url": "https://uk.linkedin.com/jobs/view/sales-executive-at-io-sphere-4483989612",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4483992771": {
+      "title": "Talent Acquisition Manager",
+      "company": "James Adams In-House",
+      "url": "https://uk.linkedin.com/jobs/view/talent-acquisition-manager-at-james-adams-in-house-4483992771",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4483992789": {
+      "title": "DevOps Engineer - AI - FinTech - £100,000-£120,000 + Bonus",
+      "company": "Hunter Bond",
+      "url": "https://uk.linkedin.com/jobs/view/devops-engineer-ai-fintech-%C2%A3100-000-%C2%A3120-000-%2B-bonus-at-hunter-bond-4483992789",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4485999182": {
+      "title": "Maintenance Engineer",
+      "company": "Omega",
+      "url": "https://uk.linkedin.com/jobs/view/maintenance-engineer-at-omega-4485999182",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4485943718": {
+      "title": "Project Manager",
+      "company": "SI ICT",
+      "url": "https://uk.linkedin.com/jobs/view/project-manager-at-si-ict-4485943718",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4450613053": {
+      "title": "Optometrist",
+      "company": "Specsavers",
+      "url": "https://uk.linkedin.com/jobs/view/optometrist-at-specsavers-4450613053",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4477847379": {
+      "title": "Forward Deployed Engineer",
+      "company": "monday.com",
+      "url": "https://uk.linkedin.com/jobs/view/forward-deployed-engineer-at-monday-com-4477847379",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4485986998": {
+      "title": "Senior Procurement Consultant - Infrastructure",
+      "company": "Investigo",
+      "url": "https://uk.linkedin.com/jobs/view/senior-procurement-consultant-infrastructure-at-investigo-4485986998",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4434040189": {
+      "title": "User Researcher",
+      "company": "CGI",
+      "url": "https://uk.linkedin.com/jobs/view/user-researcher-at-cgi-4434040189",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4475215954": {
+      "title": "Senior Software Engineer — AI-Native Engineering (XTM Foundation)",
+      "company": "Filigran",
+      "url": "https://uk.linkedin.com/jobs/view/senior-software-engineer-%E2%80%94-ai-native-engineering-xtm-foundation-at-filigran-4475215954",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4483945708": {
+      "title": "PREMIER CENTRAL LONDON CONSULTANCY: Senior Structural Engineer",
+      "company": "The Structural Engineer Jobs",
+      "url": "https://uk.linkedin.com/jobs/view/premier-central-london-consultancy-senior-structural-engineer-at-the-structural-engineer-jobs-4483945708",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4484303334": {
+      "title": "CS & QA LEAD",
+      "company": "Marvelsoft",
+      "url": "https://hk.linkedin.com/jobs/view/cs-qa-lead-at-marvelsoft-4484303334",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4483990850": {
+      "title": "SALES & ACCOUNT MANAGER",
+      "company": "Marvelsoft",
+      "url": "https://hk.linkedin.com/jobs/view/sales-account-manager-at-marvelsoft-4483990850",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4485430013": {
+      "title": "Senior SASE & Cloud Security Engineer",
+      "company": "Optimum Solutions Pte Ltd",
+      "url": "https://sg.linkedin.com/jobs/view/senior-sase-cloud-security-engineer-at-optimum-solutions-pte-ltd-4485430013",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4485424684": {
+      "title": "Server Engineer（AI Cluster/GPU）",
+      "company": "PaleBlueDot AI",
+      "url": "https://sg.linkedin.com/jobs/view/server-engineer%EF%BC%88ai-cluster-gpu%EF%BC%89-at-palebluedot-ai-4485424684",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4483998451": {
+      "title": "Platform Engineer - Reliability - FinTech - $140,000-$220,000 SGD + Bonus",
+      "company": "Hunter Bond",
+      "url": "https://sg.linkedin.com/jobs/view/platform-engineer-reliability-fintech-%24140-000-%24220-000-sgd-%2B-bonus-at-hunter-bond-4483998451",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4477291635": {
+      "title": "Cyber Risk Assurance Consultant",
+      "company": "Ensign InfoSecurity",
+      "url": "https://sg.linkedin.com/jobs/view/cyber-risk-assurance-consultant-at-ensign-infosecurity-4477291635",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4485991887": {
+      "title": "Power Platform",
+      "company": "E-Solutions",
+      "url": "https://sg.linkedin.com/jobs/view/power-platform-at-e-solutions-4485991887",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4486110033": {
+      "title": "Process Engineer 2",
+      "company": "Skyworks Solutions, Inc.",
+      "url": "https://sg.linkedin.com/jobs/view/process-engineer-2-at-skyworks-solutions-inc-4486110033",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4485411831": {
+      "title": "Law Enforcement Response Team Specialist (APAC)",
+      "company": "TikTok",
+      "url": "https://sg.linkedin.com/jobs/view/law-enforcement-response-team-specialist-apac-at-tiktok-4485411831",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4473341764": {
+      "title": "Portfolio Manager - Multifamily (East End Pittsburgh)",
+      "company": "Lobos Management",
+      "url": "https://www.linkedin.com/jobs/view/portfolio-manager-multifamily-east-end-pittsburgh-at-lobos-management-4473341764",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4484308086": {
+      "title": "Program Lead, Automation",
+      "company": "Vantive",
+      "url": "https://sg.linkedin.com/jobs/view/program-lead-automation-at-vantive-4484308086",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4484311014": {
+      "title": "Associate Director, Commercial Operations – APAC",
+      "company": "Vantive",
+      "url": "https://sg.linkedin.com/jobs/view/associate-director-commercial-operations-%E2%80%93-apac-at-vantive-4484311014",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4477842674": {
+      "title": "AVP, UW&C Services, Protection, SEA & India",
+      "company": "Pacific Life",
+      "url": "https://sg.linkedin.com/jobs/view/avp-uw-c-services-protection-sea-india-at-pacific-life-4477842674",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4468639944": {
+      "title": "Account Manager (AVP/VP)",
+      "company": "Bank of Singapore, Asia’s Global Private Bank",
+      "url": "https://sg.linkedin.com/jobs/view/account-manager-avp-vp-at-bank-of-singapore-asia%E2%80%99s-global-private-bank-4468639944",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4475256163": {
+      "title": "Commercial Manager, Insurance",
+      "company": "Kpler",
+      "url": "https://sg.linkedin.com/jobs/view/commercial-manager-insurance-at-kpler-4475256163",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4486109087": {
+      "title": "Account Manager, GSS Distributors UK, Ireland & Nordics,",
+      "company": "Baxter International Inc.",
+      "url": "https://uk.linkedin.com/jobs/view/account-manager-gss-distributors-uk-ireland-nordics-at-baxter-international-inc-4486109087",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
+    },
+    "4486103349": {
+      "title": "enior Key Account Executive / Key Account Executive / Senior Sales Representative / Sales Representative",
+      "company": "Bristol Myers Squibb",
+      "url": "https://hk.linkedin.com/jobs/view/enior-key-account-executive-key-account-executive-senior-sales-representative-sales-representative-at-bristol-myers-squibb-4486103349",
+      "seen_at": "2026-11-01T21:20:03.858905",
+      "relevant": false
     }
   },
   "Stepstone Group": {
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://boards-api.greenhouse.io/v1/boards/stepstone/jobs",
     "notion_page_id": "37aea971-7118-814b-95ea-f16faf197c76",
     "seen_jobs": [
@@ -1997546,7 +1999131,7 @@
   },
   "PDT Partners": {
     "hash": "0ae6cbf4baa5a6e966e9df57d4c3bc965a81d5b43ff52e88b10465de6993af65",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://boards-api.greenhouse.io/v1/boards/pdtpartners/jobs",
     "notion_page_id": "58a14aa6-053d-435f-a6ec-bd1f05c04b58",
     "seen_jobs": [
@@ -1997596,7 +1999181,7 @@
     ]
   },
   "Systematica Investments": {
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://systematica.pinpointhq.com/postings.json",
     "notion_page_id": "81c6204b-5a6b-4430-b13e-08ef1c7b729f",
     "seen_jobs": [
@@ -1997612,7 +1999197,7 @@
   },
   "XTX Markets": {
     "hash": "2685f0280065febe7c75c42387326be5dd1856818199a46462940fabfc21c8c9",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://boards-api.greenhouse.io/v1/boards/xtxmarketstechnologies/jobs?content=true",
     "notion_page_id": "fd3eaac5-f4d6-4212-b976-871593bad4ed",
     "seen_jobs": [
@@ -1997648,10 +1999233,10 @@
     ]
   },
   "DRW": {
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://job-boards.greenhouse.io/drweng",
     "notion_page_id": "379ea971-7118-815d-b707-d409bfe0f248",
-    "hash": "ab5a2296d5ce958d4180f3efdf582c0006b04dd014efe3f8c45110faaedf8269",
+    "hash": "99bbac0292d47754ca73593c87582bc6f11c8dd4542476fde0b9955d0a6a6ead",
     "seen_jobs": [
       "gh:5100405",
       "gh:5851712",
@@ -1997915,8 +1999500,8 @@
     ]
   },
   "Tower Research Capital": {
-    "hash": "469eeaad58048bddb03a97d839c5d515bed475f27476823a16f3b477014e7aa7",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "hash": "27f4b9d8b8aa0f8dab9138157731b9b64047760f0eee2672f57151a40397c8b3",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://boards-api.greenhouse.io/v1/boards/towerresearchcapital/jobs?content=true",
     "notion_page_id": "379ea971-7118-8107-b70e-e587d7df8f16",
     "seen_jobs": [
@@ -1998242,7 +1999827,7 @@
       "https://cybercrime.gov.in",
       "https://www.aqr.com/Contact-Us"
     ],
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://boards-api.greenhouse.io/v1/boards/aqr/jobs?content=true",
     "notion_page_id": "379ea971-7118-8138-a690-e2acecf9a742"
   },
@@ -1998339,7 +1999924,7 @@
       "wd:R-02107",
       "© 2026 Workday, Inc. All rights reserved."
     ],
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://pinebridge.wd5.myworkdayjobs.com/PineBridge_Career_Site",
     "notion_page_id": "37aea971-7118-8160-a2f7-c8e4b8c2179d"
   },
@@ -1998378,7 +1999963,7 @@
       "wd:R0023355",
       "© 2026 Workday, Inc. All rights reserved."
     ],
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://nasdaq.wd1.myworkdayjobs.com/US_External_Career_Site",
     "notion_page_id": "37aea971-7118-810b-989b-ecd95f34ab0e"
   },
@@ -1998752,12 +2000337,12 @@
       "wd:R26_0563",
       "© 2026 Workday, Inc. All rights reserved."
     ],
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://group1001wd.wd5.myworkdayjobs.com/Careers",
     "notion_page_id": "37aea971-7118-8115-b460-eab7f22d6728"
   },
   "Northwest Bank": {
-    "hash": "1cbb64e4c2d0724cb8d894ab80615a33c87b0016d52a7cc7b1e27a00e42cf3f3",
+    "hash": "519de4c40c7f8f1c9f6a00c85cfcfdec3ae667a8864c95e5da2546575f5c5edd",
     "seen_jobs": [
       "1 - 20 of 135 jobs",
       "1 - 20 of 137 jobs",
@@ -1999171,7 +2000756,7 @@
       "wd:R-102513",
       "© 2026 Workday, Inc. All rights reserved."
     ],
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://northwest.wd1.myworkdayjobs.com/Northwest_Careers",
     "notion_page_id": "37aea971-7118-816b-8bdd-ec557af03cbd"
   },
@@ -1999181,7 +2000766,7 @@
       "Current Opportunities | Orbis | Careers",
       "This page has been updated"
     ],
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://www.orbis.com/careers/careers/opportunities/current-opportunities",
     "notion_page_id": "37aea971-7118-8188-99ec-d406e6293505"
   },
@@ -1999393,7 +2000978,7 @@
       "wd:R0012791",
       "© 2026 Workday, Inc. All rights reserved."
     ],
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "http://nb.wd1.myworkdayjobs.com/nbcareers",
     "notion_page_id": "37aea971-7118-81fb-802c-f7153d38c0c8"
   },
@@ -1999621,7 +2001206,7 @@
       "wd:R4047",
       "© 2026 Workday, Inc. All rights reserved."
     ],
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://elliottgroup.wd5.myworkdayjobs.com/ElliottCareers",
     "notion_page_id": "37aea971-7118-810a-88bb-e57a565d7611"
   },
@@ -1999702,7 +2001287,7 @@
       "wd:R1557",
       "© 2026 Workday, Inc. All rights reserved."
     ],
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://arrowstreetcapital.wd5.myworkdayjobs.com/en-US/Campus_Careers/job/Boston/Quantitative-Researcher_R1066-5",
     "notion_page_id": "37aea971-7118-812a-9fcd-da01e5e59b84"
   },
@@ -1999831,7 +2001416,7 @@
       "wd:46053",
       "© 2026 Workday, Inc. All rights reserved."
     ],
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "http://blackstone.wd1.myworkdayjobs.com/Blackstone_Campus_Careers",
     "notion_page_id": "37aea971-7118-814d-ba0e-f72c3ddf5966"
   },
@@ -2000129,7 +2001714,7 @@
       "wd:R260029662",
       "wd:R260030299"
     ],
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://bmo.wd3.myworkdayjobs.com/wday/cxs/bmo/External/jobs",
     "notion_page_id": "37aea971-7118-81a7-9af7-dcfbb13e6eb5"
   },
@@ -2000227,7 +2001812,7 @@
       "will have two main areas of focus. The first area is portfolio analysis, specifically, conducting and supporting research efforts on portfolio construction, management, and thought leadership in the field of asset allocation. The second area of focus relates to production duties for the multi-asset strategy team. This will include ongoing reporting in support of the funds, such as performance and risk attribution, and running tactical models.",
       "© 2026 Workday, Inc. All rights reserved."
     ],
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://americancentury.wd5.myworkdayjobs.com/en-US/AmericanCenturyInvestments/job/Santa-Clara-California/Quantitative-Analyst_R0005644",
     "notion_page_id": "37aea971-7118-81d3-955c-e70dc7f3cfcf"
   },
@@ -2001055,7 +2002640,7 @@
       "wd:JR18311",
       "© 2026 Workday, Inc. All rights reserved."
     ],
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://acg.wd1.myworkdayjobs.com/Careers",
     "notion_page_id": "37aea971-7118-81df-b1b0-e400a38b7793"
   },
@@ -2001645,12 +2003230,12 @@
       "wd:JR1087123",
       "© 2026 Workday, Inc. All rights reserved."
     ],
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://broadridge.wd5.myworkdayjobs.com/Careers",
     "notion_page_id": "37aea971-7118-81e1-a0af-cb260da5ab56"
   },
   "Allstate": {
-    "hash": "d05347654a5fd3e5c2dcaa8f05f8f2785c9532761215f97740e234851b10c264",
+    "hash": "6fe0eb659f080e7ed7132b0481a44c9b55dde41330a4375a747e69181997b394",
     "seen_jobs": [
       "1 - 20 of 419 jobs",
       "1 - 20 of 422 jobs",
@@ -2003014,7 +2004599,7 @@
       "wd:R36640",
       "© 2026 Workday, Inc. All rights reserved."
     ],
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://allstate.wd5.myworkdayjobs.com/allstate_careers",
     "notion_page_id": "37aea971-7118-81f2-8d7f-c7e1467aafdd"
   },
@@ -2003205,12 +2004790,12 @@
       "wd:2622544",
       "wd:2622551"
     ],
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://cibc.wd3.myworkdayjobs.com/wday/cxs/cibc/campus/jobs",
     "notion_page_id": "37aea971-7118-81f2-9d8b-f8e98c564220"
   },
   "Sunrise Partners": {
-    "hash": "de862b2986371afef84fc2be089bce34b83675e4d0775e4e21e39da3dbccce21",
+    "hash": "b3eef845ce8a66d3313db74d97c605d6e89dad290b43164c140cda06b276c41b",
     "seen_jobs": [
       "Reference #18.1069dc17.1791293646.15fdf0b7",
       "Reference #18.1271ca17.1786977801.223d1df6",
@@ -2003291,6 +2004876,7 @@
       "Reference #18.6b743617.1793137327.3d7be297",
       "Reference #18.6b743617.1793311943.2a87ae24",
       "Reference #18.6b743617.1793367718.3ca2ad0a",
+      "Reference #18.6b743617.1793568905.7e67760d",
       "Reference #18.6c24c317.1785253491.d27a5358",
       "Reference #18.6c24c317.1785339724.2f660ce",
       "Reference #18.6c24c317.1785427782.17e4ef22",
@@ -2003477,6 +2005063,7 @@
       "https://errors.edgesuite.net/18.6b743617.1793137327.3d7be297",
       "https://errors.edgesuite.net/18.6b743617.1793311943.2a87ae24",
       "https://errors.edgesuite.net/18.6b743617.1793367718.3ca2ad0a",
+      "https://errors.edgesuite.net/18.6b743617.1793568905.7e67760d",
       "https://errors.edgesuite.net/18.6c24c317.1785253491.d27a5358",
       "https://errors.edgesuite.net/18.6c24c317.1785339724.2f660ce",
       "https://errors.edgesuite.net/18.6c24c317.1785427782.17e4ef22",
@@ -2003584,12 +2005171,12 @@
       "https://errors.edgesuite.net/18.f182117.1792948745.ed0f07c",
       "www.sunrisepartners.com"
     ],
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://www.sunrisepartners.com/careers/",
     "notion_page_id": "0adb3fce-cb85-4cc8-91a8-8842482a4a0f"
   },
   "Element Capital": {
-    "hash": "b5de82f9804a4c3eb4765197163e24ba99360c44488d55bb3cc621c34263ce13",
+    "hash": "6f88828e3980052cf14d5740d39c4a4f172bb48d483769e27ee0d2dab9ad564f",
     "seen_jobs": [
       "Reference #18.1071ca17.1792703410.b5cf987f",
       "Reference #18.11dfda17.1792934630.5fdf8dd",
@@ -2003671,6 +2005258,7 @@
       "Reference #18.6b743617.1793311971.2a8a1664",
       "Reference #18.6b743617.1793367747.3ca4fc15",
       "Reference #18.6b743617.1793386435.42a9a689",
+      "Reference #18.6b743617.1793568934.7e694777",
       "Reference #18.6c24c317.1784668163.49b68c6b",
       "Reference #18.6c24c317.1785253502.d27b04c2",
       "Reference #18.6c24c317.1785339735.2f6fad0",
@@ -2003854,6 +2005442,7 @@
       "https://errors.edgesuite.net/18.6b743617.1793311971.2a8a1664",
       "https://errors.edgesuite.net/18.6b743617.1793367747.3ca4fc15",
       "https://errors.edgesuite.net/18.6b743617.1793386435.42a9a689",
+      "https://errors.edgesuite.net/18.6b743617.1793568934.7e694777",
       "https://errors.edgesuite.net/18.6c24c317.1784668163.49b68c6b",
       "https://errors.edgesuite.net/18.6c24c317.1785253502.d27b04c2",
       "https://errors.edgesuite.net/18.6c24c317.1785339735.2f6fad0",
@@ -2003957,7 +2005546,7 @@
       "https://errors.edgesuite.net/18.f182117.1792948782.ed36478",
       "www.elementcap.com"
     ],
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://www.elementcap.com/careers/",
     "notion_page_id": "a9495a02-195f-4b74-b80a-22588b1acd6f"
   },
@@ -2004226,12 +2005815,12 @@
       "ba:26040173"
     ],
     "hash": "b6f09f4744a06cb5f000a0e10f892d12f24acac7e4786d7c498751b95b0ffd7f",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://careers.bankofamerica.com/services/jobssearchservlet",
     "notion_page_id": "736951b1-8e0e-47d4-8405-eb4cd315bb14"
   },
   "Citadel Securities": {
-    "hash": "7d5c76c3eed4fc69d682422613f8cc6948832dc83542726dbcfe51ac4552c91d",
+    "hash": "84f2ec259ac657cb86195ccd0b41ce0319522220dcb654d5639cea837dfd9f56",
     "seen_jobs": [
       "Checking your Browser…",
       "Enable JavaScript and cookies to continue",
@@ -2004420,9 +2006009,10 @@
       "a53571dfaac59837",
       "a53b29bff9af72ea",
       "a53cf2fafe0f5397",
+      "a53df1033fdfaced",
       "www.citadelsecurities.com"
     ],
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://www.citadelsecurities.com/careers/open-opportunities/",
     "notion_page_id": "379ea971-7118-8194-b110-f217a0c25795"
   },
@@ -2005354,12 +2006944,12 @@
       "XVA Process Officer Trainee",
       "Zürich, Switzerland"
     ],
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://careers.societegenerale.com/en/Technical/all-job-offers",
     "notion_page_id": "37aea971-7118-8114-9923-c3bc72df8794"
   },
   "StoneX": {
-    "hash": "640dc47194da3e90047efee80b2d577ff0be70b99f5406fb4f6b946786a09481",
+    "hash": "dcce6bd5eef0fbbae5e29afff69f367bf0f609d7db5a8b7327a73e9881fdccbd",
     "seen_jobs": [
       "Checking your Browser…",
       "Enable JavaScript and cookies to continue",
@@ -2005546,14 +2007136,15 @@
       "a5347c741e2dccd3",
       "a53574574c56e091",
       "a53b2c9d78b260b7",
-      "a53cf6345fbe3ccc"
+      "a53cf6345fbe3ccc",
+      "a53df3d89f2aff48"
     ],
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://www.stonex.com/en/about/careers/jobs/",
     "notion_page_id": "37aea971-7118-8142-a4f2-f127b3934f7f"
   },
   "TWG Global": {
-    "hash": "8f97928ad19ccad370e10c5945a64dc3599a75221097c181cfd156a6c9466081",
+    "hash": "247fda01659fb8358ccdc66064e7d57c78e916e2e280465bb395b79dce6cbfd8",
     "seen_jobs": [
       "2600:387:15:5b12::4",
       "2600:4041:4ba:200:11ff:9cf3:ea52:8b20",
@@ -2005754,14 +2007345,15 @@
       "a5347f8738152ec6",
       "a53576dce873c984",
       "a53b2f6eec9041cb",
-      "a53cf93aad332ae5"
+      "a53cf93aad332ae5",
+      "a53df6d5985d510a"
     ],
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://www.twgglobal.com/careers/",
     "notion_page_id": "37aea971-7118-81af-9112-f5e16a935877"
   },
   "Mackenzie Investments": {
-    "hash": "1e7ae54f46fe37c6778d94cc6e9312eed2e2bfc96c5310b0abcdb941cee5ee57",
+    "hash": "69f13ad0192357dfdb0689d347fed36f2eb6d7ac5e113e39da0b94abda1d14c9",
     "seen_jobs": [
       "Checking your Browser…",
       "Enable JavaScript and cookies to continue",
@@ -2005948,9 +2007540,10 @@
       "a5357a15db372034",
       "a53b3254de10f60e",
       "a53cfc594d260a82",
+      "a53df9ef2d2caccc",
       "www.mackenzieinvestments.com"
     ],
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://www.mackenzieinvestments.com/en/careers",
     "notion_page_id": "37aea971-7118-8137-8097-d1e7cc9e8517"
   },
@@ -2006275,12 +2007868,12 @@
       "wd:JR26101650",
       "wd:JR26101766"
     ],
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://manulife.wd3.myworkdayjobs.com/wday/cxs/manulife/MFCJH_Jobs/jobs",
     "notion_page_id": "37aea971-7118-8164-b7a9-fe629af58766"
   },
   "OCC (Options Clearing Corporation)": {
-    "hash": "a82607117ed2dc26493a0cd7449b9868eec4caa426771883fc020056d9271f62",
+    "hash": "0640572c93af6ea28f3586f208c64eaf2d425d8d1057db550e05a9474011e697",
     "seen_jobs": [
       "Checking your Browser…",
       "Enable JavaScript and cookies to continue",
@@ -2006466,9 +2008059,10 @@
       "a534876b6fc708af",
       "a5357f2048c2d6d1",
       "a53b37814aafeacc",
-      "a53d01991f81b38d"
+      "a53d01991f81b38d",
+      "a53dff5958286abb"
     ],
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://www.theocc.com/careers",
     "notion_page_id": "37aea971-7118-81a2-bc58-d25216e7d8c2"
   },
@@ -2006477,12 +2008071,12 @@
     "seen_jobs": [
       "Your request was blocked."
     ],
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://bgcg.com/careers",
     "notion_page_id": "37aea971-7118-812c-97b7-e8d2906cc1f0"
   },
   "Chatham Financial": {
-    "hash": "8073695f979228011ee743e98a750a2c5d62dadfce44cfc102ae9716076de3a4",
+    "hash": "419125d25176b4a451f3b1f6419c07a7feb3aa2126ddade3329d8cf372409110",
     "seen_jobs": [
       "1-20 of 21 results",
       "1-20 of 22 results",
@@ -2006561,12 +2008155,12 @@
       "We use cookies to improve your experience and analyze site usage.",
       "When you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to. The information does not usually directly identify you, but it can give you a more personalized web experience. Because we respect your right to privacy, you can choose not to allow some types of cookies. Click on the different category headings to find out more and change our default settings. Please note that blocking some types of cookies may impact your experience of the site and the services we are able to offer."
     ],
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://www.chathamfinancial.com/careers/jobs",
     "notion_page_id": "37aea971-7118-8153-a703-f8b0ccfcea86"
   },
   "Citadel": {
-    "hash": "b9179990797414894887e0f3ecd5833df2d56e0281ca0ef12c1704a80879c17f",
+    "hash": "dc5831217c89dda1e08851feb2e5b2290e481246e4512882b2afc4a416de70f1",
     "seen_jobs": [
       "Checking your Browser…",
       "Enable JavaScript and cookies to continue",
@@ -2006750,14 +2008344,15 @@
       "a5348f4f4f5355f7",
       "a535854a194c553b",
       "a53b3ee0aa8df15f",
-      "a53d09a6dd079dea"
+      "a53d09a6dd079dea",
+      "a53e07c5cc9b4cbc"
     ],
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://www.citadel.com/careers/open-opportunities/",
     "notion_page_id": "a994839c-66a5-4cea-9900-da058cc21092"
   },
   "Man Group (AHL)": {
-    "hash": "e8c36b507ca0603acba4bba8fbf7ff6432435f9a03eba5f4851c5a1dbc961458",
+    "hash": "6c71d8bd302f4741dee05b47720e8733b2e2d1bd07c9356cd03769a15ddd328f",
     "seen_jobs": [
       "gh:4501940101",
       "gh:4672725101",
@@ -2006903,7 +2008498,7 @@
       "gh:5019535101",
       "gh:5019539101"
     ],
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://boards-api.greenhouse.io/v1/boards/mangroup/jobs",
     "notion_page_id": "379ea971-7118-81ac-a7e8-e580589129de"
   },
@@ -2006974,7 +2008569,7 @@
       "gh:8268873",
       "gh:8336346"
     ],
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://boards-api.greenhouse.io/v1/boards/mavensecuritiesholdingltd/jobs",
     "notion_page_id": "37aea971-7118-81a5-917d-fa4434b36162"
   },
@@ -2008644,7 +2010239,7 @@
       "wd:R999993",
       "© 2026 Workday, Inc. All rights reserved."
     ],
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://capitalone.wd12.myworkdayjobs.com/wday/cxs/capitalone/Capital_One/jobs",
     "notion_page_id": "643305de-9849-4b30-a7bb-a620624dee38"
   },
@@ -2010354,12 +2011949,12 @@
       "wd:R999993",
       "© 2026 Workday, Inc. All rights reserved."
     ],
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://capitalone.wd12.myworkdayjobs.com/wday/cxs/capitalone/Capital_One/jobs",
     "notion_page_id": "8a54bb37-d7b9-4bdc-a924-4259fd6dae6d"
   },
   "DV Trading": {
-    "hash": "06698cfd950ebef123af3241f65677d0f32583957f0bc7c50792f19c22f64349",
+    "hash": "e966a82a822d7958e7a4000cc8325c04f6b6448e66ad029ec8e8c55287d230a4",
     "seen_jobs": [
       "gh:4018000005",
       "gh:4219811005",
@@ -2010470,7 +2012065,7 @@
       "gh:4749008005",
       "gh:4749057005"
     ],
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://boards-api.greenhouse.io/v1/boards/dvtrading/jobs",
     "notion_page_id": "37aea971-7118-817d-a6fd-d8405bb435c9"
   },
@@ -2012635,12 +2014230,12 @@
       "tb:46484570752",
       "tb:46511792576"
     ],
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://careers.ing.com/search-jobs/results",
     "notion_page_id": "37aea971-7118-816b-8152-dbc38992a0bc"
   },
   "Citi": {
-    "hash": "d65dd968f1c2b8193d778b110e27e12f9f08e60fb85eecfa3d985034cd109205",
+    "hash": "d12b27175f8bcd336ecd404dd4655962c5a36578f2882afefe80cc645c4eb072",
     "seen_jobs": [
       "tb:100019901232",
       "tb:100019902832",
@@ -2030216,7 +2031811,7 @@
       "tb:99995270704",
       "tb:99997149600"
     ],
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://jobs.citi.com/search-jobs/results",
     "notion_page_id": "37aea971-7118-8157-90b0-f34d8e001734"
   },
@@ -2031094,7 +2032689,7 @@
       "tb:99991978224",
       "tb:99991980224"
     ],
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://careers.blackrock.com/search-jobs/results",
     "notion_page_id": "37aea971-7118-8170-913f-da5bef4418fa"
   },
@@ -2034495,12 +2036090,12 @@
       "tb:99998906096",
       "tb:99998906336"
     ],
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://search.jobs.barclays/search-jobs/results",
     "notion_page_id": "37aea971-7118-818b-8482-fd06a4518849"
   },
   "Charles Schwab": {
-    "hash": "75fa1a3e83f6bce29fe241c418e56ff91ba4dd0f014e0c21f525e2e9141735c4",
+    "hash": "3c1f6ccd3d63afa1ce9876c1a6fee2e2fac231024ed40aa2ba44b08d5c88d039",
     "seen_jobs": [
       "tb:100000483184",
       "tb:100004750256",
@@ -2036469,7 +2038064,7 @@
       "tb:99991459936",
       "tb:99996898544"
     ],
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://www.schwabjobs.com/search-jobs/results",
     "notion_page_id": "37aea971-7118-81d5-8944-dfaace4ea90d"
   },
@@ -2036487,7 +2038082,7 @@
       "gh:4745145005",
       "gh:4748936005"
     ],
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://boards-api.greenhouse.io/v1/boards/chicagotradingcampus/jobs",
     "notion_page_id": "5b95ef77-9f08-4926-a1c4-414f07bd0dd0"
   },
@@ -2036597,7 +2038192,7 @@
   },
   "Russell Investments": {
     "hash": "50c4ca79834f07bdf2554b730d302a12d251127b7fdea1b420ae33941a2cb0ea",
-    "last_checked": "2026-11-01T18:26:37.983317",
+    "last_checked": "2026-11-01T21:20:03.858905",
     "url": "https://russell.wd5.myworkdayjobs.com/wday/cxs/russell/russellinvestments/jobs",
     "notion_page_id": "a4ebf0fb-2cbf-478d-bca6-52729f413ed9",
     "seen_jobs": [
