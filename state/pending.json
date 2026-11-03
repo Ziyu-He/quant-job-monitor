@@ -83,5 +83,23 @@
     "url": "https://www.linkedin.com/jobs/view/4487044158",
     "source": "linkedin",
     "location": "New York, NY"
+  },
+  {
+    "company": "T. Rowe Price",
+    "roles": "Quantitative Investment Analyst",
+    "reason": "The posting is a full-time quantitative analyst role in Baltimore, MD, with no stated experience requirement exceeding the candidate's 0-2 year limit.",
+    "url": "https://troweprice.wd5.myworkdayjobs.com/en-US/TRowePrice",
+    "job_links": [
+      "https://troweprice.wd5.myworkdayjobs.com/en-US/TRowePrice/job/Baltimore-MD/Quantitative-Investment-Analyst_84313"
+    ],
+    "source": "careers"
+  },
+  {
+    "company": "Referment",
+    "roles": "Quantitative Analyst",
+    "reason": "The role is a Quantitative Analyst in systematic trading research, and the JD says it 'could suit a recent graduate or early-career researcher,' with no minimum experience of 3+ years stated.",
+    "url": "https://www.linkedin.com/jobs/view/4487026885",
+    "source": "linkedin",
+    "location": "New York, NY"
   }
 ]
