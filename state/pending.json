@@ -1,0 +1,87 @@
+[
+  {
+    "company": "Millennium Management",
+    "roles": "Quantitative Researcher – Market Impact Modeling",
+    "reason": "Only the London-based Quantitative Researcher – Market Impact Modeling role matches the candidate’s target quantitative research function and acceptable location; the other postings are product/operations/risk roles outside the specified targets.",
+    "url": "https://mlp.eightfold.ai/api/apply/v2/jobs?domain=mlp.com",
+    "job_links": [
+      "https://mlp.eightfold.ai/careers/job/755959590097"
+    ],
+    "source": "careers"
+  },
+  {
+    "company": "Bank of America",
+    "roles": "Quantitative Finance Manager - Stress Testing Design, Quantitative Engineer",
+    "reason": "Both postings are US-based quantitative finance/engineering roles with no stated experience requirement exceeding the candidate's limit.",
+    "url": "https://careers.bankofamerica.com/en-us/search",
+    "job_links": [
+      "https://careers.bankofamerica.com/en-us/job-detail/26040539/quantitative-finance-manager-stress-testing-design-charlotte-north-carolina-united-states",
+      "https://careers.bankofamerica.com/en-us/job-detail/26040556/quantitative-engineer-multiple-locations"
+    ],
+    "source": "careers"
+  },
+  {
+    "company": "U.S. Bank",
+    "roles": "FX Trading Associate",
+    "reason": "FX Trading Associate is an entry-level/junior trading role on an FX desk in New York, with no stated experience minimum or senior/management title.",
+    "url": "https://usbank.wd1.myworkdayjobs.com/en-US/US_Bank_Careers",
+    "job_links": [
+      "https://usbank.wd1.myworkdayjobs.com/en-US/US_Bank_Careers/job/New-York-NY/FX-Trading-Associate_2026-0034348"
+    ],
+    "source": "careers"
+  },
+  {
+    "company": "Societe Generale",
+    "roles": "Junior Quantitative Advisor-QIS",
+    "reason": "Only the Junior Quantitative Advisor-QIS posting matches the candidate's entry-level quantitative target, while the other postings are non-target functions, V.I.E/temporary programs, or software-engineering roles.",
+    "url": "https://careers.societegenerale.com/en/Technical/all-job-offers",
+    "job_links": [
+      "https://careers.societegenerale.com/en/job-offers/junior-quantitative-advisor-qis-26000N1G-en"
+    ],
+    "source": "careers"
+  },
+  {
+    "company": "JPMorgan",
+    "roles": "Quant Analytics Senior Associate - Digital Analytics",
+    "reason": "The Quant Analytics Senior Associate role in Jersey City appears to be a quantitative analytics role in a supported US location with no stated experience minimum above the candidate's limit.",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?siteNumber=CX_1001",
+    "job_links": [
+      "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210805290"
+    ],
+    "source": "careers"
+  },
+  {
+    "company": "Goldman Sachs Asset Management",
+    "roles": "Asset & Wealth Management, Portfolio Management, FX Trading Analyst, New York",
+    "reason": "The FX Trading Analyst role in New York is an entry-level trading/portfolio-management position in a preferred US location, while the Operations Fees & Commissions role is non-quant operations and not relevant.",
+    "url": "https://api-higher.gs.com/gateway/api/v1/graphql",
+    "job_links": [
+      "https://higher.gs.com/roles/187237"
+    ],
+    "source": "careers"
+  },
+  {
+    "company": "FICO",
+    "roles": "Analytic Scientist I",
+    "reason": "The role is an entry-level Analytic Scientist I position based in the US with no stated years requirement, and its core work to 'Design and develop exploratory analyses and predictive models' fits the quantitative analyst function.",
+    "url": "https://www.linkedin.com/jobs/view/4486896973",
+    "source": "linkedin",
+    "location": "San Rafael, CA"
+  },
+  {
+    "company": "UBS",
+    "roles": "Quantitative Analyst - Rates",
+    "reason": "The role is a 'Quantitative Analyst - Rates' with no stated minimum years of experience, fitting the candidate's entry-level quantitative analyst target and US location.",
+    "url": "https://www.linkedin.com/jobs/view/4486065788",
+    "source": "linkedin",
+    "location": "New York, United States"
+  },
+  {
+    "company": "U.S. Bank",
+    "roles": "FX Trading Associate",
+    "reason": "The role is an FX Trading Associate on a trading desk in New York, NY, and the stated FX experience requirement is '2–3 years,' whose upper bound is 3 and therefore matches the candidate’s junior trading role criteria.",
+    "url": "https://www.linkedin.com/jobs/view/4487044158",
+    "source": "linkedin",
+    "location": "New York, NY"
+  }
+]
