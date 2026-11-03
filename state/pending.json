@@ -94,5 +94,21 @@
     "url": "https://www.linkedin.com/jobs/view/4484394738",
     "source": "linkedin",
     "location": "San Antonio, TX"
+  },
+  {
+    "company": "BOK Financial",
+    "roles": "Quantitative Modeling Analyst",
+    "reason": "The role is a quantitative modeling analyst position requiring only a minimum of 1 year of quantitative analysis experience and involving statistical modeling, SQL, Python/R, and model development, which fits the candidate's entry-level quantitative analyst target.",
+    "url": "https://www.linkedin.com/jobs/view/4486464451",
+    "source": "linkedin",
+    "location": "Tulsa, OK"
+  },
+  {
+    "company": "FICO",
+    "roles": "Analytic Scientist II",
+    "reason": "The role is an analytical modeling position that requires designing predictive/decision models and statistical/ML analysis, with no explicit minimum years stated, and it is located in California.",
+    "url": "https://www.linkedin.com/jobs/view/4486474126",
+    "source": "linkedin",
+    "location": "San Rafael, CA"
   }
 ]
