@@ -1,0 +1,78 @@
+[
+  {
+    "company": "Millennium Management",
+    "roles": "Quantitative Researcher – Market Impact Modeling",
+    "reason": "The New York Quantitative Researcher role matches the candidate's target quantitative function and location with no stated disqualifying experience requirement, while the Finance Analyst role is not a targeted quant/trading/index/portfolio function.",
+    "url": "https://mlp.eightfold.ai/api/apply/v2/jobs?domain=mlp.com",
+    "job_links": [
+      "https://mlp.eightfold.ai/careers/job/755959591538"
+    ],
+    "source": "careers"
+  },
+  {
+    "company": "T. Rowe Price",
+    "roles": "Senior Portfolio Investment Analyst - Equity",
+    "reason": "The Senior Portfolio Investment Analyst - Equity role is a US-based portfolio investment/portfolio management position with no stated minimum experience over 3 years, while the other postings are non-target, accounting/managerial, or software engineering roles.",
+    "url": "https://troweprice.wd5.myworkdayjobs.com/en-US/TRowePrice",
+    "job_links": [
+      "https://troweprice.wd5.myworkdayjobs.com/en-US/TRowePrice/job/Baltimore-MD/Senior-Portfolio-Investment-Analyst---Equity_84338"
+    ],
+    "source": "careers"
+  },
+  {
+    "company": "William Blair",
+    "roles": "Associate I, PWM Capital Markets",
+    "reason": "The entry-level Associate I role is in PWM Capital Markets with fixed income, options, exchange funds, and direct indexing exposure, aligning with junior trading/portfolio-management functions in Chicago and no 3+ year experience requirement.",
+    "url": "https://job-boards.greenhouse.io/williamblair",
+    "job_links": [
+      "https://job-boards.greenhouse.io/embed/job_app?for=williamblair&token=5262706007"
+    ],
+    "source": "careers"
+  },
+  {
+    "company": "JPMorgan",
+    "roles": "Specialized Strategies Team, Portfolio Management and Research, Associate",
+    "reason": "Only the Associate-level Portfolio Management and Research role matches the candidate's target quantitative/portfolio function, with no disqualifying seniority, location, or stated experience issue.",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?siteNumber=CX_1001",
+    "job_links": [
+      "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806363"
+    ],
+    "source": "careers"
+  },
+  {
+    "company": "Goldman Sachs Asset Management",
+    "roles": "GBM - Public Dept-London-Associate-Matching, Shaping, Allocation",
+    "reason": "The London GBM Associate role appears to be a junior trading/execution-allocation role within the candidate's target functions, while the other postings are investment banking or a VP legal role and thus not relevant.",
+    "url": "https://api-higher.gs.com/gateway/api/v1/graphql",
+    "job_links": [
+      "https://higher.gs.com/roles/187890"
+    ],
+    "source": "careers"
+  },
+  {
+    "company": "Citi",
+    "roles": "Officer, Passive Currency Overlay Senior Analyst",
+    "reason": "One posting matches a junior portfolio-management/currency-overlay investment role, with no stated experience or location disqualifier.",
+    "url": "https://jobs.citi.com/search-jobs",
+    "job_links": [
+      "https://jobs.citi.com/job/kuala-lumpur/officer-passive-currency-overlay-senior-analyst/287/102841892560"
+    ],
+    "source": "careers"
+  },
+  {
+    "company": "Tempest Vane Partners",
+    "roles": "Quantitative Researcher",
+    "reason": "The role is a Quantitative Researcher in New York, NY with no stated minimum years of experience and no senior/management title, matching the candidate's target functions and location.",
+    "url": "https://www.linkedin.com/jobs/view/4487533181",
+    "source": "linkedin",
+    "location": "New York, NY"
+  },
+  {
+    "company": "Pangea",
+    "roles": "Natural Gas Trader",
+    "reason": "The JD seeks a 'junior or mid level trader with a physical gas background' in Houston or the Northeast, which is a commodities trading role with no stated experience minimum of 3+ years and is located in the US.",
+    "url": "https://www.linkedin.com/jobs/view/4487265963",
+    "source": "linkedin",
+    "location": "Houston, TX"
+  }
+]
