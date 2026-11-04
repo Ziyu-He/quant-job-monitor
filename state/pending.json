@@ -74,5 +74,31 @@
     "url": "https://www.linkedin.com/jobs/view/4487265963",
     "source": "linkedin",
     "location": "Houston, TX"
+  },
+  {
+    "company": "Goldman Sachs Asset Management",
+    "roles": "Global Banking & Markets - Public - Power Trading - Analyst - Houston",
+    "reason": "The posting is an entry-level Analyst role on a Power Trading desk in Houston, matching the candidate's target trading function and acceptable location.",
+    "url": "https://api-higher.gs.com/gateway/api/v1/graphql",
+    "job_links": [
+      "https://higher.gs.com/roles/188452"
+    ],
+    "source": "careers"
+  },
+  {
+    "company": "Flagstar Bank",
+    "roles": "Quantitative Financial Analyst II",
+    "reason": "The role requires only 1+ years of quantitative fixed income, programming, and financial modeling experience and involves quantitative modeling, risk measurement, and asset valuation as a Quantitative Financial Analyst II, matching the candidate's entry-level quantitative analyst target.",
+    "url": "https://www.linkedin.com/jobs/view/4486545370",
+    "source": "linkedin",
+    "location": "Home, MI"
+  },
+  {
+    "company": "Europa Recruitment",
+    "roles": "Junior Quant Trader – Agricultural Commodities",
+    "reason": "The role is a full-time Junior Quant Trader in Bladel, Netherlands, requiring a Master's degree and quantitative skills but no previous professional trading experience, which matches the candidate's entry-level quant/trading target and preferred Netherlands location.",
+    "url": "https://www.linkedin.com/jobs/view/4485539393",
+    "source": "linkedin",
+    "location": "North Brabant, Netherlands"
   }
 ]
