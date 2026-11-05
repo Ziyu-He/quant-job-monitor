@@ -1,0 +1,62 @@
+[
+  {
+    "company": "QRT (Qube Research & Technologies)",
+    "roles": "C++ Quantitative Developer - ETF Market Making",
+    "reason": "The C++ Quantitative Developer role is a relevant junior quantitative developer opportunity in London with no stated minimum experience exceeding the candidate's limit, while the Business Analyst Market Data Change role is not a target quant/trading/index/portfolio function.",
+    "url": "https://job-boards.greenhouse.io/quberesearchandtechnologies",
+    "job_links": [
+      "https://job-boards.greenhouse.io/embed/job_app?for=quberesearchandtechnologies&token=8931696002"
+    ],
+    "source": "careers"
+  },
+  {
+    "company": "Voya",
+    "roles": "Quantitative Research Analyst, I&G",
+    "reason": "The Quantitative Research Analyst role is a full-time quantitative-research position in San Diego with no stated experience minimum or seniority conflict, while all other postings are internships or non-quant benefits/legal/risk roles.",
+    "url": "https://godirect.wd5.myworkdayjobs.com/en-US/voya_jobs",
+    "job_links": [
+      "https://godirect.wd5.myworkdayjobs.com/en-US/voya_jobs/job/San-Diego-CA/Quantitative-Research-Analyst--I-G_JR0033336-1"
+    ],
+    "source": "careers"
+  },
+  {
+    "company": "Wellington Management",
+    "roles": "Investment Treasury Portfolio Analyst",
+    "reason": "The Investment Treasury Portfolio Analyst role is a full-time portfolio-analyst position in Boston with no stated experience barrier, while the Senior Systems Engineer is a systems/software-engineering role outside the candidate's target functions.",
+    "url": "https://wellington.wd5.myworkdayjobs.com/en-US/External",
+    "job_links": [
+      "https://wellington.wd5.myworkdayjobs.com/en-US/External/job/Boston-MA-United-States/Investment-Treasury-Portfolio-Analyst_R95096-1"
+    ],
+    "source": "careers"
+  },
+  {
+    "company": "Centrica Energy",
+    "roles": "Senior Portfolio Manager",
+    "reason": "The posting is for a Senior Portfolio Manager, which matches the targeted portfolio-management function, and it does not state an experience requirement of 3+ years or include a disqualifying senior-management title word.",
+    "url": "https://centrica.wd3.myworkdayjobs.com/en-US/Centrica",
+    "job_links": [
+      "https://centrica.wd3.myworkdayjobs.com/en-US/Centrica/job/Aalborg/Senior-Portfolio-Manager_R0084135-1"
+    ],
+    "source": "careers"
+  },
+  {
+    "company": "Allstate",
+    "roles": "Actuarial Quantitative Analysis Consultant II",
+    "reason": "The Actuarial Quantitative Analysis Consultant II role is a US-remote quantitative analysis function with no stated experience or seniority disqualifier, while all other postings are software engineering, non-quant, or outside target locations.",
+    "url": "https://allstate.wd5.myworkdayjobs.com/allstate_careers",
+    "job_links": [
+      "https://allstate.wd5.myworkdayjobs.com/en-US/allstate_careers/job/US---Remote/Actuarial-Quantitative-Analysis-Consultant-II_R36632"
+    ],
+    "source": "careers"
+  },
+  {
+    "company": "Deutsche Bank",
+    "roles": "Quantitative Trader",
+    "reason": "The only relevant posting is the New York Quantitative Trader role, which matches the candidate's target function, location, and entry-level criteria; the other postings fail location, internship, or role-type checks.",
+    "url": "https://api-deutschebank.beesite.de/search/",
+    "job_links": [
+      "https://db.wd3.myworkdayjobs.com/DBWebsite/job/New-York-1-Columbus-Circle/Quantitative-Trader_R0457997"
+    ],
+    "source": "careers"
+  }
+]
