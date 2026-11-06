@@ -68,5 +68,41 @@
     "url": "https://www.linkedin.com/jobs/view/4487301603",
     "source": "linkedin",
     "location": "London, England, United Kingdom"
+  },
+  {
+    "company": "Citi",
+    "roles": "Trader",
+    "reason": "Only the Trader posting matches the candidate's target trading role with no stated minimum experience above the allowed threshold.",
+    "url": "https://jobs.citi.com/search-jobs",
+    "job_links": [
+      "https://jobs.citi.com/job/new-york/trader/287/102953869504"
+    ],
+    "source": "careers"
+  },
+  {
+    "company": "Deutsche Bank",
+    "roles": "Quantitative Strategist",
+    "reason": "Quantitative Strategist in London is a full-time quant role with no stated experience barrier, matching the candidate’s target functions and location preferences.",
+    "url": "https://api-deutschebank.beesite.de/search/",
+    "job_links": [
+      "https://db.wd3.myworkdayjobs.com/DBWebsite/job/London-21-Moorfields/Quantitative-Strategist_R0430022"
+    ],
+    "source": "careers"
+  },
+  {
+    "company": "Valley Bank",
+    "roles": "Quantitative Model Analyst",
+    "reason": "The Quantitative Model Analyst role requires only one year of financial analysis, financial modeling, and statistical analysis experience, is located in Morristown, NJ, and involves quantitative model validation and statistical analysis.",
+    "url": "https://www.linkedin.com/jobs/view/4488427700",
+    "source": "linkedin",
+    "location": "Morristown, NJ"
+  },
+  {
+    "company": "Elektron",
+    "roles": "Quantitative Analyst",
+    "reason": "The role is a Quantitative Analyst in the United Kingdom with no stated minimum years of experience, requiring only 'A strong quantitative background' and hands-on model-building experience, which fits the candidate's entry-level quant profile and target location.",
+    "url": "https://www.linkedin.com/jobs/view/4488416734",
+    "source": "linkedin",
+    "location": "United Kingdom"
   }
 ]
