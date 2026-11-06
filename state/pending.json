@@ -1,0 +1,72 @@
+[
+  {
+    "company": "Credit Agricole CIB (CACIB)",
+    "roles": "Quantitative Analyst",
+    "reason": "Only [7] Quantitative Analyst matches the candidate's target quant roles and no disqualifying seniority, experience, internship, or location constraint is stated.",
+    "url": "https://jobs.ca-cib.com/homepage.aspx",
+    "job_links": [],
+    "source": "careers"
+  },
+  {
+    "company": "Tower Research Capital",
+    "roles": "Low Latency & Market Access Lead Researcher",
+    "reason": "The posting is a full-time Researcher role in New York with no stated experience minimum over 3 years, and its quantitative research focus fits the candidate's target functions.",
+    "url": "https://job-boards.greenhouse.io/towerresearchcapital",
+    "job_links": [
+      "https://job-boards.greenhouse.io/embed/job_app?for=towerresearchcapital&token=8359569"
+    ],
+    "source": "careers"
+  },
+  {
+    "company": "JPMorgan",
+    "roles": "Quantitative Trading & Research - EM Rates - Associate",
+    "reason": "The Quantitative Trading & Research - EM Rates - Associate role is a full-time quant/trading associate position in New York and matches the candidate's target functions and experience range, while the other postings are non-quant banking/asset-management roles.",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?siteNumber=CX_1001",
+    "job_links": [
+      "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210807588"
+    ],
+    "source": "careers"
+  },
+  {
+    "company": "CACIB (Credit Agricole CIB)",
+    "roles": "Quantitative Analyst",
+    "reason": "Quantitative Analyst is a target quant role with no stated seniority, experience, internship, or non-target location disqualifier.",
+    "url": "https://jobs.ca-cib.com",
+    "job_links": [],
+    "source": "careers"
+  },
+  {
+    "company": "Dimensional",
+    "roles": "Associate Portfolio Manager (Equity)",
+    "reason": "The posting is an entry-level/junior Associate Portfolio Manager (Equity) role with no stated experience requirement above 3 years and no disqualifying seniority, internship, location, or function issue.",
+    "url": "https://dimensional.wd5.myworkdayjobs.com/en-US/DFA_Careers",
+    "job_links": [
+      "https://dimensional.wd5.myworkdayjobs.com/en-US/DFA_Careers/job/Austin/Associate-Portfolio-Manager--Equity-_2026-8865"
+    ],
+    "source": "careers"
+  },
+  {
+    "company": "targetjobs UK",
+    "roles": "Quantitative Researcher",
+    "reason": "The posting is for 'Quantitative Researcher - PhD Graduate (Europe)' in London and describes developing/testing automated quant trading strategies, a wanted quantitative-research role with no stated experience requirement above new-grad level.",
+    "url": "https://www.linkedin.com/jobs/view/4486992736",
+    "source": "linkedin",
+    "location": "London, England, United Kingdom"
+  },
+  {
+    "company": "Funding Circle UK",
+    "roles": "Credit Strategy Analyst",
+    "reason": "The JD explicitly says 'Open to entry-level candidates and recent graduates' and describes credit strategy analytics using SQL/Python/R, making it an entry-level quantitative analyst role in credit risk.",
+    "url": "https://www.linkedin.com/jobs/view/4488400686",
+    "source": "linkedin",
+    "location": "London, England, United Kingdom"
+  },
+  {
+    "company": "Capital Group",
+    "roles": "Results Analyst",
+    "reason": "The role involves calculating and analyzing fund/account/manager investment results and preparing attribution analysis, which aligns with a quantitative analyst/investment analytics function, with no stated experience requirement above the entry-level threshold and a London location.",
+    "url": "https://www.linkedin.com/jobs/view/4487301603",
+    "source": "linkedin",
+    "location": "London, England, United Kingdom"
+  }
+]
