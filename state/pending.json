@@ -80,5 +80,29 @@
     "url": "https://www.linkedin.com/jobs/view/4487969002",
     "source": "linkedin",
     "location": "United States"
+  },
+  {
+    "company": "Referment",
+    "roles": "Quantitative Analyst",
+    "reason": "The role is a Quantitative Analyst in New York with no stated years requirement, explicitly suiting a recent graduate or early-career researcher for systematic trading research involving statistical models and trading strategies.",
+    "url": "https://www.linkedin.com/jobs/view/4489175727",
+    "source": "linkedin",
+    "location": "New York, NY"
+  },
+  {
+    "company": "TotalEnergies",
+    "roles": "Market Analyst - US Power",
+    "reason": "The role is a Houston-based full-time market/quantitative analyst position whose duties include 'Develop and maintain quantitative models to analyze U.S. power market fundamentals and price dynamics,' with no stated experience requirement exceeding the entry-level threshold.",
+    "url": "https://www.linkedin.com/jobs/view/4489164403",
+    "source": "linkedin",
+    "location": "Houston, TX"
+  },
+  {
+    "company": "Referment",
+    "roles": "Machine Learning Researcher",
+    "reason": "The JD is for a Machine Learning Researcher applying ML to 'quantitative research in systematic investing,' with no stated minimum years and a New York, NY location, matching an entry-level quantitative research role.",
+    "url": "https://www.linkedin.com/jobs/view/4489179684",
+    "source": "linkedin",
+    "location": "New York, NY"
   }
 ]
