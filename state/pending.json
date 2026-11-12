@@ -52,5 +52,33 @@
     "url": "https://www.linkedin.com/jobs/view/4488232898",
     "source": "linkedin",
     "location": "London Area, United Kingdom"
+  },
+  {
+    "company": "Millennium Management",
+    "roles": "Quantitative Developer",
+    "reason": "Quantitative Developer is a targeted quant role in New York and the posting states no experience requirement that would exclude an entry-level candidate.",
+    "url": "https://mlp.eightfold.ai/api/apply/v2/jobs?domain=mlp.com",
+    "job_links": [
+      "https://mlp.eightfold.ai/careers/job/755959724535"
+    ],
+    "source": "careers"
+  },
+  {
+    "company": "Societe Generale",
+    "roles": "USD Rates Trader",
+    "reason": "The posting is for a USD Rates Trader, which is a trading-desk role matching the candidate's target functions, with no title or stated experience requirement indicating exclusion.",
+    "url": "https://careers.societegenerale.com/en/Technical/all-job-offers",
+    "job_links": [
+      "https://careers.societegenerale.com/en/job-offers/usd-rates-trader-26000ME7-en"
+    ],
+    "source": "careers"
+  },
+  {
+    "company": "GM Financial",
+    "roles": "Risk Analyst - Portfolio Forecasting",
+    "reason": "The role requires 0–2 years and involves designing complex portfolio forecasting models using quantitative methods, data mining, and SAS/SQL, fitting the candidate’s entry-level quantitative analyst target in Fort Worth, TX.",
+    "url": "https://www.linkedin.com/jobs/view/4489044480",
+    "source": "linkedin",
+    "location": "Fort Worth, TX"
   }
 ]
